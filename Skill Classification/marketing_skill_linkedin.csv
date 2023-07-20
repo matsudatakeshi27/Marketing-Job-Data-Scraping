@@ -1,0 +1,698 @@
+skill_id,skill_name,skill_group,appearance_in_description,appearance_in_skill
+1,Coaching,Communication,38,3
+2,Communication,Communication,630,147
+4,Marketing,Strategy/Planning/Management,682,168
+5,Marketing Budget Management,Strategy/Planning/Management,0,3
+6,Marketing Communications,Communication,50,21
+8,Performance Marketing,Social Media/Digital,5,1
+9,Pivot Tables,Quantitative/Analytics,3,2
+10,Product Marketing,Content,35,13
+11,Brand Awareness,Brand,83,14
+13,Defining Requirements,Quantitative/Analytics,0,1
+14,Events,Strategy/Planning/Management,328,10
+15,Implementation Plans,Strategy/Planning/Management,2,2
+19,Team Training,Communication,2,2
+20,Teamwork,Communication,43,20
+22,Campaigns,Strategy/Planning/Management,335,67
+23,Event Marketing,Strategy/Planning/Management,18,6
+27,Marketing Campaigns,Strategy/Planning/Management,182,54
+30,Workable Solutions,Quantitative/Analytics,0,1
+32,Community Outreach,Communication,12,2
+33,Demos,Strategy/Planning/Management,11,1
+35,Guest Services,Sales,4,1
+36,Hosting Events,Strategy/Planning/Management,2,1
+38,Presentation Skills,Sales,39,8
+39,Retail Sales,Sales,16,3
+40,Sales,Sales,439,54
+44,Networking,Communication,40,3
+46,Public Speaking,Communication,17,3
+47,Relationship Building,Sales,17,12
+48,Sales and Marketing,Sales,75,27
+49,Social Media,Social Media/Digital,260,53
+50,Sports,Other,30,2
+51,Ad Serving,Content,3,11
+52,Digital Channels,Social Media/Digital,21,2
+53,Digital Engagement,Social Media/Digital,6,1
+54,Digital Marketing,Social Media/Digital,152,62
+55,Interpersonal Communication,Communication,14,8
+58,Multi-Channel Marketing,Strategy/Planning/Management,1,1
+59,Omni-Channel Marketing,Strategy/Planning/Management,6,2
+60,Strategic Communications,Communication,0,10
+61,Bulk SMS,Sales,0,1
+62,Consumer Packaged Goods (CPG),Brand,2,1
+63,Google Ads,Social Media/Digital,16,6
+64,Mobile Marketing,Social Media/Digital,1,1
+65,Paid Media Advertising,Social Media/Digital,0,3
+66,Paid Media Strategy,Strategy/Planning/Management,0,1
+67,Paid Social Media Advertising,Social Media/Digital,1,2
+68,Search Engine Marketing (SEM),Social Media/Digital,2,3
+69,Search Engine Optimization (SEO),Quantitative/Analytics,6,19
+70,Tiktok Marketing,Social Media/Digital,0,1
+71,A/B Testing,Quantitative/Analytics,21,4
+74,Facebook Ads,Social Media/Digital,6,2
+75,Facebook Ads Manager,Social Media/Digital,2,1
+77,Key Performance Indicators,Other,8,4
+78,LinkedIn Advertising,Social Media/Digital,0,1
+79,Optimization Techniques,Quantitative/Analytics,2,1
+80,Remarketing,Strategy/Planning/Management,4,1
+81,Administration,Strategy/Planning/Management,79,16
+83,Organization Skills,Strategy/Planning/Management,12,47
+84,Presentations,Communication,145,28
+85,Sales Analysis,Quantitative/Analytics,1,1
+86,Sales Strategy,Strategy/Planning/Management,7,5
+87,Sales Trainings,Communication,0,1
+89,Salesforce.com,Quantitative/Analytics,3,3
+90,Sensitive Information,Other,7,2
+91,Collateral,Other,101,12
+93,Event Planning,Strategy/Planning/Management,28,7
+94,Graphic Design,Graphic Design/Visual,79,11
+97,Research Skills,Quantitative/Analytics,7,5
+99,Social Media Marketing,Social Media/Digital,23,26
+104,Marketing Strategy,Strategy/Planning/Management,58,26
+105,Negotiation,Sales,25,13
+107,Press Releases,Communication,27,12
+111,Adobe Creative Cloud,Graphic Design/Visual,15,2
+112,Adobe Photoshop,Graphic Design/Visual,5,2
+113,Attention to Detail,Other,185,22
+116,Content Strategy,Content,11,3
+118,Local Advertising,Sales,1,1
+119,Public Relations,Communication,84,30
+120,Special Assignments,Other,4,1
+122,Customer Service,Sales,175,23
+123,Customer Support,Sales,27,4
+124,English,Other,51,2
+125,Leadership,Communication,207,19
+131,Advertising,Sales,171,22
+133,Easily Adaptable,Other,0,2
+135,Marketing Agencies,Brand,2,1
+136,Multiple Project Coordination,Strategy/Planning/Management,0,1
+137,Multitasking,Other,22,6
+138,Time Management,Other,99,8
+142,Image Editing,Graphic Design/Visual,1,2
+145,Photography,Graphic Design/Visual,34,6
+146,Problem Solving,Quantitative/Analytics,30,28
+148,Styling,Graphic Design/Visual,6,3
+150,Marketing Management,Strategy/Planning/Management,5,7
+152,Consumer Relations,Sales,6,1
+153,Customer Experience,Graphic Design/Visual,45,5
+155,Direct Marketing,Sales,20,4
+159,Retail Marketing,Strategy/Planning/Management,9,1
+162,Business-to-Business (B2B),Other,2,7
+163,Field Marketing,Strategy/Planning/Management,18,3
+164,Go-to-Market Strategy,Strategy/Planning/Management,9,4
+165,Marketing Analytics,Quantitative/Analytics,8,22
+169,Product Launch,Brand,25,3
+170,Product Lines,Brand,25,1
+174,Communication Training,Communication,1,11
+175,Handle Multiple Projects,Strategy/Planning/Management,6,1
+178,Marketing Materials,Content,100,23
+181,Web Content Writing,Content,0,9
+182,Athletics,Other,1,1
+184,Fitness,Other,17,1
+185,Interpersonal Skills,Communication,104,20
+186,Moodle,Social Media/Digital,1,1
+188,Sports Coaching,Other,0,1
+189,Sports Management,Other,3,1
+190,Teaching,Communication,7,1
+193,Copywriting,Brand,26,10
+194,Itineraries,Strategy/Planning/Management,9,1
+195,Market Analysis,Quantitative/Analytics,4,3
+197,Marketing Presentations,Sales,5,1
+198,Proofreading,Content,37,9
+199,Social Media Content Creation,Content,3,4
+200,Training Videos,Graphic Design/Visual,1,1
+201,Active Listening,Other,10,1
+202,Analytical Skills,Quantitative/Analytics,72,22
+203,Automobile Liability,Other,0,1
+204,Census,Other,16,2
+206,Federal Regulations,Other,6,1
+207,Home Care,Other,1,1
+210,Licensing,Other,5,1
+213,Competitive Analysis,Quantitative/Analytics,11,6
+214,Cross-functional Team Leadership,Communication,0,4
+216,Launches,Brand,32,1
+223,Business Relationship Management,Strategy/Planning/Management,0,4
+226,Market Research,Quantitative/Analytics,100,24
+229,Search Engines,Social Media/Digital,4,2
+230,User Interface Design,Graphic Design/Visual,0,1
+234,Content Management,Content,37,9
+235,Management Systems,Strategy/Planning/Management,28,2
+239,Oral Communication,Communication,15,15
+241,Branding,Brand,78,6
+244,Graphic Design Software,Graphic Design/Visual,11,4
+245,Indirect Purchasing,Sales,0,2
+248,Primary Market,Sales,2,2
+270,Written Communication,Content,85,15
+271,Blogging,Content,1,3
+274,Content Management Systems (CMS),Social Media/Digital,3,1
+275,Event Coordination,Strategy/Planning/Management,12,3
+277,Marketing Campaign Management,Strategy/Planning/Management,1,2
+280,WordPress,Social Media/Digital,35,1
+283,Loyalty Marketing,Strategy/Planning/Management,1,1
+284,Loyalty Programs,Strategy/Planning/Management,3,1
+287,Online Ordering,Social Media/Digital,2,1
+289,Reputation Management,Brand,4,2
+290,Yext,Social Media/Digital,2,1
+293,Cyber Risk Management,Social Media/Digital,1,1
+294,Data Cleaning,Quantitative/Analytics,0,1
+295,Data Entry,Quantitative/Analytics,22,6
+296,Data Integrity,Quantitative/Analytics,6,1
+297,Deduplication,Quantitative/Analytics,1,1
+298,Maturity Assessments,Quantitative/Analytics,1,1
+299,Online Data Entry,Quantitative/Analytics,0,3
+301,Attendee Registration,Strategy/Planning/Management,0,1
+302,Event Management,Strategy/Planning/Management,5,3
+305,Klaviyo,Social Media/Digital,4,1
+309,Marketing Programs,Strategy/Planning/Management,43,3
+310,SAP Controlling (CO),Social Media/Digital,0,1
+314,Email Marketing,Sales,77,18
+319,Social Media Graphic Design,Graphic Design/Visual,0,1
+320,Social Media Optimization (SMO),Social Media/Digital,0,5
+326,Market Planning,Strategy/Planning/Management,2,9
+327,Office Administration,Strategy/Planning/Management,3,4
+331,Client Presentation,Sales,2,1
+332,Client Rapport,Communication,1,1
+333,Customer Satisfaction,Sales,20,8
+336,Marketing Automation,Social Media/Digital,38,5
+339,Stressful Situations,Other,9,2
+340,Website Project Management,Strategy/Planning/Management,1,1
+341,Computer Science,Quantitative/Analytics,5,1
+342,Data Analytics,Quantitative/Analytics,13,4
+343,Data Science,Quantitative/Analytics,3,2
+344,Data Visualization,Graphic Design/Visual,2,1
+346,Google BigQuery,Quantitative/Analytics,0,1
+347,Key Metrics,Quantitative/Analytics,13,4
+349,Statistical Modeling,Quantitative/Analytics,0,1
+350,Statistics,Quantitative/Analytics,15,1
+352,Computer Literacy,Quantitative/Analytics,5,11
+353,External Communications,Communication,15,4
+357,Critical Thinking,Strategy/Planning/Management,19,6
+358,Digital Imaging,Graphic Design/Visual,0,1
+361,Microsoft Outlook,Communication,3,3
+362,Microsoft Teams,Communication,5,1
+363,Newsletters,Content,68,6
+364,Print Production,Content,3,1
+370,Eloqua,Social Media/Digital,2,1
+371,Hockey,Other,2,1
+379,Direct Sales,Sales,9,5
+380,Retail,Sales,97,5
+383,Team Leadership,Strategy/Planning/Management,10,6
+384,Team Management,Strategy/Planning/Management,7,2
+386,Canva,Graphic Design/Visual,26,1
+389,Facebook,Social Media/Digital,64,3
+390,Instagram,Social Media/Digital,54,3
+395,Snapchat,Social Media/Digital,0,1
+398,Service Work,Other,1,1
+399,Adobe Experience Manager (AEM),Content,1,1
+400,Content Delivery,Content,3,2
+401,Digital Content,Content,13,2
+406,Marketing Consulting,Strategy/Planning/Management,0,1
+408,Web Content Production,Content,0,1
+411,Digital Marketing Communications,Social Media/Digital,0,1
+412,Digital Media,Social Media/Digital,25,1
+414,Media Relations,Communication,13,2
+418,Video Production,Graphic Design/Visual,13,2
+419,Business Communications,Communication,6,2
+420,Campaign Strategies,Strategy/Planning/Management,8,1
+426,Positioning (Marketing),Strategy/Planning/Management,0,2
+428,Tenacious Work Ethic,Other,0,1
+429,Client Relations,Communication,21,6
+431,Emerging Trends,Quantitative/Analytics,6,2
+432,Google Tag Manager,Social Media/Digital,3,1
+433,Photocopiers,Other,1,1
+434,Scanning Electron Microscopy (SEM),Other,0,1
+438,Website Administration,Social Media/Digital,1,2
+440,Business Requirements,Other,4,1
+443,Digital Marketing Channels,Social Media/Digital,7,2
+447,Member Relations,Communication,2,1
+448,Microsoft PowerPoint,Communication,2,4
+454,Product Knowledge,Brand,27,6
+455,Promotional Marketing,Sales,9,2
+458,Skilled Multi-tasker,Other,0,10
+459,Account Reconciliation,Social Media/Digital,2,1
+460,Accounts Payable (AP),Other,0,1
+461,Accounts Receivable (AR),Other,0,1
+464,File Systems,Strategy/Planning/Management,0,2
+465,Microsoft Publisher,Social Media/Digital,0,1
+467,Payroll Administration,Other,0,2
+468,Phone Etiquette,Communication,2,8
+478,Vendor Contracts,Strategy/Planning/Management,2,1
+480,Business Planning,Strategy/Planning/Management,1,3
+482,Lead Generation,Strategy/Planning/Management,58,15
+491,Community Engagement,Communication,12,3
+499,Business Development,Brand,57,3
+514,Proposal Coordination,Strategy/Planning/Management,0,1
+515,Proposal Management,Strategy/Planning/Management,0,1
+516,Proposal Production,Strategy/Planning/Management,3,2
+517,Proposal Support,Strategy/Planning/Management,0,1
+518,Writing,Content,153,30
+532,Customer Relations,Communication,32,6
+553,Media Marketing,Social Media/Digital,26,27
+554,Microsoft 365,Quantitative/Analytics,0,1
+559,Administrative Assistance,Strategy/Planning/Management,1,10
+561,Back-End Web Development,Quantitative/Analytics,0,1
+564,Editing,Content,90,10
+565,HTML,Quantitative/Analytics,36,3
+566,Magento,Social Media/Digital,3,1
+567,MailChimp,Social Media/Digital,10,1
+571,Email Analytics,Quantitative/Analytics,0,2
+572,Email Lists,Social Media/Digital,6,2
+574,HTML Emails,Quantitative/Analytics,1,1
+578,Shopify,Social Media/Digital,7,2
+589,Compensation,Other,165,3
+590,Compensation & Benefits,Other,6,1
+592,Google Analytics,Quantitative/Analytics,75,7
+597,Targeted Messaging,Communication,3,1
+598,Web Analytics,Quantitative/Analytics,11,6
+604,Project Implementation,Strategy/Planning/Management,2,1
+606,Request for Proposal (RFP),Strategy/Planning/Management,0,1
+607,Unanet,Social Media/Digital,1,1
+614,Office Equipment,Other,34,3
+615,Sales Operations,Sales,8,5
+618,Spreadsheets,Quantitative/Analytics,21,6
+620,Coordinating Activities,Strategy/Planning/Management,12,3
+621,Exhibitions,Strategy/Planning/Management,7,1
+622,Key Opinion Leaders,Strategy/Planning/Management,3,1
+626,Marketing Documents,Content,3,1
+628,Strategic Marketing,Strategy/Planning/Management,10,4
+639,Account Management,Strategy/Planning/Management,23,6
+644,Sales Management,Sales,2,1
+646,Sales Processes,Sales,2,4
+652,Market Requirements Documents,Strategy/Planning/Management,0,1
+657,Product Management,Strategy/Planning/Management,19,2
+661,Development & implementation of marketing plans,Strategy/Planning/Management,0,1
+662,Market Intelligence,Sales,3,1
+666,New Hires,Other,7,2
+669,Client Correspondence,Communication,1,2
+683,Product Demonstration,Strategy/Planning/Management,11,6
+690,Customer Engagement,Communication,25,5
+691,Customer Relationship Management (CRM),Social Media/Digital,11,5
+693,Customer Satisfaction (CSAT),Sales,0,1
+700,Business Administration,Strategy/Planning/Management,37,1
+701,Content Marketing,Content,34,6
+703,Creative Writing,Content,5,2
+706,Marketing Copy,Content,5,2
+707,Narrative,Content,10,1
+711,Customer Communication,Communication,6,1
+713,Free Thinking,Content,0,1
+716,Project Management,Strategy/Planning/Management,128,9
+718,Subject Matter Experts,Brand,12,4
+719,Analytics,Quantitative/Analytics,162,37
+720,Business Strategy,Strategy/Planning/Management,3,1
+728,Sales Execution,Sales,1,1
+729,Advertising Project Management,Strategy/Planning/Management,1,1
+730,Content Creation,Content,43,10
+733,Messaging,Content,100,4
+734,Paid Social Media,Social Media/Digital,3,4
+736,Performance Measurement,Strategy/Planning/Management,2,2
+738,Social Media Advertising,Social Media/Digital,10,2
+739,Adobe Creative Suite,Graphic Design/Visual,51,2
+740,Adobe Illustrator,Graphic Design/Visual,5,1
+741,Adobe InDesign,Graphic Design/Visual,14,2
+742,Brand Design,Graphic Design/Visual,0,1
+744,Fine Art,Graphic Design/Visual,0,1
+746,Graphics,Graphic Design/Visual,61,3
+747,Internal Marketing,Strategy/Planning/Management,7,1
+752,Commercial Awareness,Brand,5,1
+764,Marketing Metrics,Quantitative/Analytics,3,1
+766,Networking Events,Communication,5,2
+767,Pay Per Click (PPC),Other,0,2
+768,Product Branding,Brand,1,1
+770,Data-driven Marketing,Quantitative/Analytics,3,1
+775,Media Management,Social Media/Digital,27,4
+777,Social Media Management,Social Media/Digital,26,4
+781,Business Insights,Quantitative/Analytics,0,2
+782,Customer Data,Quantitative/Analytics,11,2
+783,Customer Insight,Quantitative/Analytics,14,1
+784,Data Mining,Quantitative/Analytics,1,1
+788,Pattern Recognition,Quantitative/Analytics,0,1
+789,Customer Acquisition,Sales,36,2
+792,Face-to-face Marketing,Sales,7,1
+793,Hospitality Industry,Brand,1,1
+798,Training,Communication,304,19
+804,Occupancy,Other,12,1
+809,Admissions,Sales,25,1
+811,Community Leadership,Strategy/Planning/Management,1,1
+812,Discharge Planning,Strategy/Planning/Management,1,1
+813,Insurance Policies,Brand,0,1
+814,Insurance Verification,Strategy/Planning/Management,3,1
+815,Pre-certification,Other,1,1
+816,Project Planning,Strategy/Planning/Management,5,2
+817,Sales Meetings,Sales,10,2
+818,Sales Metrics,Sales,1,1
+821,Direct Response Marketing,Sales,1,1
+827,Promotional Videos,Graphic Design/Visual,1,1
+831,Content Development,Content,11,2
+834,Marketing Operations,Strategy/Planning/Management,14,1
+835,Online Reputation Management,Brand,1,1
+836,Operations Processes,Strategy/Planning/Management,1,1
+839,Award Applications,Other,1,1
+842,Email Distribution,Communication,3,1
+843,Media Distribution,Strategy/Planning/Management,1,1
+848,Sales Presentations,Sales,6,4
+851,Creativity and Innovation,Content,3,3
+863,Mathematics,Quantitative/Analytics,2,1
+864,Open Platform Communication (OPC),Communication,0,2
+868,Tour Production,Brand,1,1
+873,Management,Strategy/Planning/Management,517,73
+876,Product Development,Strategy/Planning/Management,20,1
+877,Social Media Communications,Communication,1,1
+880,Digital Marketing Content,Content,8,1
+883,Microsoft Excel,Quantitative/Analytics,15,4
+884,Microsoft Office,Quantitative/Analytics,158,10
+886,Reporting,Quantitative/Analytics,138,5
+889,CAN-SPAM,Other,5,1
+892,E-Commerce,Social Media/Digital,14,3
+898,Test Automation Tools,Quantitative/Analytics,0,1
+899,Ad Hoc Reporting,Quantitative/Analytics,3,1
+916,Story,Social Media/Digital,95,1
+918,YouTube,Social Media/Digital,27,1
+920,Expense Reports,Quantitative/Analytics,14,2
+921,Expenses,Strategy/Planning/Management,27,1
+922,Lead Qualification,Strategy/Planning/Management,0,2
+926,Project Initiation,Strategy/Planning/Management,1,1
+933,Graphic Arts,Graphic Design/Visual,1,2
+934,Social Services,Sales,4,1
+944,Strategic Thinking,Quantitative/Analytics,10,5
+947,Grammar,Content,28,2
+948,Keyword Research,Quantitative/Analytics,7,3
+950,Punctuation,Content,11,1
+953,Taglines,Social Media/Digital,2,1
+956,Client Services,Sales,12,1
+959,Face-to-Face Sales,Sales,1,1
+961,Knowledge Acquisition,Quantitative/Analytics,0,1
+962,Microsoft Dynamics,Quantitative/Analytics,2,1
+973,Relationship Development,Strategy/Planning/Management,2,3
+980,Internal Communications,Communication,29,9
+982,Journalism,Content,31,1
+992,Marketing Event Planning,Strategy/Planning/Management,0,1
+995,Qualifying Candidates,Other,1,1
+997,Alumni Relations,Communication,3,1
+998,Benchmarking,Quantitative/Analytics,4,1
+1000,Health Assessment,Other,1,1
+1001,Media Planning,Strategy/Planning/Management,6,1
+1002,Paid Advertising,Social Media/Digital,11,1
+1005,Student Recruiting,Sales,0,2
+1006,Audience Measurement,Quantitative/Analytics,0,1
+1017,Electronic Resources,Other,2,1
+1019,Library Reference,Content,0,1
+1020,Library Science,Content,2,1
+1021,Library Services,Communication,2,1
+1022,Metadata,Quantitative/Analytics,2,1
+1024,Public Libraries,Content,2,1
+1027,Community Relations,Communication,9,1
+1028,Market Assessments,Quantitative/Analytics,1,1
+1032,SNF,Other,3,1
+1040,Digital Literacy,Social Media/Digital,6,1
+1041,Etiquette,Communication,6,8
+1055,Solid Professional Standards,Other,0,2
+1057,Calendars,Other,50,7
+1058,Digital Communication,Communication,24,5
+1062,Marketing Leadership,Strategy/Planning/Management,20,5
+1064,Web Conferencing,Social Media/Digital,0,5
+1107,Customer Retention,Sales,15,1
+1110,New Leads,Strategy/Planning/Management,6,1
+1121,Timeshare,Other,1,1
+1124,Brand Management,Strategy/Planning/Management,15,3
+1154,Creativity Skills,Content,2,2
+1162,Decisiveness,Other,5,1
+1163,Delegation,Other,6,3
+1164,Financing,Other,7,1
+1169,Project Teams,Communication,3,1
+1173,Hootsuite,Social Media/Digital,30,1
+1188,Media Engagement,Social Media/Digital,7,1
+1191,Video Editing,Graphic Design/Visual,14,1
+1202,Adobe Acrobat,Graphic Design/Visual,3,1
+1206,OE,Other,111,1
+1207,OneNote,Other,2,1
+1208,Open Enrollment,Other,3,1
+1211,Timelines,Strategy/Planning/Management,45,2
+1214,Headshot Photography,Graphic Design/Visual,0,1
+1218,Podcasting,Content,0,1
+1222,Cold Calling,Sales,4,1
+1225,Contact Centers,Communication,0,2
+1228,Quotations,Content,1,1
+1229,Resolving Issues,Quantitative/Analytics,1,1
+1230,Summits,Sales,3,1
+1240,Quality Assurance,Quantitative/Analytics,6,1
+1245,Deadline Oriented,Other,1,1
+1253,Property and Casualty Insurance,Other,0,1
+1256,Travel,Other,177,3
+1269,Executing Events,Strategy/Planning/Management,0,2
+1294,Performance Metrics,Quantitative/Analytics,30,2
+1308,Cross-Selling,Strategy/Planning/Management,4,1
+1311,Decision-Making,Strategy/Planning/Management,22,1
+1313,Placing Orders,Communication,1,1
+1316,Upselling,Strategy/Planning/Management,4,1
+1319,Brand Strategy,Brand,7,2
+1327,End User Research,Other,1,1
+1328,Extreme Programming,Quantitative/Analytics,1,1
+1329,Pair Programming,Quantitative/Analytics,0,1
+1331,Product Strategy,Strategy/Planning/Management,4,1
+1332,Software Deployment,Quantitative/Analytics,0,1
+1333,Test-Driven Development,Quantitative/Analytics,0,1
+1334,User Stories,Social Media/Digital,2,1
+1335,Windows XP,Other,0,1
+1336,Workload Prioritization,Other,0,1
+1344,Market Segmentation,Quantitative/Analytics,0,1
+1351,Press Coverage,Content,4,1
+1362,User Experience (UX),Graphic Design/Visual,1,1
+1366,External Relations,Communication,5,1
+1367,General Administration,Strategy/Planning/Management,1,3
+1368,International Relations,Strategy/Planning/Management,1,2
+1379,Pinterest,Social Media/Digital,10,1
+1380,Social Listening,Communication,4,1
+1396,Public Law,Other,10,3
+1397,Support Services,Communication,6,1
+1398,Adjudication,Other,9,2
+1399,Environmental Impact Assessment,Other,0,1
+1400,Fair Housing,Other,6,1
+1401,Fingerprinting,Other,0,1
+1402,Loan Closing,Sales,5,1
+1404,OPM,Other,411,21
+1406,Questionnaires,Content,5,1
+1407,Site Inspections,Strategy/Planning/Management,6,1
+1409,Fundraising,Strategy/Planning/Management,11,4
+1410,Grant Proposals,Strategy/Planning/Management,1,1
+1413,Partnerships,Strategy/Planning/Management,47,1
+1414,Personnel Management,Strategy/Planning/Management,8,1
+1416,Transcripts,Content,4,1
+1417,Tribal Government,Other,1,1
+1418,Capacity Development,Strategy/Planning/Management,6,1
+1419,Consultation,Strategy/Planning/Management,8,1
+1424,Project Coordination,Strategy/Planning/Management,3,2
+1426,Project Plans,Strategy/Planning/Management,10,1
+1427,Resource Allocation,Strategy/Planning/Management,3,1
+1428,Accounts Payable & Receivable,Strategy/Planning/Management,0,1
+1430,Automobiles,Other,0,1
+1431,Automotive,Other,7,1
+1433,Finance,Quantitative/Analytics,51,1
+1435,Payroll Processing,Other,0,1
+1436,Target Costing,Other,0,1
+1437,Xero,Social Media/Digital,0,1
+1440,Confidentiality,Other,19,7
+1442,Databases,Quantitative/Analytics,55,3
+1443,Google Sheets,Quantitative/Analytics,4,1
+1452,Data Privacy,Quantitative/Analytics,3,1
+1453,Database Systems,Quantitative/Analytics,2,1
+1457,Virtual Assistance,Communication,0,1
+1458,Customer-Focused Service,Sales,0,1
+1459,Inspiration,Other,4,1
+1460,Merchandising,Sales,29,3
+1463,Visual Direction,Graphic Design/Visual,1,1
+1464,Visual Merchandising,Graphic Design/Visual,11,2
+1465,Wardrobe,Other,1,2
+1466,Window,Other,20,2
+1467,Window Displays,Other,1,1
+1470,Appointment Scheduling,Strategy/Planning/Management,1,1
+1473,Correspondences,Other,0,1
+1479,Calendaring,Other,2,1
+1480,Courts,Other,0,1
+1481,Depositions,Other,1,1
+1482,Federal Courts,Other,0,1
+1483,Legal Assistance,Other,0,1
+1484,Legal Document Preparation,Other,0,1
+1486,Record Maintenance,Other,0,1
+1487,Travel Arrangements,Strategy/Planning/Management,4,2
+1493,Database Administration,Quantitative/Analytics,0,1
+1496,Laptops,Other,0,2
+1499,Computer Competency,Quantitative/Analytics,0,1
+1500,Human Resources (HR),Communication,0,4
+1501,Interviewing,Communication,19,1
+1503,Onboarding,Communication,18,1
+1504,Recruiting,Other,43,3
+1505,Sourcing,Content,11,1
+1506,Talent Management,Strategy/Planning/Management,2,1
+1526,Tracking Systems,Strategy/Planning/Management,1,1
+1535,Quote,Content,26,1
+1541,Internet Access,Other,0,1
+1545,Spelling,Content,14,1
+1552,Front Office Operations,Strategy/Planning/Management,0,1
+1553,Office Operations,Strategy/Planning/Management,1,1
+1556,Team Motivation,Communication,0,3
+1557,U.S. Health Insurance Portability and Accountability Act (HI…,Other,0,1
+1560,Key Accounts,Other,3,2
+1563,Portals,Social Media/Digital,1,1
+1568,Advertising Operations,Strategy/Planning/Management,0,1
+1570,Digital Campaigns,Strategy/Planning/Management,14,1
+1572,From Conception to Completion,Strategy/Planning/Management,0,1
+1574,Mobile Messaging,Communication,0,1
+1596,Spanish,Other,15,1
+1601,Dermatology,Other,1,1
+1602,Functionality,Other,13,1
+1606,Receptionist Duties,Communication,0,1
+1607,Typing,Other,21,1
+1610,Data Reporting,Quantitative/Analytics,3,1
+1615,Lists,Quantitative/Analytics,69,3
+1617,SMS,Communication,19,2
+1619,Employee Engagement,Communication,6,1
+1624,Personnel Files,Strategy/Planning/Management,0,1
+1625,Service Orientation (Social),Communication,0,1
+1628,Annual Giving,Other,0,1
+1629,Capital Campaign Management,Strategy/Planning/Management,0,1
+1630,Cultivation,Other,2,1
+1632,Keyboards,Other,0,1
+1633,Major Gift Development,Other,0,1
+1634,Nonprofit Organizations,Other,2,1
+1636,Planned Giving,Strategy/Planning/Management,0,1
+1637,Stewardship,Other,3,1
+1643,Customer Service Management,Strategy/Planning/Management,0,1
+1646,Purchase Orders,Other,11,1
+1648,Customer Interaction,Sales,12,2
+1650,Product Presentation,Communication,2,1
+1654,Brand Communication,Brand,2,1
+1655,Concept Art,Graphic Design/Visual,0,1
+1672,Geographic Information Systems (GIS),Quantitative/Analytics,0,1
+1674,Land Acquisition,Sales,1,1
+1676,Real Estate,Other,16,1
+1678,Residential Construction,Other,1,1
+1679,Self-Management,Other,1,1
+1682,Corporate Social Media,Brand,2,1
+1686,Lifecycle Services (LCS),Other,0,1
+1690,Code of Conduct,Other,5,1
+1691,Employee Relations,Communication,4,1
+1692,HR Management,Communication,0,1
+1693,HR Policies,Strategy/Planning/Management,0,1
+1695,Meeting Commitments,Other,2,1
+1696,Policies & Procedures,Other,1,1
+1697,Position Papers,Content,1,1
+1698,Public Administration,Strategy/Planning/Management,4,1
+1699,Resource Management,Strategy/Planning/Management,1,1
+1700,Artist Management,Strategy/Planning/Management,1,1
+1702,Constructive Feedback,Communication,7,2
+1704,Digital Strategy,Social Media/Digital,7,1
+1713,Contract Documentation,Other,1,1
+1723,Creative Services,Graphic Design/Visual,3,1
+1726,Microsoft Word,Other,18,1
+1728,Thinking Skills,Content,13,2
+1736,Cameras,Graphic Design/Visual,2,1
+1738,Digital Cameras,Graphic Design/Visual,0,1
+1739,Digital Photography,Graphic Design/Visual,0,1
+1740,Event Photography,Graphic Design/Visual,1,1
+1742,Lighting,Graphic Design/Visual,8,1
+1753,Strategic Initiatives,Strategy/Planning/Management,12,1
+1754,Visual Communication,Graphic Design/Visual,5,1
+1760,Internal and External Communications,Communication,9,1
+1766,Case Studies,Quantitative/Analytics,18,1
+1769,Engaging Content,Content,25,1
+1770,New Concepts,Content,5,1
+1773,Strategy Consulting,Strategy/Planning/Management,3,1
+1806,Community Management,Strategy/Planning/Management,8,2
+1810,Media Strategy,Strategy/Planning/Management,20,2
+1811,Media Trends,Social Media/Digital,8,1
+1812,Social Media Analytics,Quantitative/Analytics,7,2
+1814,Social Media Strategy,Strategy/Planning/Management,15,1
+1815,Biography,Content,1,1
+1825,Allocations,Strategy/Planning/Management,1,1
+1826,Budget Management,Strategy/Planning/Management,7,4
+1827,Conference Presentations,Communication,1,1
+1829,Digital Asset Management,Strategy/Planning/Management,2,1
+1834,Web Content,Content,21,11
+1840,Performance Reviews,Quantitative/Analytics,6,1
+1846,Brand Loyalty,Brand,7,1
+1852,Sales Campaigns,Strategy/Planning/Management,8,1
+1858,Confidant,Other,3,3
+1868,Distillation,Other,1,1
+1869,Editorial Calendars,Other,3,1
+1896,Budgeting & Forecasting,Quantitative/Analytics,0,2
+1897,Campaign Execution,Strategy/Planning/Management,6,2
+1916,Catering Sales,Sales,1,1
+1918,Driving Results,Other,5,1
+1924,Vendor Relations,Communication,5,1
+1930,Design Programs,Strategy/Planning/Management,2,1
+1933,Sedona,Other,0,1
+1939,Content Scheduling,Strategy/Planning/Management,5,1
+1944,Target Audience,Strategy/Planning/Management,64,1
+1945,Apparel,Other,9,1
+1947,Concourse CI,Other,0,1
+1949,Corporate Gifts,Other,0,1
+1950,Engagement Marketing,Sales,3,1
+1959,D2C,Other,1,1
+1977,Brand Marketing,Brand,16,1
+1984,Solution-oriented,Quantitative/Analytics,5,1
+1985,Business Reviews,Quantitative/Analytics,4,1
+1991,Marketing Activation,Strategy/Planning/Management,3,1
+1994,Sell Sheets,Sales,1,1
+2005,Dolls,Other,1,1
+2006,Editorial,Content,22,2
+2007,Fashion,Graphic Design/Visual,19,1
+2008,Fashion Consulting,Graphic Design/Visual,0,1
+2009,Fashion Styling,Graphic Design/Visual,0,1
+2010,Look Books,Graphic Design/Visual,1,1
+2013,Stylists,Graphic Design/Visual,2,1
+2023,Geotechnical Engineering,Quantitative/Analytics,0,1
+2029,Brand Activation,Brand,1,2
+2032,Community Building,Communication,6,2
+2034,Grassroots Marketing,Strategy/Planning/Management,3,2
+2035,Grassroots Organizing,Strategy/Planning/Management,0,2
+2037,Personal Responsibility,Other,3,2
+2038,Seeding,Strategy/Planning/Management,3,2
+2049,Financial Reporting,Quantitative/Analytics,3,1
+2050,Google Workspace,Quantitative/Analytics,3,1
+2052,Manufacturing Processes,Other,2,1
+2054,Performance Reporting,Quantitative/Analytics,3,1
+2055,Pre-production,Other,2,1
+2056,Quantitative Analytics,Quantitative/Analytics,0,1
+2057,Retail Math,Quantitative/Analytics,1,1
+2058,Sample Development,Strategy/Planning/Management,1,1
+2060,Arena Simulation Software,Quantitative/Analytics,0,1
+2063,Counseling,Communication,7,1
+2064,Microsoft SQL Server,Quantitative/Analytics,0,1
+2065,Return to Work Programs,Other,1,1
+2066,Service Levels,Other,1,1
+2067,Service-Level Agreements (SLA),Other,0,1
+2069,Audio Recording,Graphic Design/Visual,0,1
+2070,Camtasia,Graphic Design/Visual,1,1
+2074,Editing Software,Graphic Design/Visual,3,1
+2077,Tutorials,Communication,2,1
+2088,Sales Promotion,Sales,7,2
+2090,Accounting,Quantitative/Analytics,37,1
+2091,Budgeting,Quantitative/Analytics,17,4
+2092,Build Strong Relationships,Communication,10,1
+2093,Building Performance,Strategy/Planning/Management,0,1
+2094,Concept Development,Strategy/Planning/Management,2,1
+2099,Client Liaison,Communication,0,1
+2104,Recognition Programs,Other,8,1
+2107,Training Management,Strategy/Planning/Management,0,1
+2119,Anti-Money Laundering,Other,1,1
+2121,Evasion,Other,1,1
+2122,KYC Verification,Other,0,1
+2136,Client Accounts,Communication,8,1
+2139,Market Share,Quantitative/Analytics,21,1
+2141,Partner Relationship Management,Strategy/Planning/Management,0,1
+2144,Business Management,Strategy/Planning/Management,15,1
+2145,Business Process Improvement,Strategy/Planning/Management,1,1
+2147,Management Consulting,Strategy/Planning/Management,1,1
+2153,Communications Strategy,Communication,8,1
+2171,Troubleshooting,Strategy/Planning/Management,10,1
+2191,Trusting Relationships,Communication,7,1
+2205,Travel Management,Strategy/Planning/Management,0,1
+2206,Travel Planning,Strategy/Planning/Management,0,1
+2207,Advertising Campaigns,Strategy/Planning/Management,15,1
+2222,Event Production,Strategy/Planning/Management,1,1
+2226,Vendor Management,Strategy/Planning/Management,9,1
+2230,Audio Conferencing,Graphic Design/Visual,0,1
+2235,Outdoor Advertising,Sales,10,1
+2236,Negotiations,Sales,,
+2237,Mobile App Development,Technology,,
+2238,Data Visualization,Graphic Design/Visual,,
