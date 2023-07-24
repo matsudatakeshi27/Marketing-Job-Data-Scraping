@@ -1,0 +1,60 @@
+id,code,name,Number of job postings
+6,CA,California,168
+51,TX,Texas,88
+12,FL,Florida,77
+37,NY,New York,65
+55,VA,Virginia,59
+13,GA,Georgia,34
+50,TN,Tennessee,33
+17,IL,Illinois,27
+35,NJ,New Jersey,25
+56,WA,Washington,23
+26,MA,Massachusetts,21
+41,OH,Ohio,21
+7,CO,Colorado,19
+38,NC,North Carolina,19
+45,PA,Pennsylvania,18
+58,WI,Wisconsin,18
+25,MD,Maryland,15
+10,DC,District of Columbia,14
+27,MI,Michigan,13
+48,SC,South Carolina,12
+52,UT,Utah,12
+4,AZ,Arizona,11
+21,KY,Kentucky,9
+43,OR,Oregon,9
+22,LA,Louisiana,7
+30,MO,Missouri,7
+33,NV,Nevada,7
+18,IN,Indiana,6
+15,HI,Hawaii,4
+19,IA,Iowa,4
+28,MN,Minnesota,4
+42,OK,Oklahoma,4
+1,AL,Alabama,3
+8,CT,Connecticut,3
+5,AR,Arkansas,2
+23,ME,Maine,2
+47,RI,Rhode Island,2
+57,WV,West Virginia,2
+9,DE,Delaware,1
+32,NE,Nebraska,1
+34,NH,New Hampshire,1
+39,ND,North Dakota,1
+49,SD,South Dakota,1
+53,VT,Vermont,1
+2,AK,Alaska,0
+3,AS,American Samoa,0
+11,FM,Federated States of Micronesia,0
+14,GU,Guam,0
+16,ID,Idaho,0
+20,KS,Kansas,0
+24,MH,Marshall Islands,0
+29,MS,Mississippi,0
+31,MT,Montana,0
+36,NM,New Mexico,0
+40,MP,Northern Mariana Islands,0
+44,PW,Palau,0
+46,PR,Puerto Rico,0
+54,VI,Virgin Islands,0
+59,WY,Wyoming,0

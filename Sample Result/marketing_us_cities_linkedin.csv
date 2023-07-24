@@ -1,0 +1,439 @@
+id,City,state_id,state_name,number_of_jobs
+1,New York,NY,New York,47
+2,Los Angeles,CA,California,26
+30845,Remote,Remote,Remote,25
+15,San Diego,CA,California,20
+36,Austin,TX,Texas,20
+8,Atlanta,GA,Georgia,18
+9,Washington,DC,District of Columbia,15
+18,Tampa,FL,Florida,14
+5,Dallas,TX,Texas,13
+6,Houston,TX,Texas,13
+76,Knoxville,TN,Tennessee,12
+4,Miami,FL,Florida,11
+10,Boston,MA,Massachusetts,11
+26,Orlando,FL,Florida,11
+39,Charlotte,NC,North Carolina,10
+3,Chicago,IL,Illinois,9
+150,Irvine,CA,California,8
+166,Chula Vista,CA,California,8
+14,San Francisco,CA,California,7
+38,Columbus,OH,Ohio,7
+253,Newport News,VA,Virginia,7
+13,Seattle,WA,Washington,6
+22,Las Vegas,NV,Nevada,6
+33,Manhattan,NY,New York,6
+198,Arlington,VA,Virginia,6
+264,Ontario,CA,California,6
+283,Alexandria,VA,Virginia,6
+7,Philadelphia,PA,Pennsylvania,5
+19,Denver,CO,Colorado,5
+29,San Antonio,TX,Texas,5
+40,Virginia Beach,VA,Virginia,5
+47,Raleigh,NC,North Carolina,5
+112,Chattanooga,TN,Tennessee,5
+248,Vancouver,WA,Washington,5
+500,Carson,CA,California,5
+707,Walnut Creek,CA,California,5
+17,Brooklyn,NY,New York,4
+44,Jacksonville,FL,Florida,4
+46,Nashville,TN,Tennessee,4
+49,Louisville,KY,Kentucky,4
+73,Concord,CA,California,4
+141,Santa Ana,CA,California,4
+157,Jersey City,NJ,New Jersey,4
+187,Chesapeake,VA,Virginia,4
+305,Bellevue,WA,Washington,4
+310,Torrance,CA,California,4
+314,Roseville,CA,California,4
+338,Elizabeth,NJ,New Jersey,4
+393,Richardson,TX,Texas,4
+431,Inglewood,CA,California,4
+486,Beaverton,OR,Oregon,4
+513,Santa Monica,CA,California,4
+682,Redmond,WA,Washington,4
+764,Bethesda,MD,Maryland,4
+884,New Brunswick,NJ,New Jersey,4
+898,Tigard,OR,Oregon,4
+11,Phoenix,AZ,Arizona,3
+20,Queens,NY,New York,3
+35,Indianapolis,IN,Indiana,3
+68,Dayton,OH,Ohio,3
+137,Lexington,KY,Kentucky,3
+182,Irving,TX,Texas,3
+195,York,PA,Pennsylvania,3
+255,Fort Lauderdale,FL,Florida,3
+263,Elk Grove,CA,California,3
+330,Orange,CA,California,3
+495,Arden-Arcade,CA,California,3
+549,Whittier,CA,California,3
+666,Lehi,UT,Utah,3
+2692,Addison,TX,Texas,3
+4274,Marina del Rey,CA,California,3
+4449,Plymouth,WI,Wisconsin,3
+4628,York,SC,South Carolina,3
+4783,York,NE,Nebraska,3
+10186,York,AL,Alabama,3
+20602,York,AZ,Arizona,3
+24304,York,MT,Montana,3
+30132,York,ND,North Dakota,3
+25,Riverside,CA,California,2
+27,Sacramento,CA,California,2
+34,Cleveland,OH,Ohio,2
+41,Bronx,NY,New York,2
+42,Milwaukee,WI,Wisconsin,2
+43,Providence,RI,Rhode Island,2
+45,Salt Lake City,UT,Utah,2
+48,Memphis,TN,Tennessee,2
+50,Richmond,VA,Virginia,2
+52,Oklahoma City,OK,Oklahoma,2
+54,New Orleans,LA,Louisiana,2
+58,Honolulu,HI,Hawaii,2
+70,Charleston,SC,South Carolina,2
+115,Arlington,TX,Texas,2
+117,Aurora,CO,Colorado,2
+127,Bonita Springs,FL,Florida,2
+133,Ann Arbor,MI,Michigan,2
+142,Lansing,MI,Michigan,2
+161,Plano,TX,Texas,2
+174,Lubbock,TX,Texas,2
+179,Peoria,IL,Illinois,2
+189,Garland,TX,Texas,2
+192,Scottsdale,AZ,Arizona,2
+200,Fremont,CA,California,2
+235,Santa Barbara,CA,California,2
+236,Glendale,CA,California,2
+272,Pembroke Pines,FL,Florida,2
+332,Pasadena,CA,California,2
+376,Boulder,CO,Colorado,2
+390,Clearwater,FL,Florida,2
+394,West Palm Beach,FL,Florida,2
+440,El Cajon,CA,California,2
+514,Roswell,GA,Georgia,2
+526,Chino,CA,California,2
+547,Citrus Heights,CA,California,2
+570,Fort Myers,FL,Florida,2
+675,Mount Vernon,NY,New York,2
+679,Cleveland,TN,Tennessee,2
+691,Daytona Beach,FL,Florida,2
+808,Reston,VA,Virginia,2
+1051,Ashburn,VA,Virginia,2
+1149,Culver City,CA,California,2
+1596,Drexel Hill,PA,Pennsylvania,2
+1860,Herndon,VA,Virginia,2
+1906,Fairfax,VA,Virginia,2
+2024,Chester,VA,Virginia,2
+2181,Suwanee,GA,Georgia,2
+2281,Englewood,FL,Florida,2
+2924,Highland Springs,VA,Virginia,2
+3292,Beaufort,SC,South Carolina,2
+4641,Harrison,TN,Tennessee,2
+4763,Kirby,TX,Texas,2
+5879,Estes Park,CO,Colorado,2
+13558,Bannockburn,IL,Illinois,2
+12,Detroit,MI,Michigan,1
+21,Baltimore,MD,Maryland,1
+30,San Jose,CA,California,1
+32,Cincinnati,OH,Ohio,1
+57,Tucson,AZ,Arizona,1
+60,Omaha,NE,Nebraska,1
+61,El Paso,TX,Texas,1
+63,Rochester,NY,New York,1
+64,Sarasota,FL,Florida,1
+65,Fresno,CA,California,1
+66,Tulsa,OK,Oklahoma,1
+69,Birmingham,AL,Alabama,1
+77,Baton Rouge,LA,Louisiana,1
+79,Grand Rapids,MI,Michigan,1
+80,Albany,NY,New York,1
+81,Bakersfield,CA,California,1
+86,Akron,OH,Ohio,1
+90,Mesa,AZ,Arizona,1
+97,Reno,NV,Nevada,1
+98,Madison,WI,Wisconsin,1
+101,Denton,TX,Texas,1
+102,Spokane,WA,Washington,1
+104,Lancaster,PA,Pennsylvania,1
+109,Augusta,GA,Georgia,1
+128,Greensboro,NC,North Carolina,1
+145,Lakeland,FL,Florida,1
+146,Newark,NJ,New Jersey,1
+149,Springfield,MO,Missouri,1
+152,The Woodlands,TX,Texas,1
+162,Myrtle Beach,SC,South Carolina,1
+168,Chandler,AZ,Arizona,1
+171,Gilbert,AZ,Arizona,1
+172,Columbus,GA,Georgia,1
+177,Tallahassee,FL,Florida,1
+181,Lafayette,LA,Louisiana,1
+183,Montgomery,AL,Alabama,1
+185,McKinney,TX,Texas,1
+188,Glendale,AZ,Arizona,1
+207,San Bernardino,CA,California,1
+208,Portland,ME,Maine,1
+211,Green Bay,WI,Wisconsin,1
+215,Spartanburg,SC,South Carolina,1
+217,Gainesville,FL,Florida,1
+219,Kalamazoo,MI,Michigan,1
+233,Huntington Beach,CA,California,1
+240,Hagerstown,MD,Maryland,1
+243,Frisco,TX,Texas,1
+244,Cedar Rapids,IA,Iowa,1
+247,Sioux Falls,SD,South Dakota,1
+259,Tempe,AZ,Arizona,1
+267,Ocala,FL,Florida,1
+275,Manchester,NH,New Hampshire,1
+277,Santa Cruz,CA,California,1
+285,Corona,CA,California,1
+291,Lakewood,CO,Colorado,1
+292,Sunnyvale,CA,California,1
+295,Champaign,IL,Illinois,1
+297,Pasadena,TX,Texas,1
+298,Pomona,CA,California,1
+319,Athens,GA,Georgia,1
+335,Hampton,VA,Virginia,1
+341,Kent,WA,Washington,1
+342,Stamford,CT,Connecticut,1
+348,Coral Springs,FL,Florida,1
+349,Johnson City,TN,Tennessee,1
+350,Carrollton,TX,Texas,1
+351,Midland,TX,Texas,1
+372,Independence,MO,Missouri,1
+379,Berkeley,CA,California,1
+383,East Los Angeles,CA,California,1
+395,Temple,TX,Texas,1
+414,Costa Mesa,CA,California,1
+423,Sugar Land,TX,Texas,1
+432,Dearborn,MI,Michigan,1
+435,Sparks,NV,Nevada,1
+436,Sandy Springs,GA,Georgia,1
+441,Hillsboro,OR,Oregon,1
+443,Renton,WA,Washington,1
+446,Columbia,MD,Maryland,1
+447,Daly City,CA,California,1
+451,Longmont,CO,Colorado,1
+463,Charlottesville,VA,Virginia,1
+476,La Crosse,WI,Wisconsin,1
+488,Portsmouth,VA,Virginia,1
+497,Boca Raton,FL,Florida,1
+536,Florence,SC,South Carolina,1
+538,State College,PA,Pennsylvania,1
+542,Dalton,GA,Georgia,1
+551,Troy,MI,Michigan,1
+557,Newport Beach,CA,California,1
+559,San Ramon,CA,California,1
+569,Albany,GA,Georgia,1
+575,Farmington Hills,MI,Michigan,1
+577,Melbourne,FL,Florida,1
+578,Miami Beach,FL,Florida,1
+586,Silver Spring,MD,Maryland,1
+588,Mountain View,CA,California,1
+592,Franklin,TN,Tennessee,1
+608,Boynton Beach,FL,Florida,1
+647,Bethlehem,PA,Pennsylvania,1
+659,Ellicott City,MD,Maryland,1
+674,Centreville,VA,Virginia,1
+677,Broomfield,CO,Colorado,1
+687,Mansfield,TX,Texas,1
+688,Waukesha,WI,Wisconsin,1
+694,Wilmington,DE,Delaware,1
+706,Maple Grove,MN,Minnesota,1
+728,Rogers,AR,Arkansas,1
+743,Skokie,IL,Illinois,1
+745,Rockville,MD,Maryland,1
+759,Kenner,LA,Louisiana,1
+760,Albany,OR,Oregon,1
+768,Ames,IA,Iowa,1
+773,Weirton,WV,West Virginia,1
+784,Eden Prairie,MN,Minnesota,1
+786,Pflugerville,TX,Texas,1
+796,Bossier City,LA,Louisiana,1
+824,Marietta,GA,Georgia,1
+833,Jupiter,FL,Florida,1
+839,Sanford,FL,Florida,1
+844,White Plains,NY,New York,1
+888,Smyrna,GA,Georgia,1
+922,Galveston,TX,Texas,1
+929,Bentonville,AR,Arkansas,1
+959,Columbus,IN,Indiana,1
+967,Downers Grove,IL,Illinois,1
+968,Murray,UT,Utah,1
+971,Draper,UT,Utah,1
+973,Cerritos,CA,California,1
+977,Euclid,OH,Ohio,1
+978,McLean,VA,Virginia,1
+979,Coral Gables,FL,Florida,1
+987,Portage,MI,Michigan,1
+999,Leesburg,VA,Virginia,1
+1034,Haltom City,TX,Texas,1
+1040,Littleton,CO,Colorado,1
+1043,Morgan Hill,CA,California,1
+1065,Brentwood,TN,Tennessee,1
+1068,Plainfield,IL,Illinois,1
+1092,Jefferson City,MO,Missouri,1
+1100,Moline,IL,Illinois,1
+1111,Puyallup,WA,Washington,1
+1126,Clermont,FL,Florida,1
+1159,New Berlin,WI,Wisconsin,1
+1171,Carol Stream,IL,Illinois,1
+1182,Valrico,FL,Florida,1
+1258,Tucker,GA,Georgia,1
+1284,Farmers Branch,TX,Texas,1
+1287,Addison,IL,Illinois,1
+1319,Greer,SC,South Carolina,1
+1321,Northbrook,IL,Illinois,1
+1328,Goshen,IN,Indiana,1
+1335,Richmond,KY,Kentucky,1
+1381,Menlo Park,CA,California,1
+1390,Glendale Heights,IL,Illinois,1
+1423,Kaysville,UT,Utah,1
+1472,Maryville,TN,Tennessee,1
+1594,McDonough,GA,Georgia,1
+1599,Frankfort,KY,Kentucky,1
+1635,Washington,UT,Utah,1
+1643,Hamtramck,MI,Michigan,1
+1682,Crestview,FL,Florida,1
+1692,Eureka,CA,California,1
+1868,Athens,OH,Ohio,1
+1898,Solon,OH,Ohio,1
+1908,Columbus,NE,Nebraska,1
+1912,Columbus,MS,Mississippi,1
+1913,King of Prussia,PA,Pennsylvania,1
+1932,Chantilly,VA,Virginia,1
+1945,Jacksonville Beach,FL,Florida,1
+1949,Johnston,IA,Iowa,1
+1951,Farragut,TN,Tennessee,1
+2062,Conway,SC,South Carolina,1
+2084,Sanford,ME,Maine,1
+2104,Middleton,WI,Wisconsin,1
+2243,Hauppauge,NY,New York,1
+2244,Albany,CA,California,1
+2249,Oregon,OH,Ohio,1
+2380,Santa Fe Springs,CA,California,1
+2544,Lemont,IL,Illinois,1
+2573,El Segundo,CA,California,1
+2637,Westchester,IL,Illinois,1
+2641,Port Washington,NY,New York,1
+2685,Lake Mary,FL,Florida,1
+2735,Frankfort,IN,Indiana,1
+2745,Mount Pleasant,TX,Texas,1
+2753,Washington,IL,Illinois,1
+2831,Greenwood Village,CO,Colorado,1
+2965,Washington,MO,Missouri,1
+2989,Falls Church,VA,Virginia,1
+3000,Belmont,NC,North Carolina,1
+3001,Washington Court House,OH,Ohio,1
+3163,Indiana,PA,Pennsylvania,1
+3192,Marshall,MO,Missouri,1
+3209,Washington,PA,Pennsylvania,1
+3227,Las Vegas,NM,New Mexico,1
+3240,Mounds View,MN,Minnesota,1
+3251,North Palm Beach,FL,Florida,1
+3437,Webster,TX,Texas,1
+3472,Archdale,NC,North Carolina,1
+3479,Glen Rock,NJ,New Jersey,1
+3496,Washington,IN,Indiana,1
+3591,Elizabethtown,PA,Pennsylvania,1
+3658,Castle Pines,CO,Colorado,1
+3660,Brooklyn,OH,Ohio,1
+3708,Oregon,WI,Wisconsin,1
+3720,Grand Rapids,MN,Minnesota,1
+3891,Jefferson,LA,Louisiana,1
+4140,Washington,NC,North Carolina,1
+4186,Pleasant Grove,AL,Alabama,1
+4225,Bohemia,NY,New York,1
+4292,Mechanicsburg,PA,Pennsylvania,1
+4603,Farmingdale,NY,New York,1
+4613,Virginia,MN,Minnesota,1
+4674,Trinidad,CO,Colorado,1
+4735,Austell,GA,Georgia,1
+4740,Dayton,NJ,New Jersey,1
+4743,Rhinelander,WI,Wisconsin,1
+4748,Hampton,GA,Georgia,1
+4791,Basking Ridge,NJ,New Jersey,1
+4830,Port Jefferson,NY,New York,1
+4905,Chester,IL,Illinois,1
+4974,Ojai,CA,California,1
+5012,Villanova,PA,Pennsylvania,1
+5045,Ashland,VA,Virginia,1
+5079,Wayne,PA,Pennsylvania,1
+5132,Washington,IA,Iowa,1
+5210,Washington,NJ,New Jersey,1
+5235,Seminole,OK,Oklahoma,1
+5368,Ocean City,MD,Maryland,1
+5518,Milford,OH,Ohio,1
+5747,Pimmit Hills,VA,Virginia,1
+5904,Estherville,IA,Iowa,1
+5943,Petoskey,MI,Michigan,1
+5968,Mount Arlington,NJ,New Jersey,1
+6038,Granville,OH,Ohio,1
+6127,Coraopolis,PA,Pennsylvania,1
+6184,Columbus,WI,Wisconsin,1
+6256,Waimanalo,HI,Hawaii,1
+6508,Hampton,MD,Maryland,1
+7036,Edenton,NC,North Carolina,1
+7169,Hampton,IA,Iowa,1
+7197,Saukville,WI,Wisconsin,1
+7351,Columbus,MN,Minnesota,1
+7506,Rosemont,IL,Illinois,1
+7602,Oregon,IL,Illinois,1
+7754,Washington,GA,Georgia,1
+7973,Campo,CA,California,1
+7986,Columbus,TX,Texas,1
+8112,Sheridan,IN,Indiana,1
+8601,Ingalls Park,IL,Illinois,1
+8957,Columbus,KS,Kansas,1
+9025,Hampton,SC,South Carolina,1
+9114,Albany,IN,Indiana,1
+9313,Albany,MN,Minnesota,1
+10139,Owings,MD,Maryland,1
+10471,Albany,KY,Kentucky,1
+10770,Kealakekua,HI,Hawaii,1
+10917,Columbus,MT,Montana,1
+11364,Hampton,IL,Illinois,1
+11437,Albany,MO,Missouri,1
+12172,Albany,TX,Texas,1
+12815,Albany,LA,Louisiana,1
+12846,Hampton,AR,Arkansas,1
+12983,Hampton,TN,Tennessee,1
+13155,Virginia,IL,Illinois,1
+13985,Washington,WV,West Virginia,1
+14163,Thompson,ND,North Dakota,1
+14443,Columbus,NC,North Carolina,1
+14490,Rapids,NY,New York,1
+14507,Woods Hole,MA,Massachusetts,1
+14556,Vega,TX,Texas,1
+14674,Columbus,NM,New Mexico,1
+14931,Washington,KS,Kansas,1
+15077,Albany,WI,Wisconsin,1
+15375,Grand Rapids,OH,Ohio,1
+15940,Rand,WV,West Virginia,1
+15948,Oregon,MO,Missouri,1
+16061,Albany,OH,Ohio,1
+16486,Washington,LA,Louisiana,1
+16634,North,SC,South Carolina,1
+16972,Albany,IL,Illinois,1
+17393,Virgin,UT,Utah,1
+17787,Washington,OK,Oklahoma,1
+17809,Alba,MO,Missouri,1
+18088,Foxfield,CO,Colorado,1
+18945,Ohio,IL,Illinois,1
+18999,Hampton,MN,Minnesota,1
+19008,Carlisle,SC,South Carolina,1
+19583,Alba,TX,Texas,1
+19899,Hampton,FL,Florida,1
+19909,Gas,KS,Kansas,1
+20752,Hampton,NE,Nebraska,1
+21129,Alba,MI,Michigan,1
+25418,Columbus,KY,Kentucky,1
+25836,Washington,NE,Nebraska,1
+26257,Alba,PA,Pennsylvania,1
+26363,Mill Spring,MO,Missouri,1
+27093,Columbus,IL,Illinois,1
+27198,Washington,CA,California,1
+27256,Washington,AR,Arkansas,1
+28474,Columbus,ND,North Dakota,1
+28575,Washington,VA,Virginia,1
+28591,Albany,OK,Oklahoma,1
+29045,Virginia,NE,Nebraska,1
+29906,Albany,WY,Wyoming,1

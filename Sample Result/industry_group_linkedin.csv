@@ -1,0 +1,48 @@
+id,industry_group,number_of_count,percentage
+2,Advertising and Marketing,299,31.8%
+24,Human Resources and Staffing,158,16.8%
+22,Health and Medical,70,7.4%
+19,Travel and Tourism,49,5.2%
+10,Construction and Real Estate,42,4.5%
+11,Business and Information Technology,40,4.3%
+16,Education and Training,38,4.0%
+13,Technology and Telecommunications,31,3.3%
+14,Retail and Wholesale,31,3.3%
+4,Manufacturing,28,3.0%
+5,Others,25,2.7%
+18,Environmental and Energy,22,2.3%
+1,Financial Services,21,2.2%
+17,Entertainment and Recreation,15,1.6%
+12,Non-profit and Social Services,13,1.4%
+21,Food and Beverage,13,1.4%
+7,Government and Public Services,12,1.3%
+6,Architecture and Design,7,0.7%
+8,Automotive and Transportation,5,0.5%
+3,Transportation and Logistics,4,0.4%
+9,Science and Research,4,0.4%
+15,Defense and Aerospace,3,0.3%
+20,Facilities and Maintenance,3,0.3%
+25,Legal and Law,3,0.3%
+23,Home Care and Family Services,2,0.2%
+27,Philanthropy and Religion,2,0.2%
+26,Packaging and Containers,1,0.1%
+,Others,183,19.4%
+,,,
+,,,
+,,,
+,,941,
+,,,
+,,,
+,industry_group,percentage,
+,Advertising and Marketing,31.8%,
+,Human Resources and Staffing,16.8%,
+,Health and Medical,7.4%,
+,Travel and Tourism,5.2%,
+,Construction and Real Estate,4.5%,
+,Business and Information Technology,4.3%,
+,Education and Training,4.0%,
+,Technology and Telecommunications,3.3%,
+,Retail and Wholesale,3.3%,
+,Manufacturing,3.0%,
+,Others,19.4%,
+,,,
