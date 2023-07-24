@@ -1,756 +1,756 @@
-skill_id,skill_name,appearance_in_description,appearance_in_skill,skill_group
-1,Ad Serving,1,8,Social Media/Digital
-2,Campaigns,262,71,Strategy/Planning/Management
-3,Digital Marketing,83,42,Graphic Design/Visual
-4,Digital Media,12,3,Graphic Design/Visual
-5,Marketing,597,192,Strategy/Planning/Management
-6,Marketing Campaigns,126,41,Strategy/Planning/Management
-7,Revenue Generation,1,2,Other
-8,Search Engine Marketing (SEM),0,3,Social Media/Digital
-9,Search Engine Optimization (SEO),2,19,Technology
-10,VBA Excel,0,2,Other
-11,Event Marketing,13,5,Strategy/Planning/Management
-13,Networking,42,5,Communication
-14,Presentation Skills,31,10,Communication
-15,Public Speaking,21,4,Communication
-16,Relationship Building,16,8,Sales
-17,Sales and Marketing,82,39,Sales
-18,Social Media,181,77,Social Media/Digital
-19,Sports,45,4,Other
-20,B2B Marketing,6,1,Strategy/Planning/Management
-21,Business-to-Business (B2B),1,9,Strategy/Planning/Management
-23,Go-to-Market Strategy,6,3,Market Research
-24,Marketing Analytics,6,19,Quantitative/Analytics
-26,Marketing Mix Modeling,0,1,Quantitative/Analytics
-27,Marketing Partnerships,1,1,Strategy/Planning/Management
-28,Messaging,47,6,Other
-29,Problem Solving,28,47,Strategy/Planning/Management
-30,Adobe Creative Suite,30,9,Graphic Design/Visual
-31,Adobe Illustrator,6,3,Graphic Design/Visual
-32,Adobe InDesign,9,4,Graphic Design/Visual
-33,Adobe Photoshop,8,2,Graphic Design/Visual
-34,After Effects,1,1,Other
-35,Creative Marketing,11,1,Strategy/Planning/Management
-36,Graphics,43,5,Graphic Design/Visual
-37,High Energy Level,0,1,Other
-38,Music Lover,1,1,Other
-39,Social Trends,1,1,Social Media/Digital
-40,Brand Management,17,9,Brand
-42,Interactive Advertising,0,1,Other
-43,Market Share,32,3,Market Research
-46,Passionate about Work,1,2,Other
-47,Strategy,179,23,Strategy/Planning/Management
-48,Teamwork,35,41,Communication
-49,Training,366,25,Other
-50,Employee Benefits,13,3,Strategy/Planning/Management
-51,Marketing Management,9,6,Strategy/Planning/Management
-52,Skill Development,0,7,Technology
-54,Market Research,69,27,Market Research
-55,Marketing Communications,45,24,Communication
-56,Online Marketing,6,5,Strategy/Planning/Management
-57,Public Relations,79,60,Communication
-60,Social Media Marketing,17,45,Social Media/Digital
-66,Google Ads,13,5,Other
-72,Community Engagement,13,3,Communication
-73,Community Outreach,13,2,Communication
-74,Customer Experience,41,7,Sales
-75,Events,266,15,Strategy/Planning/Management
-76,Hospitality Industry,6,1,Other
-78,Product Demonstration,4,4,Other
-81,Volunteering,2,1,Other
-82,Competitive Analysis,7,1,Market Research
-84,Email Marketing,40,12,Communication
-85,Klaviyo,6,1,Social Media/Digital
-86,Market Segmentation,0,2,Market Research
-88,Marketing Automation,20,4,Social Media/Digital
-89,Marketing Campaign Plans,0,1,Strategy/Planning/Management
-91,Performance Reviews,4,2,Other
-92,Attention to Detail,136,20,Other
-93,Cyber Risk Management,1,1,Strategy/Planning/Management
-94,Data Cleaning,0,1,Quantitative/Analytics
-95,Data Entry,34,5,Quantitative/Analytics
-96,Data Integrity,4,2,Quantitative/Analytics
-97,Deduplication,2,1,Other
-98,Maturity Assessments,1,1,Quantitative/Analytics
-99,Online Data Entry,0,2,Quantitative/Analytics
-101,Content Management,27,7,Content/Writing
-102,Digital Strategy,4,1,Graphic Design/Visual
-103,Knowledge Acquisition,0,2,Other
-105,Public Access,0,1,Communication
-107,Relationship Development,2,5,Sales
-108,Social Media Content Creation,1,2,Content/Writing
-109,Web Content Writing,0,9,Content/Writing
-110,Working Experience,5,4,Graphic Design/Visual
-111,Campaign Strategies,10,3,Strategy/Planning/Management
-113,Computer Literacy,2,11,Other
-115,Nonprofit Organizations,1,1,Other
-116,Office 365,4,1,Other
-119,Special Events,37,5,Strategy/Planning/Management
-120,Editing,85,9,Graphic Design/Visual
-121,Graphic Design,54,12,Graphic Design/Visual
-122,Hotel Management,1,1,Strategy/Planning/Management
-123,Key Performance Indicators,8,8,Strategy/Planning/Management
-124,Paid Social Media,2,2,Social Media/Digital
-125,Proofreading,24,5,Content/Writing
-126,Property Management,5,1,Strategy/Planning/Management
-127,Sales Processes,2,8,Sales
-129,Adobe Acrobat,2,2,Graphic Design/Visual
-135,Marketing Materials,77,20,Content/Writing
-136,Newsletters,53,6,Content/Writing
-137,Online Research,4,1,Market Research
-138,Organization Skills,13,50,Strategy/Planning/Management
-139,Business Relationship Management,0,9,Strategy/Planning/Management
-142,Project Implementation,0,3,Strategy/Planning/Management
-144,Request for Proposal (RFP),0,1,Brand
-145,Unanet,1,1,Social Media/Digital
-146,Writing,125,35,Content/Writing
-148,Copywriting,35,12,Content/Writing
-149,Creative Writing,2,3,Content/Writing
-151,Journalism,28,6,Content/Writing
-152,Merchandising,27,8,Sales
-153,Microsoft Outlook,4,3,Other
-155,User Research,0,1,Other
-157,Administration,54,13,Strategy/Planning/Management
-160,Event Planning,19,12,Strategy/Planning/Management
-161,Office Equipment,29,3,Other
-162,Sales Operations,4,6,Sales
-165,Spreadsheets,12,3,Other
-167,Critical Thinking,13,8,Strategy/Planning/Management
-168,Digital Campaigns,14,1,Graphic Design/Visual
-169,Direct Marketing,29,6,Sales
-171,Marketing Programs,45,1,Strategy/Planning/Management
-172,Print Collateral,3,1,Other
-173,Print Marketing,3,1,Content/Writing
-174,Thinking Skills,7,4,Strategy/Planning/Management
-175,Vendor Relations,3,2,Other
-180,Google Analytics,53,4,Quantitative/Analytics
-185,Web Analytics,14,8,Quantitative/Analytics
-186,Branding,41,15,Brand
-188,Local Marketing,3,1,Other
-191,Product Promotion,3,1,Other
-193,Skilled Multi-tasker,0,15,Other
-194,Strategic Initiatives,6,1,Strategy/Planning/Management
-198,Integrated Marketing,13,2,Strategy/Planning/Management
-199,Market Planning,0,16,Market Research
-203,Written Communication,76,17,Communication
-205,Creative Briefs,4,2,Other
-206,Flawless Execution,4,1,Strategy/Planning/Management
-207,Gatekeeper,4,2,Other
-209,Marketing Campaign Management,1,8,Strategy/Planning/Management
-211,Test Planning,1,1,Technology
-212,Test Requirements,1,1,Other
-213,Bloomreach,1,1,Other
-214,Braze,3,1,Other
-215,Cross-Channel Marketing,1,1,Strategy/Planning/Management
-217,Establishing Priorities,1,1,Other
-221,Multi-Channel Marketing,0,1,Strategy/Planning/Management
-222,Project Performance,2,1,Strategy/Planning/Management
-223,Business Development,59,7,Strategy/Planning/Management
-224,Client Relations,44,15,Sales
-225,Leadership,211,21,Strategy/Planning/Management
-228,Sales Marketing,3,1,Sales
-231,Team Leadership,12,6,Strategy/Planning/Management
-232,Blogging,2,2,Content/Writing
-233,Business Administration,21,1,Strategy/Planning/Management
-234,Content Marketing,24,5,Content/Writing
-239,Marketing Copy,5,3,Content/Writing
-240,Narrative,5,1,Content/Writing
-242,Analytics,109,31,Quantitative/Analytics
-243,Business Strategy,4,1,Strategy/Planning/Management
-244,Coordinating Activities,12,4,Strategy/Planning/Management
-245,Interpersonal Skills,77,37,Communication
-246,Market Analysis,2,5,Market Research
-249,Product Marketing,19,17,Strategy/Planning/Management
-250,Sales Execution,1,1,Sales
-251,ClickUp,0,1,Other
-255,Marketing Agencies,2,1,Other
-256,Phone Etiquette,2,11,Communication
-257,Photo Shoots,7,2,Other
-258,Pivot Tables,1,3,Quantitative/Analytics
-260,Task Completion,0,1,Other
-262,Lead Generation,44,11,Sales
-266,Marketing Metrics,5,1,Strategy/Planning/Management
-267,Networking Events,7,2,Communication
-268,Pay Per Click (PPC),0,1,Other
-269,Product Branding,1,1,Brand
-270,Campaign Effectiveness,3,3,Strategy/Planning/Management
-271,Commercial Awareness,4,2,Brand
-272,Inside Sales,4,1,Sales
-274,Media Management,22,4,Social Media/Digital
-275,Presentations,103,50,Communication
-278,Social Media Management,22,4,Social Media/Digital
-280,Census,8,2,Other
-281,English,43,5,Other
-282,Key Metrics,7,2,Strategy/Planning/Management
-283,Marketing Budget Management,1,2,Strategy/Planning/Management
-287,Story,83,3,Social Media/Digital
-290,Interpersonal Relationships,0,1,Communication
-301,Media Relations,7,6,Social Media/Digital
-302,Multimedia Marketing Campaigns,2,1,Strategy/Planning/Management
-303,Press Releases,25,17,Other
-308,Direct Response Marketing,2,1,Sales
-313,Paid Media Advertising,0,3,Social Media/Digital
-314,Promotional Videos,1,1,Graphic Design/Visual
-316,Collateral,68,3,Other
-317,Content Creation,26,4,Content/Writing
-318,Content Development,9,3,Content/Writing
-321,Marketing Operations,6,4,Strategy/Planning/Management
-322,Online Reputation Management,1,1,Strategy/Planning/Management
-323,Operations Processes,1,1,Other
-324,Social Media Optimization (SMO),0,2,Social Media/Digital
-325,Subject Matter Experts,11,2,Other
-327,Customer Service,222,37,Sales
-329,Mathematics,4,3,Quantitative/Analytics
-330,Open Platform Communication (OPC),0,1,Communication
-334,Tour Production,1,1,Other
-336,Photography,19,2,Graphic Design/Visual
-343,YouTube,19,1,Social Media/Digital
-344,Expense Reports,10,6,Quantitative/Analytics
-345,Expenses,20,6,Strategy/Planning/Management
-346,Lead Qualification,0,4,Sales
-350,Project Initiation,1,1,Strategy/Planning/Management
-351,Sales Meetings,9,4,Sales
-353,Analytical Skills,33,9,Quantitative/Analytics
-354,Customer Relationship Management (CRM),6,5,Sales
-357,Research Skills,4,5,Communication
-360,Face-to-face Marketing,2,1,Sales
-361,Goal Setting,3,1,Strategy/Planning/Management
-366,Team Development,7,1,Strategy/Planning/Management
-369,Dispositions,2,1,Other
-371,General Public,2,1,Communication
-379,ESPPs,0,2,Other
-383,Salesforce.com,4,2,Quantitative/Analytics
-384,Salesforce.com Development,0,1,Quantitative/Analytics
-385,Technical Execution,1,1,Other
-391,Internal Customers,2,1,Other
-392,Multitasking,13,8,Other
-393,Oral Communication,18,23,Communication
-395,Customer Engagement,16,3,Sales
-397,Customer Loyalty,11,1,Sales
-400,Product Training,6,1,Other
-404,Brand Development,0,1,Brand
-409,Negotiation,26,21,Sales
-412,Advertising,152,22,Other
-415,Landing Pages,19,3,Other
-416,Marketing Documents,2,1,Content/Writing
-417,Optimization,36,23,Technology
-420,React.js,0,1,Technology
-421,Sales Presentations,9,6,Sales
-423,Alumni Relations,2,2,Communication
-424,Benchmarking,6,2,Strategy/Planning/Management
-425,Health Assessment,1,1,Other
-426,Media Planning,5,2,Social Media/Digital
-427,Paid Advertising,7,1,Other
-430,Student Recruiting,0,1,Other
-431,Acute Care,2,1,Other
-433,Easily Adaptable,0,3,Other
-434,Long-term Care,8,1,Other
-435,Managed Care,3,2,Other
-438,Nursing,10,1,Other
-440,Creativity and Innovation,1,2,Other
-443,Psychology,10,1,Other
-445,Self-confidence,2,1,Other
-446,Sociology,1,1,Other
-447,Sports Management,5,1,Strategy/Planning/Management
-448,Strategic Communications,1,15,Communication
-452,Content Strategy,9,5,Content/Writing
-453,Creative Agencies,6,1,Other
-455,Organic Search,3,1,Other
-461,Magazine Articles,0,1,Other
-467,Technical Requirements,0,1,Other
-468,Trade Shows,19,1,Other
-472,E-newsletter,2,1,Other
-475,Online Advertising,2,1,Other
-481,Digital Communication,21,5,Graphic Design/Visual
-482,Growth Strategies,21,5,Strategy/Planning/Management
-488,Web Conferencing,0,6,Technology
-529,Customer Retention,18,6,Sales
-532,New Leads,7,2,Other
-541,Creative Problem Solving,2,2,Strategy/Planning/Management
-543,Information Design,1,1,Graphic Design/Visual
-549,Marketing Support,7,1,Strategy/Planning/Management
-552,Audio Conferencing,0,8,Graphic Design/Visual
-554,Field Marketing,21,5,Sales
-557,Promotional Marketing,15,3,Sales
-562,Professional Skills,0,2,Communication
-569,Graphic Design Software,5,2,Graphic Design/Visual
-571,Media Engagement,3,1,Social Media/Digital
-572,Media Marketing,19,45,Social Media/Digital
-574,Video Editing,11,2,Graphic Design/Visual
-575,Corporate Financial Reporting,0,2,Quantitative/Analytics
-579,Itineraries,16,2,Other
-580,Organizing Meetings,3,1,Other
-583,Basic Math,3,1,Quantitative/Analytics
-584,Grammar,21,4,Content/Writing
-585,Grief Counseling,0,1,Communication
-589,Punctuation,3,1,Other
-590,Spelling,5,2,Content/Writing
-591,Strategic Thinking,5,4,Strategy/Planning/Management
-593,Flow Charts,0,1,Other
-603,Broker Opinion of Value,1,1,Other
-604,Case Studies,12,2,Quantitative/Analytics
-605,Client Presentation,3,1,Sales
-613,Information Gathering,1,1,Other
-615,Marketing Reporting,1,1,Quantitative/Analytics
-616,Microsoft PowerPoint,1,4,Other
-618,Technical Writing,2,1,Content/Writing
-620,Business Writing,2,1,Content/Writing
-622,Cultural Competency,1,1,Other
-623,Intercultural Awareness,0,1,Other
-624,Intercultural Skills,0,1,Communication
-632,Company Newsletters,2,1,Content/Writing
-644,Influencer Marketing,3,1,Strategy/Planning/Management
-648,Performance Analysis,2,1,Quantitative/Analytics
-649,Timelines,40,1,Other
-655,Property Inspections,0,1,Other
-657,Virtual Tours,1,1,Other
-658,Brand Marketing,32,5,Brand
-660,Customer Acquisition,41,15,Sales
-665,Visual Merchandising,8,6,Graphic Design/Visual
-666,Adjudication,1,1,Other
-667,Conflict Of Interest,1,1,Communication
-668,Disclosure,6,1,Other
-670,Government Ethics,1,1,Other
-671,Project Plans,8,1,Strategy/Planning/Management
-672,Public Law,2,1,Other
-673,Supervisory Skills,0,3,Communication
-674,Training Programs,10,2,Other
-675,U.S. Department of Agriculture (USDA),0,1,Other
-676,Brand Strategy,7,4,Brand
-680,MLRO,1,1,Other
-685,Quality Processes,1,1,Other
-689,HTML Emails,0,1,Quantitative/Analytics
-693,Mass Email Marketing,1,1,Communication
-694,Web Technologies,3,1,Technology
-695,Direct Sales,10,2,Sales
-697,Internet Access,7,1,Other
-706,Data Reporting,0,1,Quantitative/Analytics
-708,Email Analytics,0,1,Quantitative/Analytics
-709,Email Lists,4,1,Other
-711,Lists,67,3,Other
-713,SMS,7,1,Communication
-722,Appointment Scheduling,1,1,Other
-723,Casualty Insurance,0,1,Other
-725,Customer-Focused Service,0,2,Sales
-727,People-Oriented,15,4,Other
-741,Brand Identity,8,1,Brand
-742,Diplomacy,3,1,Communication
-743,Event Management,4,2,Strategy/Planning/Management
-745,Managing Meetings,0,1,Other
-747,Rooming Lists,0,1,Other
-754,Marketing Research,4,1,Market Research
-764,Retail Sales,7,3,Sales
-765,Sales Management,4,2,Sales
-767,Graphic Design Principles,3,1,Graphic Design/Visual
-768,HTML,27,3,Technology
-769,On-Page Optimization,1,1,Technology
-771,Optimization Techniques,1,1,Quantitative/Analytics
-772,Responsive Web Design,1,1,Graphic Design/Visual
-773,User Behavior,2,1,Other
-775,Web Design,2,3,Graphic Design/Visual
-776,WordPress,28,2,Other
-782,Scanning Electron Microscopy (SEM),0,1,Other
-785,White Papers,4,1,Content/Writing
-796,Creative Direction,2,1,Other
-797,Cross-functional Team Leadership,1,1,Strategy/Planning/Management
-798,Inspiration,7,1,Other
-799,Liberal Arts,3,1,Other
-804,Target Audience,47,3,Other
-807,Creativity Skills,0,2,Communication
-810,Marketing Literature,1,1,Strategy/Planning/Management
-812,Telemarketing,11,2,Other
-814,Adobe Creative Cloud,11,2,Graphic Design/Visual
-815,Communication Training,0,11,Communication
-821,Proposal Writing,0,1,Content/Writing
-823,Carnival,1,1,Other
-824,Content Design,3,1,Content/Writing
-826,Creative Design,3,1,Graphic Design/Visual
-828,Social Advertising (Social Issues),0,1,Social Media/Digital
-829,Social Media Advertising,5,2,Social Media/Digital
-831,Voice Acting,0,1,Other
-832,Cold Calling,2,2,Sales
-835,Liability,7,2,Other
-836,Liability Insurance,0,1,Other
-842,Editing Software,7,2,Graphic Design/Visual
-843,Internal and External Communications,2,1,Communication
-850,Facilitation,6,6,Other
-851,Interpersonal Communication,12,11,Communication
-856,Subrogation,0,5,Other
-857,Thought Leadership,8,5,Strategy/Planning/Management
-858,Value Propositions,6,5,Other
-870,Educational Administration,0,1,Strategy/Planning/Management
-874,Recruiting,37,4,Other
-877,Title IX,2,2,Other
-879,Chartered Financial Analyst,0,1,Quantitative/Analytics
-880,External Communications,6,2,Communication
-881,Fine Art,0,1,Graphic Design/Visual
-886,Storytelling,13,1,Graphic Design/Visual
-889,Internal Communications,28,8,Communication
-925,Fundraising,19,4,Other
-931,Sales Promotion,10,4,Sales
-933,Coaching,36,7,Other
-949,Brand Awareness,70,13,Brand
-955,Shopify,3,1,Social Media/Digital
-958,Text Marketing,0,1,Strategy/Planning/Management
-959,Business Transactions,3,1,Strategy/Planning/Management
-961,Creative Strategy,0,1,Strategy/Planning/Management
-967,Travel Marketing,0,1,Strategy/Planning/Management
-968,Digital Content,11,2,Graphic Design/Visual
-970,Information Research,0,1,Market Research
-972,Media Evaluation,1,1,Social Media/Digital
-973,Media Strategy,15,2,Social Media/Digital
-976,Social Media Strategy,11,1,Social Media/Digital
-978,Customer Success,15,2,Sales
-979,Enablement,9,2,Other
-983,Panel Discussions,2,1,Other
-984,Product Management,17,2,Strategy/Planning/Management
-986,Sales Enablement,5,2,Sales
-988,Competitive Intelligence,6,1,Market Research
-997,Brochures,32,2,Other
-999,Company Brochures,1,1,Other
-1002,Numeracy,0,1,Other
-1004,Report Writing,0,2,Content/Writing
-1009,Microsoft Office,102,2,Other
-1013,Trade Marketing,3,1,Strategy/Planning/Management
-1018,Salesforce Quip,0,1,Quantitative/Analytics
-1019,Software as a Service (SaaS),0,1,Technology
-1034,Brand Activation,1,2,Brand
-1036,Community Building,13,2,Communication
-1037,Grassroots Marketing,8,2,Strategy/Planning/Management
-1038,Grassroots Organizing,0,2,Strategy/Planning/Management
-1040,Personal Responsibility,10,2,Other
-1041,Seeding,9,2,Strategy/Planning/Management
-1042,Team Motivation,0,1,Strategy/Planning/Management
-1043,Financial Reporting,1,3,Quantitative/Analytics
-1044,Google Workspace,3,2,Other
-1046,Manufacturing Processes,1,1,Other
-1048,Performance Reporting,2,1,Quantitative/Analytics
-1049,Pre-production,1,1,Other
-1050,Quantitative Analytics,0,2,Quantitative/Analytics
-1051,Retail Math,1,2,Quantitative/Analytics
-1052,Sample Development,1,1,Strategy/Planning/Management
-1054,Mailing Lists,3,1,Other
-1058,Product Service,0,1,Other
-1060,Sales & Marketing Leadership,0,1,Sales
-1063,Forecasting,13,1,Quantitative/Analytics
-1070,Attitude Change,0,1,Other
-1071,Box Cloud,0,1,Technology
-1074,Experiential Marketing,14,1,Strategy/Planning/Management
-1078,Reporting,119,8,Quantitative/Analytics
-1080,Account Management,30,8,Sales
-1081,Ad Tech,1,1,Social Media/Digital
-1082,Advertising Campaigns,11,3,Strategy/Planning/Management
-1083,Business Reviews,3,1,Other
-1088,Value Selling,1,1,Sales
-1089,Training Management,0,1,Strategy/Planning/Management
-1090,Business Communications,8,4,Communication
-1108,Budgeting,9,3,Strategy/Planning/Management
-1111,Event Production,1,3,Strategy/Planning/Management
-1115,Vendor Management,8,2,Strategy/Planning/Management
-1139,Quote,17,1,Content/Writing
-1151,Calendaring,2,2,Other
-1152,Client Communication,10,2,Sales
-1153,Confidentiality,20,3,Other
-1154,Conventions,4,2,Other
-1155,Customer Education,4,2,Sales
-1156,Executive Support,0,2,Other
-1159,Travel Arrangements,15,3,Strategy/Planning/Management
-1169,Customer Insight,8,1,Quantitative/Analytics
-1182,Onboarding,19,4,Communication
-1183,Purchase Orders,14,3,Other
-1185,Upselling,6,2,Sales
-1186,Contact Centers,0,2,Communication
-1189,Customer Support,25,3,Sales
-1193,Product Knowledge,36,9,Brand
-1194,Troubleshooting,5,1,Other
-1199,Deals,14,1,Other
-1203,Customer Satisfaction,22,10,Sales
-1215,Client Accounts,7,1,Sales
-1217,Key Accounts,6,1,Other
-1220,Partner Relationship Management,0,1,Sales
-1222,Strategic Marketing,6,1,Strategy/Planning/Management
-1225,Live Events,5,3,Strategy/Planning/Management
-1229,Sponsorship,27,1,Other
-1231,Workload Prioritization,0,2,Other
-1233,Diverse Groups,2,1,Other
-1236,Reporting Requirements,2,1,Other
-1247,Corporate Events,3,4,Strategy/Planning/Management
-1271,Corporate Communications,19,7,Communication
-1279,Business Modeling,0,1,Quantitative/Analytics
-1286,Special Events Coordination,0,2,Strategy/Planning/Management
-1292,Team Building,7,1,Communication
-1299,Customer Interaction,16,3,Sales
-1318,Positioning (Marketing),0,1,Strategy/Planning/Management
-1319,Strategic Business,3,1,Strategy/Planning/Management
-1321,Success Stories,4,1,Other
-1331,Administrative Assistance,0,11,Other
-1338,Outdoor Advertising,13,3,Sales
-1359,Intercollegiate Athletics,2,1,Other
-1362,Record Keeping,2,1,Other
-1367,Receptionist Duties,1,4,Communication
-1370,Media Events,1,1,Social Media/Digital
-1371,Media Monitoring,1,1,Social Media/Digital
-1379,Hotjar,1,1,Other
-1380,SEMrush,3,1,Other
-1382,Web Content Management,2,1,Content/Writing
-1385,Yext,3,1,Social Media/Digital
-1386,Audience Measurement,0,1,Other
-1392,Service Standards,3,1,Other
-1395,ADP E-Time,0,1,Quantitative/Analytics
-1396,Cancellations,3,2,Other
-1397,Credit Cards,3,1,Other
-1398,Healthy Lifestyle,1,1,Other
-1399,IBM iSeries,0,1,Other
-1400,Loan Workouts,0,1,Other
-1401,Membership Development,0,1,Technology
-1402,Membership Sales,1,1,Sales
-1403,Silver Sneakers,1,1,Other
-1405,Annual Giving,1,1,Other
-1406,Business Intelligence (BI),0,1,Quantitative/Analytics
-1410,Direct Mail,13,1,Sales
-1414,Accounting Standards,0,1,Other
-1417,Financial Analysis,2,1,Quantitative/Analytics
-1418,Financial Regulations,1,1,Other
-1419,Financial Software,1,1,Technology
-1422,Variance Analysis,1,1,Quantitative/Analytics
-1423,Business Engagement,1,1,Strategy/Planning/Management
-1431,Child Welfare,1,1,Other
-1432,Program Management,3,1,Strategy/Planning/Management
-1435,Beauty,8,1,Other
-1437,Consultations,2,1,Other
-1442,Skin Care,1,1,Other
-1446,Databases,44,2,Quantitative/Analytics
-1447,Handle Multiple Projects,5,1,Other
-1450,Security Protocols,1,1,Technology
-1451,Sensitive Information,6,1,Other
-1452,Data Analysis,10,3,Quantitative/Analytics
-1453,Data Collection,5,2,Market Research
-1454,Database Administration,0,2,Technology
-1455,Human Rights Law,0,2,Other
-1456,IBM SPSS,0,2,Other
-1457,Institutional Review Board (IRB),0,2,Other
-1458,Literature Reviews,1,2,Other
-1459,REDCap,0,2,Other
-1460,Statistical Analysis,1,2,Quantitative/Analytics
-1464,Community Foundations,8,1,Communication
-1467,Guest Experience,10,1,Other
-1480,Budget Tracking,1,1,Other
-1481,Calendars,38,2,Other
-1483,Heavy Equipment,2,1,Other
-1485,Production Assistance,0,1,Other
-1486,Production Processes,1,1,Other
-1489,Building Operations,0,1,Strategy/Planning/Management
-1490,Memos,4,1,Other
-1494,Service Orientation (Social),0,1,Communication
-1495,Solid Professional Standards,0,4,Communication
-1496,Technical Services,0,1,Other
-1498,Establishing Relationships,4,1,Communication
-1504,Video Production,8,3,Graphic Design/Visual
-1507,Benefits Administration,1,1,Other
-1508,Employee Orientations,0,1,Strategy/Planning/Management
-1509,Employee Relations,2,3,Communication
-1510,HR Policies,0,2,Other
-1511,Human Resources (HR),1,5,Other
-1512,New Hire Orientations,0,1,Other
-1514,Payroll Administration,0,1,Other
-1516,HMO,2,1,Other
-1518,Laserfiche,0,1,Other
-1521,Medi-Cal,0,1,Other
-1522,Medicare,3,1,Other
-1523,Network Administration,0,1,Technology
-1533,Account Coordination,3,2,Sales
-1542,Business Analysis,1,1,Quantitative/Analytics
-1543,Business Reporting,0,1,Quantitative/Analytics
-1546,Data Analytics,15,1,Quantitative/Analytics
-1548,Quantitative Research,3,1,Quantitative/Analytics
-1549,Statistical Tools,0,1,Quantitative/Analytics
-1563,Managing Accounts (Accounting),0,1,Other
-1569,Contract Negotiation,2,4,Sales
-1575,Telecommunications,29,2,Other
-1576,Apparel,15,1,Other
-1577,Emotional Intelligence,2,2,Communication
-1579,Merchandise Planning,0,1,Strategy/Planning/Management
-1580,Open to Buy Management,0,1,Strategy/Planning/Management
-1581,Persistence,1,1,Other
-1582,Product Development,16,1,Strategy/Planning/Management
-1584,Redash,0,1,Other
-1587,Google Docs,4,1,Other
-1588,Google Sheets,2,1,Other
-1589,HubSpot,23,2,Other
-1595,Business Planning,1,1,Strategy/Planning/Management
-1596,Constructive Feedback,6,3,Communication
-1598,Hands-on Training,12,1,Other
-1600,New Business Development,2,1,Strategy/Planning/Management
-1602,Solution-oriented,13,4,Other
-1604,Customer Relations,47,9,Sales
-1610,Service Orders,1,1,Other
-1612,Bookings,2,1,Other
-1613,International Travel,3,1,Other
-1615,Travel Agencies,1,1,Other
-1618,Opening New Accounts,1,1,Other
-1621,Product Presentation,4,3,Communication
-1630,Project Coordination,6,3,Strategy/Planning/Management
-1636,New Customer Acquisitions,7,3,Sales
-1641,Compliance Regulations,1,1,Other
-1647,Streamlining,2,1,Other
-1651,Business Networking,0,1,Communication
-1666,Assortment Strategies,0,1,Strategy/Planning/Management
-1670,Manual Handling,1,1,Sales
-1671,Refunds,6,2,Other
-1672,Stock Management,1,1,Strategy/Planning/Management
-1673,Styling,5,2,Graphic Design/Visual
-1676,Quick Thinking,3,1,Strategy/Planning/Management
-1679,Destination Weddings,9,1,Other
-1683,Realistic Animation,0,1,Graphic Design/Visual
-1684,Thorough Research,12,1,Market Research
-1685,Wedding Coordinating,0,1,Strategy/Planning/Management
-1686,Wedding Planning,0,1,Strategy/Planning/Management
-1687,Weddings,16,1,Other
-1688,Build Strong Relationships,10,3,Communication
-1689,Consumer Behavior,8,1,Market Research
-1692,Inventory Management,4,1,Strategy/Planning/Management
-1694,Mobile Communications,0,1,Communication
-1696,Procurement,7,1,Other
-1697,Supplier Performance,0,1,Other
-1699,Content Delivery,2,2,Content/Writing
-1700,Keyword Research,5,1,Market Research
-1704,Product Launch,15,1,Brand
-1724,Compensation,149,3,Other
-1725,General Administration,0,1,Technology
-1734,Marketing Campaign Effectiveness,1,1,Strategy/Planning/Management
-1739,Sales Letters,1,1,Sales
-1746,Resolutions,5,1,Other
-1750,Financial Advisory,0,1,Quantitative/Analytics
-1753,Product Lifecycle Management,2,1,Strategy/Planning/Management
-1764,Campaign Development,5,2,Strategy/Planning/Management
-1774,Coaching & Mentoring,0,1,Other
-1776,Investigation,10,1,Other
-1778,Project Analysis,2,1,Quantitative/Analytics
-1779,Trademark Law,2,1,Other
-1780,Work Alone,2,1,Other
-1781,Working with Offenders,0,1,Sales
-1782,Applicant Tracking Systems,0,1,Technology
-1784,Interviewing,28,2,Communication
-1789,Talent Management,2,1,Strategy/Planning/Management
-1822,Marketing Consulting,5,1,Strategy/Planning/Management
-1862,Job Satisfaction,0,1,Other
-1866,Public Communications,0,1,Communication
-1870,Errands,3,2,Other
-1872,Food Preparation,1,1,Other
-1873,Household,7,1,Other
-1874,Laundry,1,1,Other
-1876,Meal Planning,1,1,Strategy/Planning/Management
-1877,Personal Assistance,2,1,Other
-1878,Professional Liability,1,1,Other
-1880,Emissions Trading,0,1,Other
-1882,Follow Directions,2,1,Sales
-1883,MSDS,1,1,Other
-1884,Motor Vehicle,3,1,Other
-1886,Residential Construction,0,1,Other
-1887,Truck,0,1,Other
-1892,Office Administration,4,2,Strategy/Planning/Management
-1901,Partner Recruitment,0,1,Other
-1904,Services Sales,0,1,Sales
-1924,Dreamweaver,2,1,Other
-1928,Mobile Application Development,0,1,Technology
-1929,Mobile Marketing,2,1,Social Media/Digital
-1940,Cascading Style Sheets (CSS),0,1,Other
-1941,Computer Graphics,0,1,Other
-1944,Logo Design,0,1,Graphic Design/Visual
-1945,User Interface Design,0,2,Graphic Design/Visual
-1956,Account Planning,0,1,Sales
-1973,Fashion Retail,1,1,Graphic Design/Visual
-1976,Store Management,1,1,Strategy/Planning/Management
-1980,Window Displays,0,1,Other
-1988,Social Media Communications,0,1,Social Media/Digital
-1992,Executive Management,1,1,Strategy/Planning/Management
-2002,Information Technology,2,1,Other
-2006,Project Planning,0,1,Strategy/Planning/Management
-2007,Software Project Management,0,1,Strategy/Planning/Management
-2017,TV Production,1,1,Other
-2018,Television,4,1,Other
-2031,Agile Methodologies,0,1,Other
-2033,Content Management Systems (CMS),3,1,Content/Writing
-2036,Site Maps,0,1,Other
-2037,Tone of Voice,8,1,Other
-2038,User Experience (UX),0,1,Graphic Design/Visual
-2042,Consumer Marketing,5,1,Sales
-2044,Fast-Moving Consumer Goods (FMCG),0,1,Other
-2045,Launches,24,1,Brand
-2047,On Site,8,1,Other
-2048,Retail Marketing,5,1,Sales
-2049,Retail Operations,1,1,Other
-2053,Branding & Identity,0,1,Brand
-2057,Sketching,0,1,Other
-2063,Initiation,1,2,Strategy/Planning/Management
-2064,Job Skills,1,1,Communication
-2069,Business Acumen,8,1,Strategy/Planning/Management
-2073,P&L Management,0,1,Strategy/Planning/Management
-2076,Athletics,8,3,Other
-2077,Basketball,1,1,Other
-2078,Basketball Coaching,0,1,Other
-2080,Closing Costs,1,1,Sales
-2082,Counseling,5,2,Communication
-2083,Scouting,4,1,Other
-2085,Sports Coaching,0,1,Other
-2093,Termination of Employment,0,1,Other
-2107,Manners,4,1,Other
-2110,Order Processing,1,1,Other
-2119,Sales Strategy,5,4,Sales
-2121,Brand Ambassadorship,0,2,Brand
-2125,Foster Care,10,2,Other
-2136,Customer Service Management,0,2,Sales
-2139,Territory Management,2,1,Sales
-2143,Deal Closure,0,2,Other
-2152,Marketing Presentations,4,1,Sales
-2158,Account Marketing,1,1,Sales
-2159,Business Management,25,1,Strategy/Planning/Management
-2162,Perseverant,1,1,Other
-2164,Quality Control,6,1,Other
-2165,Team Management,4,3,Strategy/Planning/Management
-2166,Team Performance,11,1,Strategy/Planning/Management
-2174,Trusting Relationships,8,1,Communication
-2184,Active Listening,10,2,Communication
-2187,Entrepreneurship,15,2,Other
-2193,Client Representation,2,2,Sales
-2230,Morale,2,1,Other
-2237,Brand Loyalty,8,2,Brand
-2242,Sales Campaigns,13,3,Sales
-2248,New Client Acquisitions,2,1,Sales
-2251,Sales Target Management,0,1,Sales
-2279,Customer Facing Roles,5,2,Sales
-2294,Charity Work,1,1,Other
-2308,Mental Health,21,1,Other
-2314,Outreach Programs,4,1,Other
-2330,Compliance Procedures,1,1,Other
-2338,Technical Support,5,1,Other
-2366,Business Marketing,1,1,Strategy/Planning/Management
-2370,Sales Planning,1,1,Sales
-2418,Expert Communicator,2,2,Other
-2422,Common Sense,2,1,Other
-2423,Contract Terms,2,1,Other
-2427,Platform Management,4,1,Strategy/Planning/Management
-2431,Activations,9,1,Other
-2434,Executive Visibility,0,1,Other
-2435,Football,1,1,Other
-2439,Sports Industry,1,1,Other
-2440,Sports Marketing,3,1,Other
-2441,Building Science,1,1,Other
-2442,Construction Management,10,1,Strategy/Planning/Management
-2444,Design Development,2,1,Technology
-2446,Procore,5,2,Other
-2447,Revit,5,1,Other
-2450,Bluebeam,2,1,Other
-2452,Glazing,1,1,Other
-2455,Project Management Software,6,1,Strategy/Planning/Management
-2456,Request for Information (RFI),0,1,Other
-2459,Acknowledgements,1,1,Other
-2461,Bios,5,1,Other
-2462,Corporate Relations,1,1,Communication
-2468,Brainstorm Facilitation,0,1,Other
-2476,Social Networking,2,1,Communication
-2477,Americans with Disabilities Act,5,1,Other
-2484,Sales Contracts,0,1,Sales
-2485,Sales Negotiation,0,1,Sales
-2489,Management,486,82,Strategy/Planning/Management
-2493,Startups,2,1,Other
+skill_id,skill_name,appearance_in_description,appearance_in_skill,skill_group,pred
+1,Ad Serving,1,8,Social Media/Digital,Social Media/Digital
+2,Campaigns,262,71,Strategy/Planning/Management,Strategy/Planning/Management
+3,Digital Marketing,83,42,Graphic Design/Visual,Graphic Design/Visual
+4,Digital Media,12,3,Graphic Design/Visual,Graphic Design/Visual
+5,Marketing,597,192,Strategy/Planning/Management,Strategy/Planning/Management
+6,Marketing Campaigns,126,41,Strategy/Planning/Management,Strategy/Planning/Management
+7,Revenue Generation,1,2,Other,Other
+8,Search Engine Marketing (SEM),0,3,Social Media/Digital,Social Media/Digital
+9,Search Engine Optimization (SEO),2,19,Technology,Technology
+10,VBA Excel,0,2,Other,Other
+11,Event Marketing,13,5,Strategy/Planning/Management,Strategy/Planning/Management
+13,Networking,42,5,Communication,Communication
+14,Presentation Skills,31,10,Communication,Communication
+15,Public Speaking,21,4,Communication,Communication
+16,Relationship Building,16,8,Sales,Sales
+17,Sales and Marketing,82,39,Sales,Sales
+18,Social Media,181,77,Social Media/Digital,Social Media/Digital
+19,Sports,45,4,Other,Other
+20,B2B Marketing,6,1,Strategy/Planning/Management,Strategy/Planning/Management
+21,Business-to-Business (B2B),1,9,Strategy/Planning/Management,Strategy/Planning/Management
+23,Go-to-Market Strategy,6,3,Market Research,Market Research
+24,Marketing Analytics,6,19,Quantitative/Analytics,Quantitative/Analytics
+26,Marketing Mix Modeling,0,1,Quantitative/Analytics,Quantitative/Analytics
+27,Marketing Partnerships,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+28,Messaging,47,6,Other,Other
+29,Problem Solving,28,47,Strategy/Planning/Management,Strategy/Planning/Management
+30,Adobe Creative Suite,30,9,Graphic Design/Visual,Graphic Design/Visual
+31,Adobe Illustrator,6,3,Graphic Design/Visual,Graphic Design/Visual
+32,Adobe InDesign,9,4,Graphic Design/Visual,Graphic Design/Visual
+33,Adobe Photoshop,8,2,Graphic Design/Visual,Graphic Design/Visual
+34,After Effects,1,1,Other,Other
+35,Creative Marketing,11,1,Strategy/Planning/Management,Strategy/Planning/Management
+36,Graphics,43,5,Graphic Design/Visual,Graphic Design/Visual
+37,High Energy Level,0,1,Other,Other
+38,Music Lover,1,1,Other,Other
+39,Social Trends,1,1,Social Media/Digital,Social Media/Digital
+40,Brand Management,17,9,Brand,Brand
+42,Interactive Advertising,0,1,Other,Other
+43,Market Share,32,3,Market Research,Market Research
+46,Passionate about Work,1,2,Other,Other
+47,Strategy,179,23,Strategy/Planning/Management,Strategy/Planning/Management
+48,Teamwork,35,41,Communication,Communication
+49,Training,366,25,Other,Other
+50,Employee Benefits,13,3,Strategy/Planning/Management,Strategy/Planning/Management
+51,Marketing Management,9,6,Strategy/Planning/Management,Strategy/Planning/Management
+52,Skill Development,0,7,Technology,Technology
+54,Market Research,69,27,Market Research,Market Research
+55,Marketing Communications,45,24,Communication,Communication
+56,Online Marketing,6,5,Strategy/Planning/Management,Strategy/Planning/Management
+57,Public Relations,79,60,Communication,Communication
+60,Social Media Marketing,17,45,Social Media/Digital,Social Media/Digital
+66,Google Ads,13,5,Other,Other
+72,Community Engagement,13,3,Communication,Communication
+73,Community Outreach,13,2,Communication,Communication
+74,Customer Experience,41,7,Sales,Sales
+75,Events,266,15,Strategy/Planning/Management,Strategy/Planning/Management
+76,Hospitality Industry,6,1,Other,Other
+78,Product Demonstration,4,4,Other,Other
+81,Volunteering,2,1,Other,Other
+82,Competitive Analysis,7,1,Market Research,Market Research
+84,Email Marketing,40,12,Communication,Communication
+85,Klaviyo,6,1,Social Media/Digital,Social Media/Digital
+86,Market Segmentation,0,2,Market Research,Market Research
+88,Marketing Automation,20,4,Social Media/Digital,Social Media/Digital
+89,Marketing Campaign Plans,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+91,Performance Reviews,4,2,Other,Other
+92,Attention to Detail,136,20,Other,Other
+93,Cyber Risk Management,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+94,Data Cleaning,0,1,Quantitative/Analytics,Quantitative/Analytics
+95,Data Entry,34,5,Quantitative/Analytics,Quantitative/Analytics
+96,Data Integrity,4,2,Quantitative/Analytics,Quantitative/Analytics
+97,Deduplication,2,1,Other,Other
+98,Maturity Assessments,1,1,Quantitative/Analytics,Quantitative/Analytics
+99,Online Data Entry,0,2,Quantitative/Analytics,Quantitative/Analytics
+101,Content Management,27,7,Content/Writing,Content/Writing
+102,Digital Strategy,4,1,Graphic Design/Visual,Graphic Design/Visual
+103,Knowledge Acquisition,0,2,Other,Other
+105,Public Access,0,1,Communication,Communication
+107,Relationship Development,2,5,Sales,Sales
+108,Social Media Content Creation,1,2,Content/Writing,Content/Writing
+109,Web Content Writing,0,9,Content/Writing,Content/Writing
+110,Working Experience,5,4,Graphic Design/Visual,Graphic Design/Visual
+111,Campaign Strategies,10,3,Strategy/Planning/Management,Strategy/Planning/Management
+113,Computer Literacy,2,11,Other,Other
+115,Nonprofit Organizations,1,1,Other,Other
+116,Office 365,4,1,Other,Other
+119,Special Events,37,5,Strategy/Planning/Management,Strategy/Planning/Management
+120,Editing,85,9,Graphic Design/Visual,Graphic Design/Visual
+121,Graphic Design,54,12,Graphic Design/Visual,Graphic Design/Visual
+122,Hotel Management,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+123,Key Performance Indicators,8,8,Strategy/Planning/Management,Strategy/Planning/Management
+124,Paid Social Media,2,2,Social Media/Digital,Social Media/Digital
+125,Proofreading,24,5,Content/Writing,Content/Writing
+126,Property Management,5,1,Strategy/Planning/Management,Strategy/Planning/Management
+127,Sales Processes,2,8,Sales,Sales
+129,Adobe Acrobat,2,2,Graphic Design/Visual,Graphic Design/Visual
+135,Marketing Materials,77,20,Content/Writing,Content/Writing
+136,Newsletters,53,6,Content/Writing,Content/Writing
+137,Online Research,4,1,Market Research,Market Research
+138,Organization Skills,13,50,Strategy/Planning/Management,Strategy/Planning/Management
+139,Business Relationship Management,0,9,Strategy/Planning/Management,Strategy/Planning/Management
+142,Project Implementation,0,3,Strategy/Planning/Management,Strategy/Planning/Management
+144,Request for Proposal (RFP),0,1,Brand,Brand
+145,Unanet,1,1,Social Media/Digital,Social Media/Digital
+146,Writing,125,35,Content/Writing,Content/Writing
+148,Copywriting,35,12,Content/Writing,Content/Writing
+149,Creative Writing,2,3,Content/Writing,Content/Writing
+151,Journalism,28,6,Content/Writing,Content/Writing
+152,Merchandising,27,8,Sales,Sales
+153,Microsoft Outlook,4,3,Other,Other
+155,User Research,0,1,Other,Other
+157,Administration,54,13,Strategy/Planning/Management,Strategy/Planning/Management
+160,Event Planning,19,12,Strategy/Planning/Management,Strategy/Planning/Management
+161,Office Equipment,29,3,Other,Other
+162,Sales Operations,4,6,Sales,Sales
+165,Spreadsheets,12,3,Other,Other
+167,Critical Thinking,13,8,Strategy/Planning/Management,Strategy/Planning/Management
+168,Digital Campaigns,14,1,Graphic Design/Visual,Graphic Design/Visual
+169,Direct Marketing,29,6,Sales,Sales
+171,Marketing Programs,45,1,Strategy/Planning/Management,Strategy/Planning/Management
+172,Print Collateral,3,1,Other,Other
+173,Print Marketing,3,1,Content/Writing,Content/Writing
+174,Thinking Skills,7,4,Strategy/Planning/Management,Strategy/Planning/Management
+175,Vendor Relations,3,2,Other,Other
+180,Google Analytics,53,4,Quantitative/Analytics,Quantitative/Analytics
+185,Web Analytics,14,8,Quantitative/Analytics,Quantitative/Analytics
+186,Branding,41,15,Brand,Brand
+188,Local Marketing,3,1,Other,Other
+191,Product Promotion,3,1,Other,Other
+193,Skilled Multi-tasker,0,15,Other,Other
+194,Strategic Initiatives,6,1,Strategy/Planning/Management,Strategy/Planning/Management
+198,Integrated Marketing,13,2,Strategy/Planning/Management,Strategy/Planning/Management
+199,Market Planning,0,16,Market Research,Market Research
+203,Written Communication,76,17,Communication,Communication
+205,Creative Briefs,4,2,Other,Other
+206,Flawless Execution,4,1,Strategy/Planning/Management,Strategy/Planning/Management
+207,Gatekeeper,4,2,Other,Other
+209,Marketing Campaign Management,1,8,Strategy/Planning/Management,Strategy/Planning/Management
+211,Test Planning,1,1,Technology,Technology
+212,Test Requirements,1,1,Other,Other
+213,Bloomreach,1,1,Other,Other
+214,Braze,3,1,Other,Other
+215,Cross-Channel Marketing,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+217,Establishing Priorities,1,1,Other,Other
+221,Multi-Channel Marketing,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+222,Project Performance,2,1,Strategy/Planning/Management,Strategy/Planning/Management
+223,Business Development,59,7,Strategy/Planning/Management,Strategy/Planning/Management
+224,Client Relations,44,15,Sales,Sales
+225,Leadership,211,21,Strategy/Planning/Management,Strategy/Planning/Management
+228,Sales Marketing,3,1,Sales,Sales
+231,Team Leadership,12,6,Strategy/Planning/Management,Strategy/Planning/Management
+232,Blogging,2,2,Content/Writing,Content/Writing
+233,Business Administration,21,1,Strategy/Planning/Management,Strategy/Planning/Management
+234,Content Marketing,24,5,Content/Writing,Content/Writing
+239,Marketing Copy,5,3,Content/Writing,Content/Writing
+240,Narrative,5,1,Content/Writing,Content/Writing
+242,Analytics,109,31,Quantitative/Analytics,Quantitative/Analytics
+243,Business Strategy,4,1,Strategy/Planning/Management,Strategy/Planning/Management
+244,Coordinating Activities,12,4,Strategy/Planning/Management,Strategy/Planning/Management
+245,Interpersonal Skills,77,37,Communication,Communication
+246,Market Analysis,2,5,Market Research,Market Research
+249,Product Marketing,19,17,Strategy/Planning/Management,Strategy/Planning/Management
+250,Sales Execution,1,1,Sales,Sales
+251,ClickUp,0,1,Other,Other
+255,Marketing Agencies,2,1,Other,Other
+256,Phone Etiquette,2,11,Communication,Communication
+257,Photo Shoots,7,2,Other,Other
+258,Pivot Tables,1,3,Quantitative/Analytics,Quantitative/Analytics
+260,Task Completion,0,1,Other,Other
+262,Lead Generation,44,11,Sales,Sales
+266,Marketing Metrics,5,1,Strategy/Planning/Management,Strategy/Planning/Management
+267,Networking Events,7,2,Communication,Communication
+268,Pay Per Click (PPC),0,1,Other,Other
+269,Product Branding,1,1,Brand,Brand
+270,Campaign Effectiveness,3,3,Strategy/Planning/Management,Strategy/Planning/Management
+271,Commercial Awareness,4,2,Brand,Brand
+272,Inside Sales,4,1,Sales,Sales
+274,Media Management,22,4,Social Media/Digital,Social Media/Digital
+275,Presentations,103,50,Communication,Communication
+278,Social Media Management,22,4,Social Media/Digital,Social Media/Digital
+280,Census,8,2,Other,Other
+281,English,43,5,Other,Other
+282,Key Metrics,7,2,Strategy/Planning/Management,Strategy/Planning/Management
+283,Marketing Budget Management,1,2,Strategy/Planning/Management,Strategy/Planning/Management
+287,Story,83,3,Social Media/Digital,Social Media/Digital
+290,Interpersonal Relationships,0,1,Communication,Communication
+301,Media Relations,7,6,Social Media/Digital,Social Media/Digital
+302,Multimedia Marketing Campaigns,2,1,Strategy/Planning/Management,Strategy/Planning/Management
+303,Press Releases,25,17,Other,Other
+308,Direct Response Marketing,2,1,Sales,Sales
+313,Paid Media Advertising,0,3,Social Media/Digital,Social Media/Digital
+314,Promotional Videos,1,1,Graphic Design/Visual,Graphic Design/Visual
+316,Collateral,68,3,Other,Other
+317,Content Creation,26,4,Content/Writing,Content/Writing
+318,Content Development,9,3,Content/Writing,Content/Writing
+321,Marketing Operations,6,4,Strategy/Planning/Management,Strategy/Planning/Management
+322,Online Reputation Management,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+323,Operations Processes,1,1,Other,Other
+324,Social Media Optimization (SMO),0,2,Social Media/Digital,Social Media/Digital
+325,Subject Matter Experts,11,2,Other,Other
+327,Customer Service,222,37,Sales,Sales
+329,Mathematics,4,3,Quantitative/Analytics,Quantitative/Analytics
+330,Open Platform Communication (OPC),0,1,Communication,Communication
+334,Tour Production,1,1,Other,Other
+336,Photography,19,2,Graphic Design/Visual,Graphic Design/Visual
+343,YouTube,19,1,Social Media/Digital,Social Media/Digital
+344,Expense Reports,10,6,Quantitative/Analytics,Quantitative/Analytics
+345,Expenses,20,6,Strategy/Planning/Management,Strategy/Planning/Management
+346,Lead Qualification,0,4,Sales,Sales
+350,Project Initiation,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+351,Sales Meetings,9,4,Sales,Sales
+353,Analytical Skills,33,9,Quantitative/Analytics,Quantitative/Analytics
+354,Customer Relationship Management (CRM),6,5,Sales,Sales
+357,Research Skills,4,5,Communication,Communication
+360,Face-to-face Marketing,2,1,Sales,Sales
+361,Goal Setting,3,1,Strategy/Planning/Management,Strategy/Planning/Management
+366,Team Development,7,1,Strategy/Planning/Management,Strategy/Planning/Management
+369,Dispositions,2,1,Other,Other
+371,General Public,2,1,Communication,Communication
+379,ESPPs,0,2,Other,Other
+383,Salesforce.com,4,2,Quantitative/Analytics,Quantitative/Analytics
+384,Salesforce.com Development,0,1,Quantitative/Analytics,Quantitative/Analytics
+385,Technical Execution,1,1,Other,Other
+391,Internal Customers,2,1,Other,Other
+392,Multitasking,13,8,Other,Other
+393,Oral Communication,18,23,Communication,Communication
+395,Customer Engagement,16,3,Sales,Sales
+397,Customer Loyalty,11,1,Sales,Sales
+400,Product Training,6,1,Other,Other
+404,Brand Development,0,1,Brand,Brand
+409,Negotiation,26,21,Sales,Sales
+412,Advertising,152,22,Other,Other
+415,Landing Pages,19,3,Other,Other
+416,Marketing Documents,2,1,Content/Writing,Content/Writing
+417,Optimization,36,23,Technology,Technology
+420,React.js,0,1,Technology,Technology
+421,Sales Presentations,9,6,Sales,Sales
+423,Alumni Relations,2,2,Communication,Communication
+424,Benchmarking,6,2,Strategy/Planning/Management,Strategy/Planning/Management
+425,Health Assessment,1,1,Other,Other
+426,Media Planning,5,2,Social Media/Digital,Social Media/Digital
+427,Paid Advertising,7,1,Other,Other
+430,Student Recruiting,0,1,Other,Other
+431,Acute Care,2,1,Other,Other
+433,Easily Adaptable,0,3,Other,Other
+434,Long-term Care,8,1,Other,Other
+435,Managed Care,3,2,Other,Other
+438,Nursing,10,1,Other,Other
+440,Creativity and Innovation,1,2,Other,Other
+443,Psychology,10,1,Other,Other
+445,Self-confidence,2,1,Other,Other
+446,Sociology,1,1,Other,Other
+447,Sports Management,5,1,Strategy/Planning/Management,Strategy/Planning/Management
+448,Strategic Communications,1,15,Communication,Communication
+452,Content Strategy,9,5,Content/Writing,Content/Writing
+453,Creative Agencies,6,1,Other,Other
+455,Organic Search,3,1,Other,Other
+461,Magazine Articles,0,1,Other,Other
+467,Technical Requirements,0,1,Other,Other
+468,Trade Shows,19,1,Other,Other
+472,E-newsletter,2,1,Other,Other
+475,Online Advertising,2,1,Other,Other
+481,Digital Communication,21,5,Graphic Design/Visual,Graphic Design/Visual
+482,Growth Strategies,21,5,Strategy/Planning/Management,Strategy/Planning/Management
+488,Web Conferencing,0,6,Technology,Technology
+529,Customer Retention,18,6,Sales,Sales
+532,New Leads,7,2,Other,Other
+541,Creative Problem Solving,2,2,Strategy/Planning/Management,Strategy/Planning/Management
+543,Information Design,1,1,Graphic Design/Visual,Graphic Design/Visual
+549,Marketing Support,7,1,Strategy/Planning/Management,Strategy/Planning/Management
+552,Audio Conferencing,0,8,Graphic Design/Visual,Graphic Design/Visual
+554,Field Marketing,21,5,Sales,Sales
+557,Promotional Marketing,15,3,Sales,Sales
+562,Professional Skills,0,2,Communication,Communication
+569,Graphic Design Software,5,2,Graphic Design/Visual,Graphic Design/Visual
+571,Media Engagement,3,1,Social Media/Digital,Social Media/Digital
+572,Media Marketing,19,45,Social Media/Digital,Social Media/Digital
+574,Video Editing,11,2,Graphic Design/Visual,Graphic Design/Visual
+575,Corporate Financial Reporting,0,2,Quantitative/Analytics,Quantitative/Analytics
+579,Itineraries,16,2,Other,Other
+580,Organizing Meetings,3,1,Other,Other
+583,Basic Math,3,1,Quantitative/Analytics,Quantitative/Analytics
+584,Grammar,21,4,Content/Writing,Content/Writing
+585,Grief Counseling,0,1,Communication,Communication
+589,Punctuation,3,1,Other,Other
+590,Spelling,5,2,Content/Writing,Content/Writing
+591,Strategic Thinking,5,4,Strategy/Planning/Management,Strategy/Planning/Management
+593,Flow Charts,0,1,Other,Other
+603,Broker Opinion of Value,1,1,Other,Other
+604,Case Studies,12,2,Quantitative/Analytics,Quantitative/Analytics
+605,Client Presentation,3,1,Sales,Sales
+613,Information Gathering,1,1,Other,Other
+615,Marketing Reporting,1,1,Quantitative/Analytics,Quantitative/Analytics
+616,Microsoft PowerPoint,1,4,Other,Other
+618,Technical Writing,2,1,Content/Writing,Content/Writing
+620,Business Writing,2,1,Content/Writing,Content/Writing
+622,Cultural Competency,1,1,Other,Other
+623,Intercultural Awareness,0,1,Other,Other
+624,Intercultural Skills,0,1,Communication,Communication
+632,Company Newsletters,2,1,Content/Writing,Content/Writing
+644,Influencer Marketing,3,1,Strategy/Planning/Management,Strategy/Planning/Management
+648,Performance Analysis,2,1,Quantitative/Analytics,Quantitative/Analytics
+649,Timelines,40,1,Other,Other
+655,Property Inspections,0,1,Other,Other
+657,Virtual Tours,1,1,Other,Other
+658,Brand Marketing,32,5,Brand,Brand
+660,Customer Acquisition,41,15,Sales,Sales
+665,Visual Merchandising,8,6,Graphic Design/Visual,Graphic Design/Visual
+666,Adjudication,1,1,Other,Other
+667,Conflict Of Interest,1,1,Communication,Communication
+668,Disclosure,6,1,Other,Other
+670,Government Ethics,1,1,Other,Other
+671,Project Plans,8,1,Strategy/Planning/Management,Strategy/Planning/Management
+672,Public Law,2,1,Other,Other
+673,Supervisory Skills,0,3,Communication,Communication
+674,Training Programs,10,2,Other,Other
+675,U.S. Department of Agriculture (USDA),0,1,Other,Other
+676,Brand Strategy,7,4,Brand,Brand
+680,MLRO,1,1,Other,Other
+685,Quality Processes,1,1,Other,Other
+689,HTML Emails,0,1,Quantitative/Analytics,Quantitative/Analytics
+693,Mass Email Marketing,1,1,Communication,Communication
+694,Web Technologies,3,1,Technology,Technology
+695,Direct Sales,10,2,Sales,Sales
+697,Internet Access,7,1,Other,Other
+706,Data Reporting,0,1,Quantitative/Analytics,Quantitative/Analytics
+708,Email Analytics,0,1,Quantitative/Analytics,Quantitative/Analytics
+709,Email Lists,4,1,Other,Other
+711,Lists,67,3,Other,Other
+713,SMS,7,1,Communication,Communication
+722,Appointment Scheduling,1,1,Other,Other
+723,Casualty Insurance,0,1,Other,Other
+725,Customer-Focused Service,0,2,Sales,Sales
+727,People-Oriented,15,4,Other,Other
+741,Brand Identity,8,1,Brand,Brand
+742,Diplomacy,3,1,Communication,Communication
+743,Event Management,4,2,Strategy/Planning/Management,Strategy/Planning/Management
+745,Managing Meetings,0,1,Other,Other
+747,Rooming Lists,0,1,Other,Other
+754,Marketing Research,4,1,Market Research,Market Research
+764,Retail Sales,7,3,Sales,Sales
+765,Sales Management,4,2,Sales,Sales
+767,Graphic Design Principles,3,1,Graphic Design/Visual,Graphic Design/Visual
+768,HTML,27,3,Technology,Technology
+769,On-Page Optimization,1,1,Technology,Technology
+771,Optimization Techniques,1,1,Quantitative/Analytics,Quantitative/Analytics
+772,Responsive Web Design,1,1,Graphic Design/Visual,Graphic Design/Visual
+773,User Behavior,2,1,Other,Other
+775,Web Design,2,3,Graphic Design/Visual,Graphic Design/Visual
+776,WordPress,28,2,Other,Other
+782,Scanning Electron Microscopy (SEM),0,1,Other,Other
+785,White Papers,4,1,Content/Writing,Content/Writing
+796,Creative Direction,2,1,Other,Other
+797,Cross-functional Team Leadership,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+798,Inspiration,7,1,Other,Other
+799,Liberal Arts,3,1,Other,Other
+804,Target Audience,47,3,Other,Other
+807,Creativity Skills,0,2,Communication,Communication
+810,Marketing Literature,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+812,Telemarketing,11,2,Other,Other
+814,Adobe Creative Cloud,11,2,Graphic Design/Visual,Graphic Design/Visual
+815,Communication Training,0,11,Communication,Communication
+821,Proposal Writing,0,1,Content/Writing,Content/Writing
+823,Carnival,1,1,Other,Other
+824,Content Design,3,1,Content/Writing,Content/Writing
+826,Creative Design,3,1,Graphic Design/Visual,Graphic Design/Visual
+828,Social Advertising (Social Issues),0,1,Social Media/Digital,Social Media/Digital
+829,Social Media Advertising,5,2,Social Media/Digital,Social Media/Digital
+831,Voice Acting,0,1,Other,Other
+832,Cold Calling,2,2,Sales,Sales
+835,Liability,7,2,Other,Other
+836,Liability Insurance,0,1,Other,Other
+842,Editing Software,7,2,Graphic Design/Visual,Graphic Design/Visual
+843,Internal and External Communications,2,1,Communication,Communication
+850,Facilitation,6,6,Other,Other
+851,Interpersonal Communication,12,11,Communication,Communication
+856,Subrogation,0,5,Other,Other
+857,Thought Leadership,8,5,Strategy/Planning/Management,Strategy/Planning/Management
+858,Value Propositions,6,5,Other,Other
+870,Educational Administration,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+874,Recruiting,37,4,Other,Other
+877,Title IX,2,2,Other,Other
+879,Chartered Financial Analyst,0,1,Quantitative/Analytics,Quantitative/Analytics
+880,External Communications,6,2,Communication,Communication
+881,Fine Art,0,1,Graphic Design/Visual,Graphic Design/Visual
+886,Storytelling,13,1,Graphic Design/Visual,Graphic Design/Visual
+889,Internal Communications,28,8,Communication,Communication
+925,Fundraising,19,4,Other,Other
+931,Sales Promotion,10,4,Sales,Sales
+933,Coaching,36,7,Other,Other
+949,Brand Awareness,70,13,Brand,Brand
+955,Shopify,3,1,Social Media/Digital,Social Media/Digital
+958,Text Marketing,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+959,Business Transactions,3,1,Strategy/Planning/Management,Strategy/Planning/Management
+961,Creative Strategy,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+967,Travel Marketing,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+968,Digital Content,11,2,Graphic Design/Visual,Graphic Design/Visual
+970,Information Research,0,1,Market Research,Market Research
+972,Media Evaluation,1,1,Social Media/Digital,Social Media/Digital
+973,Media Strategy,15,2,Social Media/Digital,Social Media/Digital
+976,Social Media Strategy,11,1,Social Media/Digital,Social Media/Digital
+978,Customer Success,15,2,Sales,Sales
+979,Enablement,9,2,Other,Other
+983,Panel Discussions,2,1,Other,Other
+984,Product Management,17,2,Strategy/Planning/Management,Strategy/Planning/Management
+986,Sales Enablement,5,2,Sales,Sales
+988,Competitive Intelligence,6,1,Market Research,Market Research
+997,Brochures,32,2,Other,Other
+999,Company Brochures,1,1,Other,Other
+1002,Numeracy,0,1,Other,Other
+1004,Report Writing,0,2,Content/Writing,Content/Writing
+1009,Microsoft Office,102,2,Other,Other
+1013,Trade Marketing,3,1,Strategy/Planning/Management,Strategy/Planning/Management
+1018,Salesforce Quip,0,1,Quantitative/Analytics,Quantitative/Analytics
+1019,Software as a Service (SaaS),0,1,Technology,Technology
+1034,Brand Activation,1,2,Brand,Brand
+1036,Community Building,13,2,Communication,Communication
+1037,Grassroots Marketing,8,2,Strategy/Planning/Management,Strategy/Planning/Management
+1038,Grassroots Organizing,0,2,Strategy/Planning/Management,Strategy/Planning/Management
+1040,Personal Responsibility,10,2,Other,Other
+1041,Seeding,9,2,Strategy/Planning/Management,Strategy/Planning/Management
+1042,Team Motivation,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+1043,Financial Reporting,1,3,Quantitative/Analytics,Quantitative/Analytics
+1044,Google Workspace,3,2,Other,Other
+1046,Manufacturing Processes,1,1,Other,Other
+1048,Performance Reporting,2,1,Quantitative/Analytics,Quantitative/Analytics
+1049,Pre-production,1,1,Other,Other
+1050,Quantitative Analytics,0,2,Quantitative/Analytics,Quantitative/Analytics
+1051,Retail Math,1,2,Quantitative/Analytics,Quantitative/Analytics
+1052,Sample Development,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+1054,Mailing Lists,3,1,Other,Other
+1058,Product Service,0,1,Other,Other
+1060,Sales & Marketing Leadership,0,1,Sales,Sales
+1063,Forecasting,13,1,Quantitative/Analytics,Quantitative/Analytics
+1070,Attitude Change,0,1,Other,Other
+1071,Box Cloud,0,1,Technology,Technology
+1074,Experiential Marketing,14,1,Strategy/Planning/Management,Strategy/Planning/Management
+1078,Reporting,119,8,Quantitative/Analytics,Quantitative/Analytics
+1080,Account Management,30,8,Sales,Sales
+1081,Ad Tech,1,1,Social Media/Digital,Social Media/Digital
+1082,Advertising Campaigns,11,3,Strategy/Planning/Management,Strategy/Planning/Management
+1083,Business Reviews,3,1,Other,Other
+1088,Value Selling,1,1,Sales,Sales
+1089,Training Management,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+1090,Business Communications,8,4,Communication,Communication
+1108,Budgeting,9,3,Strategy/Planning/Management,Strategy/Planning/Management
+1111,Event Production,1,3,Strategy/Planning/Management,Strategy/Planning/Management
+1115,Vendor Management,8,2,Strategy/Planning/Management,Strategy/Planning/Management
+1139,Quote,17,1,Content/Writing,Content/Writing
+1151,Calendaring,2,2,Other,Other
+1152,Client Communication,10,2,Sales,Sales
+1153,Confidentiality,20,3,Other,Other
+1154,Conventions,4,2,Other,Other
+1155,Customer Education,4,2,Sales,Sales
+1156,Executive Support,0,2,Other,Other
+1159,Travel Arrangements,15,3,Strategy/Planning/Management,Strategy/Planning/Management
+1169,Customer Insight,8,1,Quantitative/Analytics,Quantitative/Analytics
+1182,Onboarding,19,4,Communication,Communication
+1183,Purchase Orders,14,3,Other,Other
+1185,Upselling,6,2,Sales,Sales
+1186,Contact Centers,0,2,Communication,Communication
+1189,Customer Support,25,3,Sales,Sales
+1193,Product Knowledge,36,9,Brand,Brand
+1194,Troubleshooting,5,1,Other,Other
+1199,Deals,14,1,Other,Other
+1203,Customer Satisfaction,22,10,Sales,Sales
+1215,Client Accounts,7,1,Sales,Sales
+1217,Key Accounts,6,1,Other,Other
+1220,Partner Relationship Management,0,1,Sales,Sales
+1222,Strategic Marketing,6,1,Strategy/Planning/Management,Strategy/Planning/Management
+1225,Live Events,5,3,Strategy/Planning/Management,Strategy/Planning/Management
+1229,Sponsorship,27,1,Other,Other
+1231,Workload Prioritization,0,2,Other,Other
+1233,Diverse Groups,2,1,Other,Other
+1236,Reporting Requirements,2,1,Other,Other
+1247,Corporate Events,3,4,Strategy/Planning/Management,Strategy/Planning/Management
+1271,Corporate Communications,19,7,Communication,Communication
+1279,Business Modeling,0,1,Quantitative/Analytics,Quantitative/Analytics
+1286,Special Events Coordination,0,2,Strategy/Planning/Management,Strategy/Planning/Management
+1292,Team Building,7,1,Communication,Communication
+1299,Customer Interaction,16,3,Sales,Sales
+1318,Positioning (Marketing),0,1,Strategy/Planning/Management,Strategy/Planning/Management
+1319,Strategic Business,3,1,Strategy/Planning/Management,Strategy/Planning/Management
+1321,Success Stories,4,1,Other,Other
+1331,Administrative Assistance,0,11,Other,Other
+1338,Outdoor Advertising,13,3,Sales,Sales
+1359,Intercollegiate Athletics,2,1,Other,Other
+1362,Record Keeping,2,1,Other,Other
+1367,Receptionist Duties,1,4,Communication,Communication
+1370,Media Events,1,1,Social Media/Digital,Social Media/Digital
+1371,Media Monitoring,1,1,Social Media/Digital,Social Media/Digital
+1379,Hotjar,1,1,Other,Other
+1380,SEMrush,3,1,Other,Other
+1382,Web Content Management,2,1,Content/Writing,Content/Writing
+1385,Yext,3,1,Social Media/Digital,Social Media/Digital
+1386,Audience Measurement,0,1,Other,Other
+1392,Service Standards,3,1,Other,Other
+1395,ADP E-Time,0,1,Quantitative/Analytics,Quantitative/Analytics
+1396,Cancellations,3,2,Other,Other
+1397,Credit Cards,3,1,Other,Other
+1398,Healthy Lifestyle,1,1,Other,Other
+1399,IBM iSeries,0,1,Other,Other
+1400,Loan Workouts,0,1,Other,Other
+1401,Membership Development,0,1,Technology,Technology
+1402,Membership Sales,1,1,Sales,Sales
+1403,Silver Sneakers,1,1,Other,Other
+1405,Annual Giving,1,1,Other,Other
+1406,Business Intelligence (BI),0,1,Quantitative/Analytics,Quantitative/Analytics
+1410,Direct Mail,13,1,Sales,Sales
+1414,Accounting Standards,0,1,Other,Other
+1417,Financial Analysis,2,1,Quantitative/Analytics,Quantitative/Analytics
+1418,Financial Regulations,1,1,Other,Other
+1419,Financial Software,1,1,Technology,Technology
+1422,Variance Analysis,1,1,Quantitative/Analytics,Quantitative/Analytics
+1423,Business Engagement,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+1431,Child Welfare,1,1,Other,Other
+1432,Program Management,3,1,Strategy/Planning/Management,Strategy/Planning/Management
+1435,Beauty,8,1,Other,Other
+1437,Consultations,2,1,Other,Other
+1442,Skin Care,1,1,Other,Other
+1446,Databases,44,2,Quantitative/Analytics,Quantitative/Analytics
+1447,Handle Multiple Projects,5,1,Other,Other
+1450,Security Protocols,1,1,Technology,Technology
+1451,Sensitive Information,6,1,Other,Other
+1452,Data Analysis,10,3,Quantitative/Analytics,Quantitative/Analytics
+1453,Data Collection,5,2,Market Research,Market Research
+1454,Database Administration,0,2,Technology,Technology
+1455,Human Rights Law,0,2,Other,Other
+1456,IBM SPSS,0,2,Other,Other
+1457,Institutional Review Board (IRB),0,2,Other,Other
+1458,Literature Reviews,1,2,Other,Other
+1459,REDCap,0,2,Other,Other
+1460,Statistical Analysis,1,2,Quantitative/Analytics,Quantitative/Analytics
+1464,Community Foundations,8,1,Communication,Communication
+1467,Guest Experience,10,1,Other,Other
+1480,Budget Tracking,1,1,Other,Other
+1481,Calendars,38,2,Other,Other
+1483,Heavy Equipment,2,1,Other,Other
+1485,Production Assistance,0,1,Other,Other
+1486,Production Processes,1,1,Other,Other
+1489,Building Operations,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+1490,Memos,4,1,Other,Other
+1494,Service Orientation (Social),0,1,Communication,Communication
+1495,Solid Professional Standards,0,4,Communication,Communication
+1496,Technical Services,0,1,Other,Other
+1498,Establishing Relationships,4,1,Communication,Communication
+1504,Video Production,8,3,Graphic Design/Visual,Graphic Design/Visual
+1507,Benefits Administration,1,1,Other,Other
+1508,Employee Orientations,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+1509,Employee Relations,2,3,Communication,Communication
+1510,HR Policies,0,2,Other,Other
+1511,Human Resources (HR),1,5,Other,Other
+1512,New Hire Orientations,0,1,Other,Other
+1514,Payroll Administration,0,1,Other,Other
+1516,HMO,2,1,Other,Other
+1518,Laserfiche,0,1,Other,Other
+1521,Medi-Cal,0,1,Other,Other
+1522,Medicare,3,1,Other,Other
+1523,Network Administration,0,1,Technology,Technology
+1533,Account Coordination,3,2,Sales,Sales
+1542,Business Analysis,1,1,Quantitative/Analytics,Quantitative/Analytics
+1543,Business Reporting,0,1,Quantitative/Analytics,Quantitative/Analytics
+1546,Data Analytics,15,1,Quantitative/Analytics,Quantitative/Analytics
+1548,Quantitative Research,3,1,Quantitative/Analytics,Quantitative/Analytics
+1549,Statistical Tools,0,1,Quantitative/Analytics,Quantitative/Analytics
+1563,Managing Accounts (Accounting),0,1,Other,Other
+1569,Contract Negotiation,2,4,Sales,Sales
+1575,Telecommunications,29,2,Other,Other
+1576,Apparel,15,1,Other,Other
+1577,Emotional Intelligence,2,2,Communication,Communication
+1579,Merchandise Planning,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+1580,Open to Buy Management,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+1581,Persistence,1,1,Other,Other
+1582,Product Development,16,1,Strategy/Planning/Management,Strategy/Planning/Management
+1584,Redash,0,1,Other,Other
+1587,Google Docs,4,1,Other,Other
+1588,Google Sheets,2,1,Other,Other
+1589,HubSpot,23,2,Other,Other
+1595,Business Planning,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+1596,Constructive Feedback,6,3,Communication,Communication
+1598,Hands-on Training,12,1,Other,Other
+1600,New Business Development,2,1,Strategy/Planning/Management,Strategy/Planning/Management
+1602,Solution-oriented,13,4,Other,Other
+1604,Customer Relations,47,9,Sales,Sales
+1610,Service Orders,1,1,Other,Other
+1612,Bookings,2,1,Other,Other
+1613,International Travel,3,1,Other,Other
+1615,Travel Agencies,1,1,Other,Other
+1618,Opening New Accounts,1,1,Other,Other
+1621,Product Presentation,4,3,Communication,Communication
+1630,Project Coordination,6,3,Strategy/Planning/Management,Strategy/Planning/Management
+1636,New Customer Acquisitions,7,3,Sales,Sales
+1641,Compliance Regulations,1,1,Other,Other
+1647,Streamlining,2,1,Other,Other
+1651,Business Networking,0,1,Communication,Communication
+1666,Assortment Strategies,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+1670,Manual Handling,1,1,Sales,Sales
+1671,Refunds,6,2,Other,Other
+1672,Stock Management,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+1673,Styling,5,2,Graphic Design/Visual,Graphic Design/Visual
+1676,Quick Thinking,3,1,Strategy/Planning/Management,Strategy/Planning/Management
+1679,Destination Weddings,9,1,Other,Other
+1683,Realistic Animation,0,1,Graphic Design/Visual,Graphic Design/Visual
+1684,Thorough Research,12,1,Market Research,Market Research
+1685,Wedding Coordinating,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+1686,Wedding Planning,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+1687,Weddings,16,1,Other,Other
+1688,Build Strong Relationships,10,3,Communication,Communication
+1689,Consumer Behavior,8,1,Market Research,Market Research
+1692,Inventory Management,4,1,Strategy/Planning/Management,Strategy/Planning/Management
+1694,Mobile Communications,0,1,Communication,Communication
+1696,Procurement,7,1,Other,Other
+1697,Supplier Performance,0,1,Other,Other
+1699,Content Delivery,2,2,Content/Writing,Content/Writing
+1700,Keyword Research,5,1,Market Research,Market Research
+1704,Product Launch,15,1,Brand,Brand
+1724,Compensation,149,3,Other,Other
+1725,General Administration,0,1,Technology,Technology
+1734,Marketing Campaign Effectiveness,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+1739,Sales Letters,1,1,Sales,Sales
+1746,Resolutions,5,1,Other,Other
+1750,Financial Advisory,0,1,Quantitative/Analytics,Quantitative/Analytics
+1753,Product Lifecycle Management,2,1,Strategy/Planning/Management,Strategy/Planning/Management
+1764,Campaign Development,5,2,Strategy/Planning/Management,Strategy/Planning/Management
+1774,Coaching & Mentoring,0,1,Other,Other
+1776,Investigation,10,1,Other,Other
+1778,Project Analysis,2,1,Quantitative/Analytics,Quantitative/Analytics
+1779,Trademark Law,2,1,Other,Other
+1780,Work Alone,2,1,Other,Other
+1781,Working with Offenders,0,1,Sales,Sales
+1782,Applicant Tracking Systems,0,1,Technology,Technology
+1784,Interviewing,28,2,Communication,Communication
+1789,Talent Management,2,1,Strategy/Planning/Management,Strategy/Planning/Management
+1822,Marketing Consulting,5,1,Strategy/Planning/Management,Strategy/Planning/Management
+1862,Job Satisfaction,0,1,Other,Other
+1866,Public Communications,0,1,Communication,Communication
+1870,Errands,3,2,Other,Other
+1872,Food Preparation,1,1,Other,Other
+1873,Household,7,1,Other,Other
+1874,Laundry,1,1,Other,Other
+1876,Meal Planning,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+1877,Personal Assistance,2,1,Other,Other
+1878,Professional Liability,1,1,Other,Other
+1880,Emissions Trading,0,1,Other,Other
+1882,Follow Directions,2,1,Sales,Sales
+1883,MSDS,1,1,Other,Other
+1884,Motor Vehicle,3,1,Other,Other
+1886,Residential Construction,0,1,Other,Other
+1887,Truck,0,1,Other,Other
+1892,Office Administration,4,2,Strategy/Planning/Management,Strategy/Planning/Management
+1901,Partner Recruitment,0,1,Other,Other
+1904,Services Sales,0,1,Sales,Sales
+1924,Dreamweaver,2,1,Other,Other
+1928,Mobile Application Development,0,1,Technology,Technology
+1929,Mobile Marketing,2,1,Social Media/Digital,Social Media/Digital
+1940,Cascading Style Sheets (CSS),0,1,Other,Other
+1941,Computer Graphics,0,1,Other,Other
+1944,Logo Design,0,1,Graphic Design/Visual,Graphic Design/Visual
+1945,User Interface Design,0,2,Graphic Design/Visual,Graphic Design/Visual
+1956,Account Planning,0,1,Sales,Sales
+1973,Fashion Retail,1,1,Graphic Design/Visual,Graphic Design/Visual
+1976,Store Management,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+1980,Window Displays,0,1,Other,Other
+1988,Social Media Communications,0,1,Social Media/Digital,Social Media/Digital
+1992,Executive Management,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+2002,Information Technology,2,1,Other,Other
+2006,Project Planning,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+2007,Software Project Management,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+2017,TV Production,1,1,Other,Other
+2018,Television,4,1,Other,Other
+2031,Agile Methodologies,0,1,Other,Other
+2033,Content Management Systems (CMS),3,1,Content/Writing,Content/Writing
+2036,Site Maps,0,1,Other,Other
+2037,Tone of Voice,8,1,Other,Other
+2038,User Experience (UX),0,1,Graphic Design/Visual,Graphic Design/Visual
+2042,Consumer Marketing,5,1,Sales,Sales
+2044,Fast-Moving Consumer Goods (FMCG),0,1,Other,Other
+2045,Launches,24,1,Brand,Brand
+2047,On Site,8,1,Other,Other
+2048,Retail Marketing,5,1,Sales,Sales
+2049,Retail Operations,1,1,Other,Other
+2053,Branding & Identity,0,1,Brand,Brand
+2057,Sketching,0,1,Other,Other
+2063,Initiation,1,2,Strategy/Planning/Management,Strategy/Planning/Management
+2064,Job Skills,1,1,Communication,Communication
+2069,Business Acumen,8,1,Strategy/Planning/Management,Strategy/Planning/Management
+2073,P&L Management,0,1,Strategy/Planning/Management,Strategy/Planning/Management
+2076,Athletics,8,3,Other,Other
+2077,Basketball,1,1,Other,Other
+2078,Basketball Coaching,0,1,Other,Other
+2080,Closing Costs,1,1,Sales,Sales
+2082,Counseling,5,2,Communication,Communication
+2083,Scouting,4,1,Other,Other
+2085,Sports Coaching,0,1,Other,Other
+2093,Termination of Employment,0,1,Other,Other
+2107,Manners,4,1,Other,Other
+2110,Order Processing,1,1,Other,Other
+2119,Sales Strategy,5,4,Sales,Sales
+2121,Brand Ambassadorship,0,2,Brand,Brand
+2125,Foster Care,10,2,Other,Other
+2136,Customer Service Management,0,2,Sales,Sales
+2139,Territory Management,2,1,Sales,Sales
+2143,Deal Closure,0,2,Other,Other
+2152,Marketing Presentations,4,1,Sales,Sales
+2158,Account Marketing,1,1,Sales,Sales
+2159,Business Management,25,1,Strategy/Planning/Management,Strategy/Planning/Management
+2162,Perseverant,1,1,Other,Other
+2164,Quality Control,6,1,Other,Other
+2165,Team Management,4,3,Strategy/Planning/Management,Strategy/Planning/Management
+2166,Team Performance,11,1,Strategy/Planning/Management,Strategy/Planning/Management
+2174,Trusting Relationships,8,1,Communication,Communication
+2184,Active Listening,10,2,Communication,Communication
+2187,Entrepreneurship,15,2,Other,Other
+2193,Client Representation,2,2,Sales,Sales
+2230,Morale,2,1,Other,Other
+2237,Brand Loyalty,8,2,Brand,Brand
+2242,Sales Campaigns,13,3,Sales,Sales
+2248,New Client Acquisitions,2,1,Sales,Sales
+2251,Sales Target Management,0,1,Sales,Sales
+2279,Customer Facing Roles,5,2,Sales,Sales
+2294,Charity Work,1,1,Other,Other
+2308,Mental Health,21,1,Other,Other
+2314,Outreach Programs,4,1,Other,Other
+2330,Compliance Procedures,1,1,Other,Other
+2338,Technical Support,5,1,Other,Other
+2366,Business Marketing,1,1,Strategy/Planning/Management,Strategy/Planning/Management
+2370,Sales Planning,1,1,Sales,Sales
+2418,Expert Communicator,2,2,Other,Other
+2422,Common Sense,2,1,Other,Other
+2423,Contract Terms,2,1,Other,Other
+2427,Platform Management,4,1,Strategy/Planning/Management,Strategy/Planning/Management
+2431,Activations,9,1,Other,Other
+2434,Executive Visibility,0,1,Other,Other
+2435,Football,1,1,Other,Other
+2439,Sports Industry,1,1,Other,Other
+2440,Sports Marketing,3,1,Other,Other
+2441,Building Science,1,1,Other,Other
+2442,Construction Management,10,1,Strategy/Planning/Management,Strategy/Planning/Management
+2444,Design Development,2,1,Technology,Technology
+2446,Procore,5,2,Other,Other
+2447,Revit,5,1,Other,Other
+2450,Bluebeam,2,1,Other,Other
+2452,Glazing,1,1,Other,Other
+2455,Project Management Software,6,1,Strategy/Planning/Management,Strategy/Planning/Management
+2456,Request for Information (RFI),0,1,Other,Other
+2459,Acknowledgements,1,1,Other,Other
+2461,Bios,5,1,Other,Other
+2462,Corporate Relations,1,1,Communication,Communication
+2468,Brainstorm Facilitation,0,1,Other,Other
+2476,Social Networking,2,1,Communication,Communication
+2477,Americans with Disabilities Act,5,1,Other,Other
+2484,Sales Contracts,0,1,Sales,Sales
+2485,Sales Negotiation,0,1,Sales,Sales
+2489,Management,486,82,Strategy/Planning/Management,Strategy/Planning/Management
+2493,Startups,2,1,Other,Other
