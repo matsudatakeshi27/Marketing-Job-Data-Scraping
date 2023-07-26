@@ -1,429 +1,309 @@
-State,industry,industry_count
-AL,"Business Consulting and Services",1
-AL,"Food and Beverage Services",1
-AL,"Transportation, Logistics, Supply Chain and Storage",1
-AR,"Advertising Services",1
-AR,"Real Estate",1
-AZ,"Advertising Services",2
-AZ,"Airlines and Aviation",1
+State,industry_group,industry_count
+AL,"Business and Information Technology",1
+AL,"Food and Beverage",1
+AL,"Transportation and Logistics",1
+AR,"Advertising and Marketing",1
+AR,"Construction and Real Estate",1
+AZ,"Advertising and Marketing",3
+AZ,"Business and Information Technology",1
+AZ,"Education and Training",1
 AZ,"Financial Services",1
-AZ,"Higher Education",1
-AZ,"Human Resources",1
-AZ,"Human Resources Services",1
-AZ,"Marketing Services",1
-AZ,"Software Development",1
-AZ,"Staffing and Recruiting",1
-AZ,"Wellness and Fitness Services",2
-CA,"Advertising Services",60
-CA,"Armed Forces",1
-CA,"Civil Engineering",1
-CA,Entertainment,2
-CA,"Entertainment Providers",1
-CA,"Environmental Services",7
-CA,"Events Services",1
-CA,"Executive Search Services",1
-CA,"Food and Beverage Services",1
-CA,"Gambling Facilities and Casinos",1
-CA,"Higher Education",2
-CA,"Home Health Care Services",1
-CA,"Hospitals and Health Care",5
-CA,"Human Resources",2
-CA,"Human Resources Services",2
-CA,"Information Technology & Services",1
-CA,"Internet Marketplace Platforms",1
-CA,"Investment Management",2
-CA,"IT Services and IT Consulting",3
-CA,"Law Practice",1
+AZ,"Human Resources and Staffing",2
+AZ,Others,2
+AZ,"Transportation and Logistics",1
+CA,"Advertising and Marketing",86
+CA,"Business and Information Technology",3
+CA,"Construction and Real Estate",4
+CA,"Education and Training",3
+CA,"Entertainment and Recreation",3
+CA,"Environmental and Energy",7
+CA,"Financial Services",2
+CA,"Food and Beverage",1
+CA,"Government and Public Services",1
+CA,"Health and Medical",6
+CA,"Home Care and Family Services",1
+CA,"Human Resources and Staffing",33
+CA,"Legal and Law",1
 CA,Manufacturing,4
-CA,"Marketing Services",26
-CA,"Medical Equipment Manufacturing",1
-CA,"Medical Practices",1
-CA,"Non-profit Organizations",1
-CA,"Pharmaceutical Manufacturing",1
-CA,"Professional Training and Coaching",1
-CA,"Real Estate",3
-CA,Retail,4
-CA,"Retail Motor Vehicles",1
-CA,"Staffing and Recruiting",31
-CA,"Technology, Information and Internet",2
-CA,"Travel Arrangements",2
-CO,"Advertising Services",1
-CO,Construction,1
-CO,"Environmental Services",4
-CO,Hospitality,1
-CO,"Marketing Services",1
-CO,"Non-profit Organization Management",1
-CO,Retail,1
-CO,"Security and Investigations",1
-CO,"Software Development",1
-CO,"Staffing and Recruiting",6
-CO,"Technology, Information and Internet",1
+CA,"Non-profit and Social Services",1
+CA,Others,1
+CA,"Retail and Wholesale",4
+CA,"Technology and Telecommunications",4
+CA,"Travel and Tourism",3
+CO,"Advertising and Marketing",2
+CO,"Business and Information Technology",1
+CO,"Construction and Real Estate",1
+CO,"Environmental and Energy",4
+CO,"Human Resources and Staffing",6
+CO,"Non-profit and Social Services",1
+CO,Others,1
+CO,"Retail and Wholesale",1
+CO,"Technology and Telecommunications",1
+CO,"Travel and Tourism",1
+CT,"Human Resources and Staffing",1
 CT,Manufacturing,1
-CT,"Staffing and Recruiting",1
-DC,"Civic and Social Organizations",1
-DC,"Government Administration",3
-DC,Hospitality,1
-DC,"Hospitals and Health Care",1
-DC,"Non-profit Organizations",1
-DC,Retail,1
-DC,"Software Development",1
-DC,"Staffing and Recruiting",4
-DC,Telecommunications,1
-DE,"Marketing Services",1
-FL,Accounting,1
-FL,"Advertising Services",11
-FL,"Beverage Manufacturing",1
-FL,"Civil Engineering",2
-FL,Construction,3
-FL,"Consumer Services",1
-FL,"Defense and Space Manufacturing",1
-FL,"Education Administration Programs",1
-FL,"Environmental Services",4
-FL,"Facilities Services",1
-FL,"Financial Services",1
-FL,"Food and Beverage Manufacturing",1
-FL,"Government Administration",1
-FL,"Health, Wellness & Fitness",1
-FL,"Higher Education",2
-FL,Hospitality,5
-FL,"Hospitals and Health Care",3
-FL,"Human Resources",1
-FL,"Human Resources Services",1
-FL,"International Affairs",1
-FL,"IT Services and IT Consulting",1
-FL,"Law Practice",1
-FL,"Leisure, Travel & Tourism",1
-FL,Manufacturing,4
-FL,"Marketing Services",7
-FL,"Motor Vehicle Manufacturing",1
-FL,"Non-profit Organization Management",1
-FL,"Performing Arts",2
-FL,"Real Estate",4
-FL,"Recreational Facilities",1
-FL,"Residential Building Construction",1
-FL,Retail,1
-FL,"Retail Luxury Goods and Jewelry",1
-FL,"Soap and Cleaning Product Manufacturing",1
-FL,"Spectator Sports",1
-FL,"Staffing and Recruiting",11
-FL,"Technology, Information and Internet",1
-FL,"Transportation, Logistics, Supply Chain and Storage",1
-FL,"Travel Arrangements",1
-GA,"Advertising Services",7
-GA,Construction,1
-GA,"Consumer Goods",2
-GA,"Environmental Services",2
-GA,"Executive Search Services",1
-GA,Hospitality,1
-GA,"Hospitals and Health Care",5
-GA,"Human Resources",1
-GA,"Human Resources Services",1
-GA,"IT Services and IT Consulting",1
-GA,"Marketing Services",4
-GA,"Mental Health Care",1
-GA,"Staffing and Recruiting",3
-GA,"Technology, Information and Internet",2
-GA,"Travel Arrangements",1
-HI,"Education Administration Programs",1
-HI,"Executive Offices",1
-HI,Hospitality,1
-HI,Retail,1
-IA,"Higher Education",1
-IA,"Hospitals and Health Care",1
-IA,"Industrial Machinery Manufacturing",1
-IA,"Machinery Manufacturing",1
+DC,"Business and Information Technology",1
+DC,"Government and Public Services",3
+DC,"Health and Medical",1
+DC,"Human Resources and Staffing",4
+DC,"Non-profit and Social Services",2
+DC,"Retail and Wholesale",1
+DC,"Technology and Telecommunications",1
+DC,"Travel and Tourism",1
+DE,"Advertising and Marketing",1
+FL,"Advertising and Marketing",18
+FL,"Automotive and Transportation",1
+FL,"Business and Information Technology",1
+FL,"Construction and Real Estate",9
+FL,"Defense and Aerospace",1
+FL,"Education and Training",3
+FL,"Entertainment and Recreation",4
+FL,"Environmental and Energy",4
+FL,"Facilities and Maintenance",1
+FL,"Financial Services",2
+FL,"Food and Beverage",1
+FL,"Government and Public Services",2
+FL,"Health and Medical",4
+FL,"Human Resources and Staffing",12
+FL,"Legal and Law",1
+FL,Manufacturing,1
+FL,"Non-profit and Social Services",1
+FL,Others,1
+FL,"Retail and Wholesale",1
+FL,"Technology and Telecommunications",1
+FL,"Transportation and Logistics",1
+FL,"Travel and Tourism",7
+GA,"Advertising and Marketing",11
+GA,"Business and Information Technology",1
+GA,"Construction and Real Estate",1
+GA,"Environmental and Energy",2
+GA,"Health and Medical",6
+GA,"Human Resources and Staffing",4
+GA,Others,1
+GA,"Retail and Wholesale",2
+GA,"Technology and Telecommunications",2
+GA,"Travel and Tourism",2
+HI,"Education and Training",1
+HI,Others,1
+HI,"Retail and Wholesale",1
+HI,"Travel and Tourism",1
+IA,"Education and Training",1
+IA,"Health and Medical",1
+IA,"Human Resources and Staffing",1
 IA,Manufacturing,1
-IA,"Staffing and Recruiting",1
-IL,"Advertising Services",3
-IL,Banking,1
-IL,Construction,1
-IL,"Higher Education",1
-IL,Hospitality,1
-IL,"Hospitals and Health Care",3
-IL,Manufacturing,2
-IL,"Marketing Services",2
-IL,"Motor Vehicle Manufacturing",1
-IL,"Non-profit Organizations",1
-IL,"Real Estate",2
-IL,Retail,1
-IL,"Software Development",4
-IL,"Staffing and Recruiting",3
-IL,"Technology, Information and Internet",2
-IN,"Hospitals and Health Care",2
-IN,"Internet News",1
-IN,"Media Production",1
-IN,"Staffing and Recruiting",2
-KY,Construction,1
-KY,"Defense and Space Manufacturing",1
-KY,"Executive Offices",1
-KY,"Higher Education",2
-KY,"Hospitals and Health Care",1
-KY,Insurance,1
-KY,Manufacturing,1
-KY,"Staffing and Recruiting",1
-LA,"Advertising Services",1
-LA,"Building Materials",1
-LA,Insurance,1
-LA,"Marketing Services",3
-LA,"Real Estate",1
-LA,Wholesale,1
-LA,"Wholesale Building Materials",1
-MA,"Computer and Network Security",1
-MA,Construction,1
-MA,"Education Administration Programs",1
-MA,"Higher Education",1
-MA,"Industrial Machinery Manufacturing",1
-MA,"Machinery Manufacturing",1
+IL,"Advertising and Marketing",5
+IL,"Automotive and Transportation",1
+IL,"Business and Information Technology",4
+IL,"Construction and Real Estate",3
+IL,"Education and Training",1
+IL,"Financial Services",1
+IL,"Health and Medical",3
+IL,"Human Resources and Staffing",3
+IL,Manufacturing,1
+IL,"Non-profit and Social Services",1
+IL,"Retail and Wholesale",1
+IL,"Technology and Telecommunications",2
+IL,"Travel and Tourism",1
+IN,"Entertainment and Recreation",1
+IN,"Health and Medical",2
+IN,"Human Resources and Staffing",2
+IN,"Technology and Telecommunications",1
+KY,"Construction and Real Estate",1
+KY,"Defense and Aerospace",1
+KY,"Education and Training",2
+KY,"Financial Services",1
+KY,"Health and Medical",1
+KY,"Human Resources and Staffing",1
+KY,Others,1
+LA,"Advertising and Marketing",4
+LA,"Construction and Real Estate",2
+LA,"Financial Services",1
+MA,"Advertising and Marketing",2
+MA,"Business and Information Technology",1
+MA,"Construction and Real Estate",1
+MA,"Education and Training",2
+MA,"Entertainment and Recreation",1
+MA,"Human Resources and Staffing",3
 MA,Manufacturing,3
-MA,"Marketing Services",2
-MA,"Museums, Historical Sites, and Zoos",1
-MA,Musicians,1
-MA,"Research Services",2
-MA,"Software Development",1
-MA,"Sporting Goods Manufacturing",1
-MA,"Staffing and Recruiting",3
-MA,"Technology, Information and Internet",2
-MA,"Travel Arrangements",1
-MA,Wholesale,1
-MD,"Advertising Services",3
-MD,"Consumer Services",2
-MD,"Defense and Space Manufacturing",1
-MD,"Facilities Services",1
-MD,"Higher Education",1
-MD,Hospitality,1
-MD,Manufacturing,1
-MD,"Marketing Services",1
-MD,"Medical Device",1
-MD,"Nursing Homes and Residential Care Facilities",1
-MD,"Real Estate",1
-MD,"Staffing and Recruiting",1
-MD,Wholesale,1
-ME,"Hospitals and Health Care",2
-MI,"Advertising Services",4
-MI,"Biotechnology Research",1
-MI,Construction,1
-MI,"Consumer Services",1
-MI,"IT Services and IT Consulting",1
-MI,"Machinery Manufacturing",1
+MA,Others,1
+MA,"Retail and Wholesale",1
+MA,"Science and Research",2
+MA,"Technology and Telecommunications",3
+MA,"Travel and Tourism",1
+MD,"Advertising and Marketing",4
+MD,"Construction and Real Estate",1
+MD,"Defense and Aerospace",1
+MD,"Education and Training",1
+MD,"Facilities and Maintenance",1
+MD,"Health and Medical",2
+MD,"Human Resources and Staffing",1
+MD,Others,2
+MD,"Retail and Wholesale",1
+MD,"Travel and Tourism",1
+ME,"Health and Medical",2
+MI,"Advertising and Marketing",6
+MI,"Business and Information Technology",1
+MI,"Construction and Real Estate",1
+MI,"Human Resources and Staffing",1
 MI,Manufacturing,1
-MI,"Marketing Services",2
-MI,"Philanthropic Fundraising Services",1
-MI,"Staffing and Recruiting",1
+MI,Others,1
+MI,"Philanthropy and Religion",1
+MI,"Science and Research",1
+MN,"Human Resources and Staffing",2
 MN,Manufacturing,1
-MN,"Medical Equipment Manufacturing",1
-MN,Retail,1
-MN,"Staffing and Recruiting",2
-MO,"Advertising Services",1
-MO,"Government Administration",1
-MO,"Higher Education",1
-MO,"Marketing Services",1
-MO,"Mental Health Care",1
-MO,"Public Relations and Communications Services",1
-MO,Wholesale,1
-NC,"Advertising Services",4
-NC,"Civil Engineering",1
-NC,"Computers and Electronics Manufacturing",1
-NC,Construction,2
-NC,"Hospitals and Health Care",3
-NC,"IT Services and IT Consulting",2
+MN,"Retail and Wholesale",1
+MO,"Advertising and Marketing",2
+MO,"Education and Training",1
+MO,"Government and Public Services",2
+MO,"Health and Medical",1
+MO,"Retail and Wholesale",1
+NC,"Advertising and Marketing",4
+NC,"Business and Information Technology",3
+NC,"Construction and Real Estate",3
+NC,"Health and Medical",3
+NC,"Human Resources and Staffing",2
 NC,Manufacturing,1
-NC,Retail,1
-NC,"Software Development",1
-NC,"Staffing and Recruiting",2
-NC,"Wellness and Fitness Services",2
-ND,"Advertising Services",1
-NE,Automotive,1
-NH,"Hospitals and Health Care",1
-NJ,"Advertising Services",5
-NJ,"Dairy Product Manufacturing",1
-NJ,"Education Administration Programs",1
-NJ,"Environmental Services",1
+NC,Others,2
+NC,"Retail and Wholesale",1
+ND,"Advertising and Marketing",1
+NE,"Automotive and Transportation",1
+NH,"Health and Medical",1
+NJ,"Advertising and Marketing",7
+NJ,"Business and Information Technology",2
+NJ,"Education and Training",7
+NJ,"Environmental and Energy",1
 NJ,"Financial Services",2
-NJ,"Higher Education",6
-NJ,"Hospitals and Health Care",1
-NJ,"Information Services",1
-NJ,"IT Services and IT Consulting",1
+NJ,"Health and Medical",2
+NJ,"Human Resources and Staffing",2
 NJ,Manufacturing,1
-NJ,"Marketing Services",2
-NJ,"Medical Practices",1
-NJ,"Software Development",1
-NJ,"Staffing and Recruiting",2
-NV,Hospitality,2
-NV,"Real Estate",1
-NV,Retail,1
-NV,"Staffing and Recruiting",3
-NY,"Advertising Services",4
-NY,"Architecture and Planning",1
-NY,"Beverage Manufacturing",1
-NY,"Book and Periodical Publishing",1
-NY,"Environmental Services",1
-NY,"Higher Education",1
-NY,Hospitality,7
-NY,"Hospitals and Health Care",7
-NY,"Individual and Family Services",1
-NY,"Information Technology & Services",1
-NY,"Legal Services",1
+NJ,"Technology and Telecommunications",1
+NV,"Construction and Real Estate",1
+NV,"Human Resources and Staffing",3
+NV,"Retail and Wholesale",1
+NV,"Travel and Tourism",2
+NY,"Advertising and Marketing",14
+NY,"Architecture and Design",1
+NY,"Construction and Real Estate",1
+NY,"Education and Training",1
+NY,"Entertainment and Recreation",1
+NY,"Environmental and Energy",1
+NY,"Health and Medical",7
+NY,"Home Care and Family Services",1
+NY,"Human Resources and Staffing",14
 NY,Manufacturing,5
-NY,"Marketing Services",10
-NY,"Non-profit Organization Management",1
-NY,"Non-profit Organizations",1
-NY,"Real Estate",1
-NY,"Religious Institutions",1
-NY,Retail,2
-NY,"Spectator Sports",1
-NY,"Staffing and Recruiting",14
-NY,Telecommunications,2
-NY,"Textile Manufacturing",1
-NY,"Travel Arrangements",1
-OH,"Advertising Services",5
-OH,"Beverage Manufacturing",2
-OH,"Building Materials",1
-OH,"Business Consulting and Services",1
-OH,"Food and Beverage Manufacturing",2
-OH,"Higher Education",1
-OH,Hospitality,1
-OH,"Hospitals and Health Care",2
-OH,"Human Resources",1
-OH,Insurance,1
-OH,Manufacturing,2
-OH,"Marketing Services",1
-OH,Retail,1
-OH,"Spectator Sports",1
-OH,"Staffing and Recruiting",2
-OH,Wholesale,2
-OH,"Wholesale Building Materials",1
-OK,Banking,1
-OK,Entertainment,1
+NY,"Non-profit and Social Services",2
+NY,Others,2
+NY,"Philanthropy and Religion",1
+NY,"Retail and Wholesale",2
+NY,"Technology and Telecommunications",3
+NY,"Travel and Tourism",8
+OH,"Advertising and Marketing",6
+OH,"Business and Information Technology",1
+OH,"Construction and Real Estate",1
+OH,"Education and Training",1
+OH,"Entertainment and Recreation",1
+OH,"Financial Services",1
+OH,"Food and Beverage",2
+OH,"Health and Medical",2
+OH,"Human Resources and Staffing",3
+OH,"Retail and Wholesale",2
+OH,"Travel and Tourism",1
+OK,"Entertainment and Recreation",1
+OK,"Financial Services",1
+OK,"Government and Public Services",1
 OK,Manufacturing,1
-OK,Utilities,1
-OR,"Advertising Services",8
-OR,Transportation/Trucking/Railroad,1
-PA,"Advertising Services",7
-PA,"Biotechnology Research",1
-PA,Construction,1
-PA,"Consumer Services",1
-PA,"Food and Beverage Services",1
-PA,"Higher Education",2
-PA,"Hospitals and Health Care",2
-PA,Retail,1
-PA,"Software Development",1
-PA,"Staffing and Recruiting",1
-Remote,"Book and Periodical Publishing",1
-Remote,Construction,1
-Remote,Hospitality,10
-Remote,"Hospitals and Health Care",2
-Remote,"Human Resources",2
-Remote,"Human Resources Services",2
-Remote,"IT Services and IT Consulting",4
-Remote,"Online Audio and Video Media",1
-Remote,Retail,1
-Remote,"Retail Apparel and Fashion",1
-Remote,"Software Development",1
-Remote,"Staffing and Recruiting",1
-Remote,"Veterinary Services",1
-RI,"Animal Feed Manufacturing",2
+OR,"Advertising and Marketing",8
+OR,"Transportation and Logistics",1
+PA,"Advertising and Marketing",7
+PA,"Business and Information Technology",1
+PA,"Construction and Real Estate",1
+PA,"Education and Training",2
+PA,"Food and Beverage",1
+PA,"Health and Medical",2
+PA,"Human Resources and Staffing",1
+PA,Others,1
+PA,"Retail and Wholesale",1
+PA,"Science and Research",1
+Remote,"Business and Information Technology",5
+Remote,"Construction and Real Estate",1
+Remote,"Health and Medical",3
+Remote,"Human Resources and Staffing",3
+Remote,Others,2
+Remote,"Retail and Wholesale",1
+Remote,"Travel and Tourism",10
 RI,Manufacturing,2
-SC,"Advertising Services",4
-SC,"Computer and Network Security",1
+SC,"Advertising and Marketing",4
+SC,"Automotive and Transportation",1
+SC,"Construction and Real Estate",1
 SC,"Financial Services",1
-SC,Hospitality,1
-SC,"Hospitals and Health Care",1
-SC,Manufacturing,1
-SC,"Motor Vehicle Manufacturing",1
-SC,"Non-profit Organization Management",1
-SC,"Real Estate",1
-SC,Retail,1
-SC,"Retail Apparel and Fashion",1
-SD,Construction,1
-TN,"Advertising Services",16
-TN,"Book and Periodical Publishing",1
+SC,"Health and Medical",1
+SC,"Non-profit and Social Services",1
+SC,"Retail and Wholesale",1
+SC,"Technology and Telecommunications",1
+SC,"Travel and Tourism",1
+SD,"Construction and Real Estate",1
+TN,"Advertising and Marketing",22
+TN,"Automotive and Transportation",1
 TN,"Financial Services",1
-TN,"Hospitals and Health Care",1
-TN,Manufacturing,2
-TN,"Marketing Services",6
-TN,"Motor Vehicle Manufacturing",1
-TN,"Non-profit Organizations",1
-TN,"Pharmaceutical Manufacturing",1
-TN,"Staffing and Recruiting",5
-TX,"Advertising Services",6
-TX,"Architecture and Planning",2
-TX,"Beverage Manufacturing",1
-TX,"Building Materials",1
-TX,"Civic and Social Organizations",1
-TX,Construction,1
-TX,E-learning,2
-TX,Entertainment,1
-TX,"Entertainment Providers",1
-TX,"Environmental Services",1
-TX,"Facilities Services",1
-TX,"Financial Services",3
-TX,"Food and Beverage Manufacturing",1
-TX,"Government Administration",2
-TX,"Higher Education",1
-TX,Hospitality,4
-TX,"Hospitals and Health Care",7
-TX,"Human Resources",1
-TX,"Human Resources Services",1
-TX,"Information Technology & Services",1
-TX,"Investment Management",1
-TX,"IT Services and IT Consulting",2
-TX,"Law Practice",1
-TX,Manufacturing,3
-TX,"Marketing Services",11
-TX,"Media Production",1
-TX,"Non-profit Organizations",1
-TX,"Oil and Gas",1
-TX,"Packaging and Containers Manufacturing",1
-TX,Retail,5
-TX,"Retail Apparel and Fashion",1
-TX,"Retail Luxury Goods and Jewelry",1
-TX,"Security and Investigations",1
-TX,"Staffing and Recruiting",24
-TX,"Travel Arrangements",1
-UT,"Advertising Services",2
-UT,E-learning,1
-UT,"E-Learning Providers",1
-UT,"Environmental Services",1
-UT,"Higher Education",5
-UT,Retail,1
-UT,"Software Development",1
-UT,"Staffing and Recruiting",1
-VA,"Advertising Services",24
-VA,"Apparel & Fashion",1
-VA,Banking,1
-VA,Construction,1
-VA,"Design Services",1
-VA,Hospitality,2
-VA,"Hospitals and Health Care",5
-VA,"Information Technology & Services",1
-VA,"IT Services and IT Consulting",1
-VA,"Marketing Services",12
-VA,"Staffing and Recruiting",3
-VA,Telecommunications,6
-VT,"Non-profit Organizations",1
-WA,"Advertising Services",8
-WA,"Architecture and Planning",1
-WA,"Higher Education",1
-WA,"Hospitals and Health Care",2
-WA,"IT Services and IT Consulting",2
-WA,"Real Estate",1
-WA,"Spectator Sports",1
-WA,"Staffing and Recruiting",7
-WI,"Advertising Services",2
-WI,"Beverage Manufacturing",4
-WI,"Commercial Real Estate",1
-WI,"Food and Beverage Manufacturing",4
-WI,"Food and Beverage Services",1
-WI,"Government Administration",1
-WI,"Hospitals and Health Care",1
-WI,"Human Resources",1
-WI,"Human Resources Services",1
-WI,"Internet Publishing",1
-WI,"Machinery Manufacturing",1
-WI,Manufacturing,5
-WI,"Real Estate",2
-WI,Retail,1
-WI,"Staffing and Recruiting",3
-WV,"Architecture and Planning",1
+TN,"Health and Medical",1
+TN,"Human Resources and Staffing",5
+TN,Manufacturing,1
+TN,"Non-profit and Social Services",1
+TN,Others,1
+TX,"Advertising and Marketing",17
+TX,"Architecture and Design",2
+TX,"Business and Information Technology",2
+TX,"Construction and Real Estate",2
+TX,"Education and Training",3
+TX,"Entertainment and Recreation",2
+TX,"Environmental and Energy",2
+TX,"Facilities and Maintenance",1
+TX,"Financial Services",4
+TX,"Food and Beverage",1
+TX,"Government and Public Services",2
+TX,"Health and Medical",7
+TX,"Human Resources and Staffing",25
+TX,"Legal and Law",1
+TX,Manufacturing,1
+TX,"Non-profit and Social Services",2
+TX,Others,1
+TX,"Packaging and Containers",1
+TX,"Retail and Wholesale",5
+TX,"Technology and Telecommunications",1
+TX,"Travel and Tourism",5
+UT,"Advertising and Marketing",2
+UT,"Business and Information Technology",1
+UT,"Education and Training",6
+UT,"Environmental and Energy",1
+UT,"Human Resources and Staffing",1
+UT,"Retail and Wholesale",1
+VA,"Advertising and Marketing",36
+VA,"Architecture and Design",1
+VA,"Business and Information Technology",1
+VA,"Construction and Real Estate",1
+VA,"Financial Services",1
+VA,"Health and Medical",5
+VA,"Human Resources and Staffing",3
+VA,Others,1
+VA,"Technology and Telecommunications",7
+VA,"Travel and Tourism",2
+VT,"Non-profit and Social Services",1
+WA,"Advertising and Marketing",8
+WA,"Architecture and Design",1
+WA,"Business and Information Technology",2
+WA,"Construction and Real Estate",1
+WA,"Education and Training",1
+WA,"Entertainment and Recreation",1
+WA,"Health and Medical",2
+WA,"Human Resources and Staffing",7
+WI,"Advertising and Marketing",2
+WI,"Construction and Real Estate",2
+WI,"Food and Beverage",5
+WI,"Government and Public Services",1
+WI,"Health and Medical",1
+WI,"Human Resources and Staffing",4
+WI,Manufacturing,1
+WI,"Retail and Wholesale",1
+WI,"Technology and Telecommunications",1
+WV,"Architecture and Design",1
 WV,Manufacturing,1
-WV,"Renewable Energy Semiconductor Manufacturing",1

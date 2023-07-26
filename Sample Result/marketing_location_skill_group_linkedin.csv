@@ -1,41 +1,294 @@
-Sum of sum(skill_count),Column Labels,,,,,,,,,,,
-Row Labels,Brand,Communication,Content/Writing,Graphic Design/Visual,Market Research,Other,Quantitative/Analytics,Sales,Social Media/Digital,Strategy/Planning/Management,Technology,Grand Total
-AL,1,1,,1,,3,,,,4,,10
-AZ,,2,,,,2,,1,,7,2,14
-CA,17,76,28,30,13,83,24,93,39,142,19,564
-CO,2,5,10,2,,7,2,2,5,9,3,47
-DC,1,4,,,1,12,2,1,,12,,33
-DE,,4,,,,3,,1,,2,,10
-FL,5,41,9,12,2,56,13,21,32,69,9,269
-GA,2,18,4,9,7,13,11,28,6,38,3,139
-HI,,3,,,1,1,,,3,2,,10
-IA,,1,,,1,4,2,,,4,,12
-IL,,10,12,14,,10,7,5,7,24,6,95
-IN,1,,5,3,,4,2,,2,6,2,25
-KY,,,,1,,3,2,,2,2,2,12
-LA,,6,1,,,5,1,4,,4,,21
-MA,,5,,,,14,,3,1,11,,34
-MD,,8,6,6,1,16,1,6,9,23,2,78
-ME,,1,,,1,4,2,,,4,,12
-MI,2,9,,2,1,20,,12,,12,,58
-MN,,6,6,2,3,5,2,2,2,15,,43
-MO,,2,5,2,,4,,2,4,8,,27
-NC,,8,6,4,1,8,3,2,4,19,,55
-NH,,1,,,1,4,2,,,4,,12
-NJ,2,9,6,3,1,6,6,4,7,18,1,63
-NV,,3,2,,,4,2,1,,10,,22
-NY,3,15,6,11,6,41,17,15,4,32,9,159
-OH,1,3,9,2,3,3,2,5,1,11,3,43
-OK,,,,5,,3,,,1,2,,11
-OR,,2,,,,3,,6,3,7,,21
-PA,4,9,,1,3,11,,7,6,20,,61
-Remote,,9,1,,1,11,2,,1,15,1,41
-RI,,1,,1,,1,,,1,9,,13
-SC,,5,,1,,7,,2,,2,,17
-TN,,28,9,7,1,32,4,9,16,41,,147
-TX,4,29,10,11,3,42,13,38,25,72,7,254
-UT,2,6,7,5,,5,1,2,3,12,3,46
-VA,17,50,,10,9,33,13,21,11,81,,245
-WA,4,15,3,1,2,15,4,16,4,18,,82
-WI,1,9,2,1,2,4,,3,13,10,1,46
-Grand Total,69,404,147,147,64,502,140,312,212,781,73,2851
+State,skill_group,sum(skill_count)
+AL,Brand,1
+CA,Brand,17
+CO,Brand,2
+DC,Brand,1
+FL,Brand,5
+GA,Brand,2
+IN,Brand,1
+MI,Brand,2
+NJ,Brand,2
+NY,Brand,3
+OH,Brand,1
+PA,Brand,4
+TX,Brand,4
+UT,Brand,2
+VA,Brand,17
+WA,Brand,4
+WI,Brand,1
+AL,Communication,1
+AZ,Communication,2
+CA,Communication,76
+CO,Communication,5
+DC,Communication,4
+DE,Communication,4
+FL,Communication,41
+GA,Communication,18
+HI,Communication,3
+IA,Communication,1
+IL,Communication,10
+LA,Communication,6
+MA,Communication,5
+MD,Communication,8
+ME,Communication,1
+MI,Communication,9
+MN,Communication,6
+MO,Communication,2
+NC,Communication,8
+NH,Communication,1
+NJ,Communication,9
+NV,Communication,3
+NY,Communication,15
+OH,Communication,3
+OR,Communication,2
+PA,Communication,9
+Remote,Communication,9
+RI,Communication,1
+SC,Communication,5
+TN,Communication,28
+TX,Communication,29
+UT,Communication,6
+VA,Communication,50
+WA,Communication,15
+WI,Communication,9
+CA,Content/Writing,28
+CO,Content/Writing,10
+FL,Content/Writing,9
+GA,Content/Writing,4
+IL,Content/Writing,12
+IN,Content/Writing,5
+LA,Content/Writing,1
+MD,Content/Writing,6
+MN,Content/Writing,6
+MO,Content/Writing,5
+NC,Content/Writing,6
+NJ,Content/Writing,6
+NV,Content/Writing,2
+NY,Content/Writing,6
+OH,Content/Writing,9
+Remote,Content/Writing,1
+TN,Content/Writing,9
+TX,Content/Writing,10
+UT,Content/Writing,7
+WA,Content/Writing,3
+WI,Content/Writing,2
+AL,"Graphic Design/Visual",1
+CA,"Graphic Design/Visual",30
+CO,"Graphic Design/Visual",2
+FL,"Graphic Design/Visual",12
+GA,"Graphic Design/Visual",9
+IL,"Graphic Design/Visual",14
+IN,"Graphic Design/Visual",3
+KY,"Graphic Design/Visual",1
+MD,"Graphic Design/Visual",6
+MI,"Graphic Design/Visual",2
+MN,"Graphic Design/Visual",2
+MO,"Graphic Design/Visual",2
+NC,"Graphic Design/Visual",4
+NJ,"Graphic Design/Visual",3
+NY,"Graphic Design/Visual",11
+OH,"Graphic Design/Visual",2
+OK,"Graphic Design/Visual",5
+PA,"Graphic Design/Visual",1
+RI,"Graphic Design/Visual",1
+SC,"Graphic Design/Visual",1
+TN,"Graphic Design/Visual",7
+TX,"Graphic Design/Visual",11
+UT,"Graphic Design/Visual",5
+VA,"Graphic Design/Visual",10
+WA,"Graphic Design/Visual",1
+WI,"Graphic Design/Visual",1
+CA,"Market Research",13
+DC,"Market Research",1
+FL,"Market Research",2
+GA,"Market Research",7
+HI,"Market Research",1
+IA,"Market Research",1
+MD,"Market Research",1
+ME,"Market Research",1
+MI,"Market Research",1
+MN,"Market Research",3
+NC,"Market Research",1
+NH,"Market Research",1
+NJ,"Market Research",1
+NY,"Market Research",6
+OH,"Market Research",3
+PA,"Market Research",3
+Remote,"Market Research",1
+TN,"Market Research",1
+TX,"Market Research",3
+VA,"Market Research",9
+WA,"Market Research",2
+WI,"Market Research",2
+AL,Other,3
+AZ,Other,2
+CA,Other,83
+CO,Other,7
+DC,Other,12
+DE,Other,3
+FL,Other,56
+GA,Other,13
+HI,Other,1
+IA,Other,4
+IL,Other,10
+IN,Other,4
+KY,Other,3
+LA,Other,5
+MA,Other,14
+MD,Other,16
+ME,Other,4
+MI,Other,20
+MN,Other,5
+MO,Other,4
+NC,Other,8
+NH,Other,4
+NJ,Other,6
+NV,Other,4
+NY,Other,41
+OH,Other,3
+OK,Other,3
+OR,Other,3
+PA,Other,11
+Remote,Other,11
+RI,Other,1
+SC,Other,7
+TN,Other,32
+TX,Other,42
+UT,Other,5
+VA,Other,33
+WA,Other,15
+WI,Other,4
+CA,Quantitative/Analytics,24
+CO,Quantitative/Analytics,2
+DC,Quantitative/Analytics,2
+FL,Quantitative/Analytics,13
+GA,Quantitative/Analytics,11
+IA,Quantitative/Analytics,2
+IL,Quantitative/Analytics,7
+IN,Quantitative/Analytics,2
+KY,Quantitative/Analytics,2
+LA,Quantitative/Analytics,1
+MD,Quantitative/Analytics,1
+ME,Quantitative/Analytics,2
+MN,Quantitative/Analytics,2
+NC,Quantitative/Analytics,3
+NH,Quantitative/Analytics,2
+NJ,Quantitative/Analytics,6
+NV,Quantitative/Analytics,2
+NY,Quantitative/Analytics,17
+OH,Quantitative/Analytics,2
+Remote,Quantitative/Analytics,2
+TN,Quantitative/Analytics,4
+TX,Quantitative/Analytics,13
+UT,Quantitative/Analytics,1
+VA,Quantitative/Analytics,13
+WA,Quantitative/Analytics,4
+AZ,Sales,1
+CA,Sales,93
+CO,Sales,2
+DC,Sales,1
+DE,Sales,1
+FL,Sales,21
+GA,Sales,28
+IL,Sales,5
+LA,Sales,4
+MA,Sales,3
+MD,Sales,6
+MI,Sales,12
+MN,Sales,2
+MO,Sales,2
+NC,Sales,2
+NJ,Sales,4
+NV,Sales,1
+NY,Sales,15
+OH,Sales,5
+OR,Sales,6
+PA,Sales,7
+SC,Sales,2
+TN,Sales,9
+TX,Sales,38
+UT,Sales,2
+VA,Sales,21
+WA,Sales,16
+WI,Sales,3
+CA,"Social Media/Digital",39
+CO,"Social Media/Digital",5
+FL,"Social Media/Digital",32
+GA,"Social Media/Digital",6
+HI,"Social Media/Digital",3
+IL,"Social Media/Digital",7
+IN,"Social Media/Digital",2
+KY,"Social Media/Digital",2
+MA,"Social Media/Digital",1
+MD,"Social Media/Digital",9
+MN,"Social Media/Digital",2
+MO,"Social Media/Digital",4
+NC,"Social Media/Digital",4
+NJ,"Social Media/Digital",7
+NY,"Social Media/Digital",4
+OH,"Social Media/Digital",1
+OK,"Social Media/Digital",1
+OR,"Social Media/Digital",3
+PA,"Social Media/Digital",6
+Remote,"Social Media/Digital",1
+RI,"Social Media/Digital",1
+TN,"Social Media/Digital",16
+TX,"Social Media/Digital",25
+UT,"Social Media/Digital",3
+VA,"Social Media/Digital",11
+WA,"Social Media/Digital",4
+WI,"Social Media/Digital",13
+AL,Strategy/Planning/Management,4
+AZ,Strategy/Planning/Management,7
+CA,Strategy/Planning/Management,142
+CO,Strategy/Planning/Management,9
+DC,Strategy/Planning/Management,12
+DE,Strategy/Planning/Management,2
+FL,Strategy/Planning/Management,69
+GA,Strategy/Planning/Management,38
+HI,Strategy/Planning/Management,2
+IA,Strategy/Planning/Management,4
+IL,Strategy/Planning/Management,24
+IN,Strategy/Planning/Management,6
+KY,Strategy/Planning/Management,2
+LA,Strategy/Planning/Management,4
+MA,Strategy/Planning/Management,11
+MD,Strategy/Planning/Management,23
+ME,Strategy/Planning/Management,4
+MI,Strategy/Planning/Management,12
+MN,Strategy/Planning/Management,15
+MO,Strategy/Planning/Management,8
+NC,Strategy/Planning/Management,19
+NH,Strategy/Planning/Management,4
+NJ,Strategy/Planning/Management,18
+NV,Strategy/Planning/Management,10
+NY,Strategy/Planning/Management,32
+OH,Strategy/Planning/Management,11
+OK,Strategy/Planning/Management,2
+OR,Strategy/Planning/Management,7
+PA,Strategy/Planning/Management,20
+Remote,Strategy/Planning/Management,15
+RI,Strategy/Planning/Management,9
+SC,Strategy/Planning/Management,2
+TN,Strategy/Planning/Management,41
+TX,Strategy/Planning/Management,72
+UT,Strategy/Planning/Management,12
+VA,Strategy/Planning/Management,81
+WA,Strategy/Planning/Management,18
+WI,Strategy/Planning/Management,10
+AZ,Technology,2
+CA,Technology,19
+CO,Technology,3
+FL,Technology,9
+GA,Technology,3
+IL,Technology,6
+IN,Technology,2
+KY,Technology,2
+MD,Technology,2
+NJ,Technology,1
+NY,Technology,9
+OH,Technology,3
+Remote,Technology,1
+TX,Technology,7
+UT,Technology,3
+WI,Technology,1

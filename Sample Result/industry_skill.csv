@@ -1,0 +1,1540 @@
+industry_group,skill_name,skill_group,skill_count
+"Advertising and Marketing","Account Coordination",Sales,1
+"Human Resources and Staffing","Account Coordination",Sales,1
+"Advertising and Marketing","Account Management",Sales,4
+"Business and Information Technology","Account Management",Sales,1
+"Entertainment and Recreation","Account Management",Sales,1
+"Human Resources and Staffing","Account Management",Sales,2
+"Advertising and Marketing","Account Marketing",Sales,1
+"Human Resources and Staffing","Account Planning",Sales,1
+"Human Resources and Staffing","Accounting Standards",Other,1
+Others,Acknowledgements,Other,1
+Manufacturing,Activations,Other,1
+"Advertising and Marketing","Active Listening",Communication,2
+"Health and Medical","Acute Care",Other,1
+"Advertising and Marketing","Ad Serving","Social Media/Digital",1
+"Business and Information Technology","Ad Serving","Social Media/Digital",1
+"Entertainment and Recreation","Ad Serving","Social Media/Digital",1
+"Health and Medical","Ad Serving","Social Media/Digital",1
+"Human Resources and Staffing","Ad Serving","Social Media/Digital",4
+"Business and Information Technology","Ad Tech","Social Media/Digital",1
+"Government and Public Services",Adjudication,Other,1
+"Advertising and Marketing",Administration,Strategy/Planning/Management,2
+"Construction and Real Estate",Administration,Strategy/Planning/Management,3
+"Education and Training",Administration,Strategy/Planning/Management,1
+"Financial Services",Administration,Strategy/Planning/Management,1
+"Health and Medical",Administration,Strategy/Planning/Management,3
+"Human Resources and Staffing",Administration,Strategy/Planning/Management,2
+"Travel and Tourism",Administration,Strategy/Planning/Management,1
+"Advertising and Marketing","Administrative Assistance",Other,4
+"Construction and Real Estate","Administrative Assistance",Other,3
+"Financial Services","Administrative Assistance",Other,1
+"Human Resources and Staffing","Administrative Assistance",Other,2
+"Travel and Tourism","Administrative Assistance",Other,1
+"Construction and Real Estate","Adobe Acrobat","Graphic Design/Visual",2
+"Health and Medical","Adobe Creative Cloud","Graphic Design/Visual",1
+"Human Resources and Staffing","Adobe Creative Cloud","Graphic Design/Visual",1
+"Advertising and Marketing","Adobe Creative Suite","Graphic Design/Visual",1
+"Construction and Real Estate","Adobe Creative Suite","Graphic Design/Visual",2
+"Education and Training","Adobe Creative Suite","Graphic Design/Visual",1
+"Entertainment and Recreation","Adobe Creative Suite","Graphic Design/Visual",2
+"Human Resources and Staffing","Adobe Creative Suite","Graphic Design/Visual",3
+"Construction and Real Estate","Adobe Illustrator","Graphic Design/Visual",2
+"Entertainment and Recreation","Adobe Illustrator","Graphic Design/Visual",1
+"Construction and Real Estate","Adobe InDesign","Graphic Design/Visual",3
+"Entertainment and Recreation","Adobe InDesign","Graphic Design/Visual",1
+"Construction and Real Estate","Adobe Photoshop","Graphic Design/Visual",1
+"Entertainment and Recreation","Adobe Photoshop","Graphic Design/Visual",1
+"Non-profit and Social Services","ADP E-Time",Quantitative/Analytics,1
+"Advertising and Marketing",Advertising,Other,11
+"Business and Information Technology",Advertising,Other,1
+"Construction and Real Estate",Advertising,Other,1
+"Education and Training",Advertising,Other,1
+"Human Resources and Staffing",Advertising,Other,4
+Manufacturing,Advertising,Other,1
+"Non-profit and Social Services",Advertising,Other,1
+Others,Advertising,Other,1
+"Travel and Tourism",Advertising,Other,1
+"Advertising and Marketing","Advertising Campaigns",Strategy/Planning/Management,2
+"Business and Information Technology","Advertising Campaigns",Strategy/Planning/Management,1
+"Entertainment and Recreation","After Effects",Other,1
+"Human Resources and Staffing","Agile Methodologies",Other,1
+"Education and Training","Alumni Relations",Communication,2
+"Health and Medical","Americans with Disabilities Act",Other,1
+"Advertising and Marketing","Analytical Skills",Quantitative/Analytics,2
+"Architecture and Design","Analytical Skills",Quantitative/Analytics,1
+"Education and Training","Analytical Skills",Quantitative/Analytics,1
+"Human Resources and Staffing","Analytical Skills",Quantitative/Analytics,3
+Manufacturing,"Analytical Skills",Quantitative/Analytics,1
+"Travel and Tourism","Analytical Skills",Quantitative/Analytics,1
+"Advertising and Marketing",Analytics,Quantitative/Analytics,3
+"Business and Information Technology",Analytics,Quantitative/Analytics,1
+"Construction and Real Estate",Analytics,Quantitative/Analytics,1
+"Health and Medical",Analytics,Quantitative/Analytics,7
+"Human Resources and Staffing",Analytics,Quantitative/Analytics,10
+Manufacturing,Analytics,Quantitative/Analytics,3
+Others,Analytics,Quantitative/Analytics,1
+"Retail and Wholesale",Analytics,Quantitative/Analytics,1
+"Technology and Telecommunications",Analytics,Quantitative/Analytics,4
+"Education and Training","Annual Giving",Other,1
+"Retail and Wholesale",Apparel,Other,1
+"Human Resources and Staffing","Applicant Tracking Systems",Technology,1
+"Financial Services","Appointment Scheduling",Other,1
+"Retail and Wholesale","Assortment Strategies",Strategy/Planning/Management,1
+"Education and Training",Athletics,Other,2
+Manufacturing,Athletics,Other,1
+"Advertising and Marketing","Attention to Detail",Other,9
+"Architecture and Design","Attention to Detail",Other,1
+"Business and Information Technology","Attention to Detail",Other,2
+"Construction and Real Estate","Attention to Detail",Other,1
+"Entertainment and Recreation","Attention to Detail",Other,1
+"Human Resources and Staffing","Attention to Detail",Other,4
+Others,"Attention to Detail",Other,2
+"Advertising and Marketing","Attitude Change",Other,1
+"Non-profit and Social Services","Audience Measurement",Other,1
+"Advertising and Marketing","Audio Conferencing","Graphic Design/Visual",8
+Manufacturing,"B2B Marketing",Strategy/Planning/Management,1
+"Retail and Wholesale","Basic Math",Quantitative/Analytics,1
+"Education and Training",Basketball,Other,1
+"Education and Training","Basketball Coaching",Other,1
+"Health and Medical",Beauty,Other,1
+"Education and Training",Benchmarking,Strategy/Planning/Management,1
+"Human Resources and Staffing",Benchmarking,Strategy/Planning/Management,1
+"Construction and Real Estate","Benefits Administration",Other,1
+Others,Bios,Other,1
+"Advertising and Marketing",Blogging,Content/Writing,1
+"Human Resources and Staffing",Blogging,Content/Writing,1
+"Health and Medical",Bloomreach,Other,1
+"Architecture and Design",Bluebeam,Other,1
+"Travel and Tourism",Bookings,Other,1
+"Advertising and Marketing","Box Cloud",Technology,1
+"Construction and Real Estate","Brainstorm Facilitation",Other,1
+"Retail and Wholesale","Brand Activation",Brand,2
+"Human Resources and Staffing","Brand Ambassadorship",Brand,2
+"Advertising and Marketing","Brand Awareness",Brand,9
+"Food and Beverage","Brand Awareness",Brand,1
+"Human Resources and Staffing","Brand Awareness",Brand,2
+"Technology and Telecommunications","Brand Awareness",Brand,1
+"Human Resources and Staffing","Brand Development",Brand,1
+"Business and Information Technology","Brand Identity",Brand,1
+"Advertising and Marketing","Brand Loyalty",Brand,2
+"Advertising and Marketing","Brand Management",Brand,4
+"Construction and Real Estate","Brand Management",Brand,1
+"Human Resources and Staffing","Brand Management",Brand,3
+"Advertising and Marketing","Brand Marketing",Brand,4
+"Advertising and Marketing","Brand Strategy",Brand,1
+"Technology and Telecommunications","Brand Strategy",Brand,2
+"Advertising and Marketing",Branding,Brand,6
+"Education and Training",Branding,Brand,1
+"Entertainment and Recreation",Branding,Brand,2
+"Food and Beverage",Branding,Brand,1
+"Human Resources and Staffing",Branding,Brand,3
+Others,Branding,Brand,1
+"Technology and Telecommunications",Branding,Brand,1
+"Human Resources and Staffing","Branding & Identity",Brand,1
+"Health and Medical",Braze,Other,1
+"Human Resources and Staffing",Brochures,Other,1
+Manufacturing,Brochures,Other,1
+"Construction and Real Estate","Broker Opinion of Value",Other,1
+"Advertising and Marketing","Budget Tracking",Other,1
+"Advertising and Marketing",Budgeting,Strategy/Planning/Management,2
+"Human Resources and Staffing",Budgeting,Strategy/Planning/Management,1
+"Education and Training","Build Strong Relationships",Communication,1
+"Food and Beverage","Build Strong Relationships",Communication,1
+Others,"Build Strong Relationships",Communication,1
+"Construction and Real Estate","Building Operations",Strategy/Planning/Management,1
+"Construction and Real Estate","Building Science",Other,1
+"Human Resources and Staffing","Business Acumen",Strategy/Planning/Management,1
+"Advertising and Marketing","Business Administration",Strategy/Planning/Management,1
+"Technology and Telecommunications","Business Analysis",Quantitative/Analytics,1
+"Advertising and Marketing","Business Communications",Communication,4
+"Advertising and Marketing","Business Development",Strategy/Planning/Management,5
+"Human Resources and Staffing","Business Development",Strategy/Planning/Management,2
+"Education and Training","Business Engagement",Strategy/Planning/Management,1
+"Education and Training","Business Intelligence (BI)",Quantitative/Analytics,1
+"Advertising and Marketing","Business Management",Strategy/Planning/Management,1
+"Advertising and Marketing","Business Marketing",Strategy/Planning/Management,1
+"Advertising and Marketing","Business Modeling",Quantitative/Analytics,1
+"Human Resources and Staffing","Business Networking",Communication,1
+"Human Resources and Staffing","Business Planning",Strategy/Planning/Management,1
+"Advertising and Marketing","Business Relationship Management",Strategy/Planning/Management,1
+"Construction and Real Estate","Business Relationship Management",Strategy/Planning/Management,2
+"Education and Training","Business Relationship Management",Strategy/Planning/Management,1
+"Entertainment and Recreation","Business Relationship Management",Strategy/Planning/Management,1
+"Human Resources and Staffing","Business Relationship Management",Strategy/Planning/Management,3
+"Travel and Tourism","Business Relationship Management",Strategy/Planning/Management,1
+"Technology and Telecommunications","Business Reporting",Quantitative/Analytics,1
+"Business and Information Technology","Business Reviews",Other,1
+Manufacturing,"Business Strategy",Strategy/Planning/Management,1
+Manufacturing,"Business Transactions",Strategy/Planning/Management,1
+"Retail and Wholesale","Business Writing",Content/Writing,1
+"Environmental and Energy","Business-to-Business (B2B)",Strategy/Planning/Management,5
+"Human Resources and Staffing","Business-to-Business (B2B)",Strategy/Planning/Management,1
+Manufacturing,"Business-to-Business (B2B)",Strategy/Planning/Management,1
+"Technology and Telecommunications","Business-to-Business (B2B)",Strategy/Planning/Management,2
+"Advertising and Marketing",Calendaring,Other,2
+"Advertising and Marketing",Calendars,Other,1
+"Construction and Real Estate",Calendars,Other,1
+"Advertising and Marketing","Campaign Development",Strategy/Planning/Management,1
+"Human Resources and Staffing","Campaign Development",Strategy/Planning/Management,1
+"Automotive and Transportation","Campaign Effectiveness",Strategy/Planning/Management,1
+"Human Resources and Staffing","Campaign Effectiveness",Strategy/Planning/Management,1
+Manufacturing,"Campaign Effectiveness",Strategy/Planning/Management,1
+"Advertising and Marketing","Campaign Strategies",Strategy/Planning/Management,2
+"Health and Medical","Campaign Strategies",Strategy/Planning/Management,1
+"Advertising and Marketing",Campaigns,Strategy/Planning/Management,26
+"Automotive and Transportation",Campaigns,Strategy/Planning/Management,1
+"Business and Information Technology",Campaigns,Strategy/Planning/Management,3
+"Construction and Real Estate",Campaigns,Strategy/Planning/Management,2
+"Entertainment and Recreation",Campaigns,Strategy/Planning/Management,2
+"Facilities and Maintenance",Campaigns,Strategy/Planning/Management,1
+"Food and Beverage",Campaigns,Strategy/Planning/Management,3
+"Health and Medical",Campaigns,Strategy/Planning/Management,4
+"Human Resources and Staffing",Campaigns,Strategy/Planning/Management,22
+Manufacturing,Campaigns,Strategy/Planning/Management,3
+"Non-profit and Social Services",Campaigns,Strategy/Planning/Management,1
+Others,Campaigns,Strategy/Planning/Management,1
+"Retail and Wholesale",Campaigns,Strategy/Planning/Management,2
+"Advertising and Marketing",Cancellations,Other,1
+"Non-profit and Social Services",Cancellations,Other,1
+"Travel and Tourism",Carnival,Other,1
+"Human Resources and Staffing","Cascading Style Sheets (CSS)",Other,1
+"Business and Information Technology","Case Studies",Quantitative/Analytics,1
+"Construction and Real Estate","Case Studies",Quantitative/Analytics,1
+"Financial Services","Casualty Insurance",Other,1
+"Health and Medical",Census,Other,2
+"Advertising and Marketing","Charity Work",Other,1
+"Education and Training","Chartered Financial Analyst",Quantitative/Analytics,1
+"Education and Training","Child Welfare",Other,1
+"Advertising and Marketing",ClickUp,Other,1
+"Advertising and Marketing","Client Accounts",Sales,1
+"Advertising and Marketing","Client Communication",Sales,2
+"Construction and Real Estate","Client Presentation",Sales,1
+"Advertising and Marketing","Client Relations",Sales,5
+"Entertainment and Recreation","Client Relations",Sales,1
+"Financial Services","Client Relations",Sales,1
+"Human Resources and Staffing","Client Relations",Sales,5
+"Retail and Wholesale","Client Relations",Sales,2
+"Technology and Telecommunications","Client Relations",Sales,1
+"Advertising and Marketing","Client Representation",Sales,2
+"Education and Training","Closing Costs",Sales,1
+"Advertising and Marketing",Coaching,Other,2
+"Education and Training",Coaching,Other,1
+"Health and Medical",Coaching,Other,3
+"Technology and Telecommunications",Coaching,Other,1
+"Technology and Telecommunications","Coaching & Mentoring",Other,1
+"Financial Services","Cold Calling",Sales,1
+Others,"Cold Calling",Sales,1
+"Construction and Real Estate",Collateral,Other,1
+"Health and Medical",Collateral,Other,1
+"Human Resources and Staffing",Collateral,Other,1
+Manufacturing,"Commercial Awareness",Brand,2
+"Health and Medical","Common Sense",Other,1
+"Advertising and Marketing","Communication Training",Communication,4
+"Health and Medical","Communication Training",Communication,1
+"Human Resources and Staffing","Communication Training",Communication,4
+"Retail and Wholesale","Communication Training",Communication,1
+"Travel and Tourism","Communication Training",Communication,1
+"Retail and Wholesale","Community Building",Communication,2
+"Advertising and Marketing","Community Engagement",Communication,3
+"Retail and Wholesale","Community Foundations",Communication,1
+"Advertising and Marketing","Community Outreach",Communication,2
+Manufacturing,"Company Brochures",Other,1
+"Entertainment and Recreation","Company Newsletters",Content/Writing,1
+"Construction and Real Estate",Compensation,Other,1
+"Financial Services",Compensation,Other,1
+Others,Compensation,Other,1
+Manufacturing,"Competitive Analysis","Market Research",1
+"Technology and Telecommunications","Competitive Intelligence","Market Research",1
+"Technology and Telecommunications","Compliance Procedures",Other,1
+"Advertising and Marketing","Compliance Regulations",Other,1
+"Human Resources and Staffing","Computer Graphics",Other,1
+"Advertising and Marketing","Computer Literacy",Other,4
+"Construction and Real Estate","Computer Literacy",Other,1
+"Education and Training","Computer Literacy",Other,1
+"Health and Medical","Computer Literacy",Other,1
+"Human Resources and Staffing","Computer Literacy",Other,2
+Others,"Computer Literacy",Other,1
+"Travel and Tourism","Computer Literacy",Other,1
+"Advertising and Marketing",Confidentiality,Other,2
+"Technology and Telecommunications",Confidentiality,Other,1
+"Government and Public Services","Conflict Of Interest",Communication,1
+"Construction and Real Estate","Construction Management",Strategy/Planning/Management,1
+"Advertising and Marketing","Constructive Feedback",Communication,2
+"Human Resources and Staffing","Constructive Feedback",Communication,1
+"Health and Medical",Consultations,Other,1
+"Food and Beverage","Consumer Behavior","Market Research",1
+"Advertising and Marketing","Consumer Marketing",Sales,1
+"Advertising and Marketing","Contact Centers",Communication,1
+"Technology and Telecommunications","Contact Centers",Communication,1
+"Business and Information Technology","Content Creation",Content/Writing,1
+"Education and Training","Content Creation",Content/Writing,2
+"Health and Medical","Content Creation",Content/Writing,1
+"Human Resources and Staffing","Content Delivery",Content/Writing,1
+Others,"Content Delivery",Content/Writing,1
+"Travel and Tourism","Content Design",Content/Writing,1
+"Education and Training","Content Development",Content/Writing,1
+"Financial Services","Content Development",Content/Writing,1
+"Health and Medical","Content Development",Content/Writing,1
+"Construction and Real Estate","Content Management",Content/Writing,1
+"Education and Training","Content Management",Content/Writing,2
+"Financial Services","Content Management",Content/Writing,1
+"Health and Medical","Content Management",Content/Writing,2
+"Human Resources and Staffing","Content Management",Content/Writing,1
+"Human Resources and Staffing","Content Management Systems (CMS)",Content/Writing,1
+"Advertising and Marketing","Content Marketing",Content/Writing,1
+"Financial Services","Content Marketing",Content/Writing,1
+"Human Resources and Staffing","Content Marketing",Content/Writing,2
+"Non-profit and Social Services","Content Marketing",Content/Writing,1
+"Entertainment and Recreation","Content Strategy",Content/Writing,1
+"Financial Services","Content Strategy",Content/Writing,1
+"Human Resources and Staffing","Content Strategy",Content/Writing,2
+"Travel and Tourism","Content Strategy",Content/Writing,1
+"Advertising and Marketing","Contract Negotiation",Sales,2
+"Construction and Real Estate","Contract Negotiation",Sales,1
+Manufacturing,"Contract Negotiation",Sales,1
+"Health and Medical","Contract Terms",Other,1
+"Advertising and Marketing",Conventions,Other,2
+"Advertising and Marketing","Coordinating Activities",Strategy/Planning/Management,3
+Manufacturing,"Coordinating Activities",Strategy/Planning/Management,1
+"Advertising and Marketing",Copywriting,Content/Writing,2
+"Business and Information Technology",Copywriting,Content/Writing,1
+"Environmental and Energy",Copywriting,Content/Writing,5
+"Human Resources and Staffing",Copywriting,Content/Writing,2
+"Retail and Wholesale",Copywriting,Content/Writing,1
+"Technology and Telecommunications",Copywriting,Content/Writing,1
+"Advertising and Marketing","Corporate Communications",Communication,5
+"Automotive and Transportation","Corporate Communications",Communication,1
+"Human Resources and Staffing","Corporate Communications",Communication,1
+"Advertising and Marketing","Corporate Events",Strategy/Planning/Management,2
+"Travel and Tourism","Corporate Events",Strategy/Planning/Management,2
+"Business and Information Technology","Corporate Financial Reporting",Quantitative/Analytics,1
+"Health and Medical","Corporate Financial Reporting",Quantitative/Analytics,1
+Others,"Corporate Relations",Communication,1
+"Education and Training",Counseling,Communication,1
+"Retail and Wholesale",Counseling,Communication,1
+"Financial Services","Creative Agencies",Other,1
+"Human Resources and Staffing","Creative Briefs",Other,2
+"Travel and Tourism","Creative Design","Graphic Design/Visual",1
+"Health and Medical","Creative Direction",Other,1
+"Entertainment and Recreation","Creative Marketing",Strategy/Planning/Management,1
+"Construction and Real Estate","Creative Problem Solving",Strategy/Planning/Management,1
+"Human Resources and Staffing","Creative Problem Solving",Strategy/Planning/Management,1
+Manufacturing,"Creative Strategy",Strategy/Planning/Management,1
+"Advertising and Marketing","Creative Writing",Content/Writing,1
+"Business and Information Technology","Creative Writing",Content/Writing,1
+"Human Resources and Staffing","Creative Writing",Content/Writing,1
+"Advertising and Marketing","Creativity and Innovation",Other,1
+"Human Resources and Staffing","Creativity and Innovation",Other,1
+"Advertising and Marketing","Creativity Skills",Communication,1
+"Business and Information Technology","Creativity Skills",Communication,1
+"Non-profit and Social Services","Credit Cards",Other,1
+"Advertising and Marketing","Critical Thinking",Strategy/Planning/Management,4
+"Architecture and Design","Critical Thinking",Strategy/Planning/Management,1
+"Human Resources and Staffing","Critical Thinking",Strategy/Planning/Management,2
+"Technology and Telecommunications","Critical Thinking",Strategy/Planning/Management,1
+"Health and Medical","Cross-Channel Marketing",Strategy/Planning/Management,1
+"Health and Medical","Cross-functional Team Leadership",Strategy/Planning/Management,1
+"Retail and Wholesale","Cultural Competency",Other,1
+"Advertising and Marketing","Customer Acquisition",Sales,12
+"Human Resources and Staffing","Customer Acquisition",Sales,3
+"Advertising and Marketing","Customer Education",Sales,2
+"Advertising and Marketing","Customer Engagement",Sales,1
+"Business and Information Technology","Customer Engagement",Sales,1
+Others,"Customer Engagement",Sales,1
+"Advertising and Marketing","Customer Experience",Sales,5
+"Human Resources and Staffing","Customer Experience",Sales,1
+"Technology and Telecommunications","Customer Experience",Sales,1
+"Advertising and Marketing","Customer Facing Roles",Sales,2
+"Advertising and Marketing","Customer Insight",Quantitative/Analytics,1
+"Advertising and Marketing","Customer Interaction",Sales,3
+"Advertising and Marketing","Customer Loyalty",Sales,1
+"Advertising and Marketing","Customer Relations",Sales,4
+"Health and Medical","Customer Relations",Sales,1
+"Human Resources and Staffing","Customer Relations",Sales,3
+"Travel and Tourism","Customer Relations",Sales,1
+"Advertising and Marketing","Customer Relationship Management (CRM)",Sales,3
+"Human Resources and Staffing","Customer Relationship Management (CRM)",Sales,1
+"Travel and Tourism","Customer Relationship Management (CRM)",Sales,1
+"Advertising and Marketing","Customer Retention",Sales,6
+"Advertising and Marketing","Customer Satisfaction",Sales,5
+"Food and Beverage","Customer Satisfaction",Sales,1
+"Health and Medical","Customer Satisfaction",Sales,1
+"Human Resources and Staffing","Customer Satisfaction",Sales,1
+"Retail and Wholesale","Customer Satisfaction",Sales,1
+"Technology and Telecommunications","Customer Satisfaction",Sales,1
+"Advertising and Marketing","Customer Service",Sales,19
+"Architecture and Design","Customer Service",Sales,1
+"Construction and Real Estate","Customer Service",Sales,1
+"Financial Services","Customer Service",Sales,1
+"Human Resources and Staffing","Customer Service",Sales,9
+Others,"Customer Service",Sales,1
+"Retail and Wholesale","Customer Service",Sales,2
+"Technology and Telecommunications","Customer Service",Sales,1
+"Travel and Tourism","Customer Service",Sales,1
+"Advertising and Marketing","Customer Service Management",Sales,2
+"Technology and Telecommunications","Customer Success",Sales,2
+"Advertising and Marketing","Customer Support",Sales,2
+"Technology and Telecommunications","Customer Support",Sales,1
+"Advertising and Marketing","Customer-Focused Service",Sales,1
+"Financial Services","Customer-Focused Service",Sales,1
+"Business and Information Technology","Cyber Risk Management",Strategy/Planning/Management,1
+"Health and Medical","Data Analysis",Quantitative/Analytics,2
+"Technology and Telecommunications","Data Analysis",Quantitative/Analytics,1
+"Technology and Telecommunications","Data Analytics",Quantitative/Analytics,1
+"Business and Information Technology","Data Cleaning",Quantitative/Analytics,1
+"Health and Medical","Data Collection","Market Research",2
+"Business and Information Technology","Data Entry",Quantitative/Analytics,1
+"Construction and Real Estate","Data Entry",Quantitative/Analytics,1
+"Human Resources and Staffing","Data Entry",Quantitative/Analytics,2
+"Travel and Tourism","Data Entry",Quantitative/Analytics,1
+"Business and Information Technology","Data Integrity",Quantitative/Analytics,1
+"Human Resources and Staffing","Data Integrity",Quantitative/Analytics,1
+"Advertising and Marketing","Data Reporting",Quantitative/Analytics,1
+"Health and Medical","Database Administration",Technology,2
+"Advertising and Marketing",Databases,Quantitative/Analytics,1
+"Human Resources and Staffing",Databases,Quantitative/Analytics,1
+"Advertising and Marketing","Deal Closure",Other,2
+"Advertising and Marketing",Deals,Other,1
+"Business and Information Technology",Deduplication,Other,1
+"Construction and Real Estate","Design Development",Technology,1
+"Travel and Tourism","Destination Weddings",Other,1
+"Human Resources and Staffing","Digital Campaigns","Graphic Design/Visual",1
+"Environmental and Energy","Digital Communication","Graphic Design/Visual",5
+"Construction and Real Estate","Digital Content","Graphic Design/Visual",1
+"Travel and Tourism","Digital Content","Graphic Design/Visual",1
+"Advertising and Marketing","Digital Marketing","Graphic Design/Visual",10
+"Business and Information Technology","Digital Marketing","Graphic Design/Visual",3
+"Construction and Real Estate","Digital Marketing","Graphic Design/Visual",1
+"Education and Training","Digital Marketing","Graphic Design/Visual",1
+"Entertainment and Recreation","Digital Marketing","Graphic Design/Visual",1
+"Facilities and Maintenance","Digital Marketing","Graphic Design/Visual",1
+"Financial Services","Digital Marketing","Graphic Design/Visual",1
+"Food and Beverage","Digital Marketing","Graphic Design/Visual",2
+"Health and Medical","Digital Marketing","Graphic Design/Visual",4
+"Human Resources and Staffing","Digital Marketing","Graphic Design/Visual",13
+Manufacturing,"Digital Marketing","Graphic Design/Visual",3
+"Non-profit and Social Services","Digital Marketing","Graphic Design/Visual",1
+"Retail and Wholesale","Digital Marketing","Graphic Design/Visual",1
+"Advertising and Marketing","Digital Media","Graphic Design/Visual",1
+"Entertainment and Recreation","Digital Media","Graphic Design/Visual",1
+Others,"Digital Media","Graphic Design/Visual",1
+"Education and Training","Digital Strategy","Graphic Design/Visual",1
+"Business and Information Technology",Diplomacy,Communication,1
+"Education and Training","Direct Mail",Sales,1
+"Advertising and Marketing","Direct Marketing",Sales,4
+"Human Resources and Staffing","Direct Marketing",Sales,2
+"Non-profit and Social Services","Direct Response Marketing",Sales,1
+"Advertising and Marketing","Direct Sales",Sales,1
+"Non-profit and Social Services","Direct Sales",Sales,1
+"Government and Public Services",Disclosure,Other,1
+"Health and Medical",Dispositions,Other,1
+"Advertising and Marketing","Diverse Groups",Other,1
+"Human Resources and Staffing",Dreamweaver,Other,1
+"Human Resources and Staffing",E-newsletter,Other,1
+"Construction and Real Estate","Easily Adaptable",Other,1
+"Health and Medical","Easily Adaptable",Other,1
+Manufacturing,"Easily Adaptable",Other,1
+"Business and Information Technology",Editing,"Graphic Design/Visual",1
+"Construction and Real Estate",Editing,"Graphic Design/Visual",3
+"Education and Training",Editing,"Graphic Design/Visual",1
+"Entertainment and Recreation",Editing,"Graphic Design/Visual",1
+"Human Resources and Staffing",Editing,"Graphic Design/Visual",2
+"Technology and Telecommunications",Editing,"Graphic Design/Visual",1
+"Education and Training","Editing Software","Graphic Design/Visual",1
+"Human Resources and Staffing","Editing Software","Graphic Design/Visual",1
+"Education and Training","Educational Administration",Strategy/Planning/Management,1
+"Advertising and Marketing","Email Analytics",Quantitative/Analytics,1
+"Advertising and Marketing","Email Lists",Other,1
+"Advertising and Marketing","Email Marketing",Communication,1
+"Construction and Real Estate","Email Marketing",Communication,1
+"Facilities and Maintenance","Email Marketing",Communication,1
+"Food and Beverage","Email Marketing",Communication,1
+"Health and Medical","Email Marketing",Communication,1
+"Human Resources and Staffing","Email Marketing",Communication,4
+Manufacturing,"Email Marketing",Communication,1
+"Retail and Wholesale","Email Marketing",Communication,1
+"Travel and Tourism","Email Marketing",Communication,1
+"Construction and Real Estate","Emissions Trading",Other,1
+"Retail and Wholesale","Emotional Intelligence",Communication,1
+"Technology and Telecommunications","Emotional Intelligence",Communication,1
+"Advertising and Marketing","Employee Benefits",Strategy/Planning/Management,1
+"Architecture and Design","Employee Benefits",Strategy/Planning/Management,1
+"Business and Information Technology","Employee Benefits",Strategy/Planning/Management,1
+"Construction and Real Estate","Employee Orientations",Strategy/Planning/Management,1
+"Construction and Real Estate","Employee Relations",Communication,1
+"Health and Medical","Employee Relations",Communication,1
+"Human Resources and Staffing","Employee Relations",Communication,1
+"Technology and Telecommunications",Enablement,Other,2
+"Health and Medical",English,Other,2
+"Human Resources and Staffing",English,Other,1
+Others,English,Other,1
+"Travel and Tourism",English,Other,1
+"Advertising and Marketing",Entrepreneurship,Other,1
+Others,Entrepreneurship,Other,1
+"Construction and Real Estate",Errands,Other,1
+"Travel and Tourism",Errands,Other,1
+"Human Resources and Staffing",ESPPs,Other,2
+"Health and Medical","Establishing Priorities",Other,1
+"Health and Medical","Establishing Relationships",Communication,1
+"Advertising and Marketing","Event Management",Strategy/Planning/Management,1
+"Business and Information Technology","Event Management",Strategy/Planning/Management,1
+"Advertising and Marketing","Event Marketing",Strategy/Planning/Management,3
+"Construction and Real Estate","Event Marketing",Strategy/Planning/Management,1
+"Human Resources and Staffing","Event Marketing",Strategy/Planning/Management,1
+"Advertising and Marketing","Event Planning",Strategy/Planning/Management,5
+"Human Resources and Staffing","Event Planning",Strategy/Planning/Management,5
+"Retail and Wholesale","Event Planning",Strategy/Planning/Management,1
+"Travel and Tourism","Event Planning",Strategy/Planning/Management,1
+"Advertising and Marketing","Event Production",Strategy/Planning/Management,2
+"Travel and Tourism","Event Production",Strategy/Planning/Management,1
+"Advertising and Marketing",Events,Strategy/Planning/Management,6
+"Automotive and Transportation",Events,Strategy/Planning/Management,1
+"Entertainment and Recreation",Events,Strategy/Planning/Management,1
+"Environmental and Energy",Events,Strategy/Planning/Management,1
+"Health and Medical",Events,Strategy/Planning/Management,1
+"Human Resources and Staffing",Events,Strategy/Planning/Management,2
+Others,Events,Strategy/Planning/Management,1
+"Travel and Tourism",Events,Strategy/Planning/Management,2
+"Human Resources and Staffing","Executive Management",Strategy/Planning/Management,1
+"Advertising and Marketing","Executive Support",Other,2
+Manufacturing,"Executive Visibility",Other,1
+"Advertising and Marketing","Expense Reports",Quantitative/Analytics,3
+"Business and Information Technology","Expense Reports",Quantitative/Analytics,1
+"Construction and Real Estate","Expense Reports",Quantitative/Analytics,1
+"Environmental and Energy","Expense Reports",Quantitative/Analytics,1
+"Business and Information Technology",Expenses,Strategy/Planning/Management,1
+"Construction and Real Estate",Expenses,Strategy/Planning/Management,1
+"Environmental and Energy",Expenses,Strategy/Planning/Management,1
+"Government and Public Services",Expenses,Strategy/Planning/Management,1
+Manufacturing,Expenses,Strategy/Planning/Management,1
+"Travel and Tourism",Expenses,Strategy/Planning/Management,1
+"Advertising and Marketing","Experiential Marketing",Strategy/Planning/Management,1
+"Advertising and Marketing","Expert Communicator",Other,2
+"Education and Training","External Communications",Communication,2
+"Advertising and Marketing","Face-to-face Marketing",Sales,1
+"Construction and Real Estate",Facilitation,Other,1
+"Health and Medical",Facilitation,Other,5
+"Human Resources and Staffing","Fashion Retail","Graphic Design/Visual",1
+"Advertising and Marketing","Fast-Moving Consumer Goods (FMCG)",Other,1
+"Advertising and Marketing","Field Marketing",Sales,3
+"Human Resources and Staffing","Field Marketing",Sales,2
+"Human Resources and Staffing","Financial Advisory",Quantitative/Analytics,1
+"Human Resources and Staffing","Financial Analysis",Quantitative/Analytics,1
+"Human Resources and Staffing","Financial Regulations",Other,1
+"Business and Information Technology","Financial Reporting",Quantitative/Analytics,1
+"Health and Medical","Financial Reporting",Quantitative/Analytics,1
+"Retail and Wholesale","Financial Reporting",Quantitative/Analytics,1
+"Human Resources and Staffing","Financial Software",Technology,1
+"Education and Training","Fine Art","Graphic Design/Visual",1
+"Human Resources and Staffing","Flawless Execution",Strategy/Planning/Management,1
+"Human Resources and Staffing","Flow Charts",Other,1
+"Construction and Real Estate","Follow Directions",Sales,1
+"Travel and Tourism","Food Preparation",Other,1
+Manufacturing,Football,Other,1
+"Advertising and Marketing",Forecasting,Quantitative/Analytics,1
+"Human Resources and Staffing","Foster Care",Other,2
+"Advertising and Marketing",Fundraising,Other,2
+"Government and Public Services",Fundraising,Other,1
+"Travel and Tourism",Fundraising,Other,1
+"Advertising and Marketing",Gatekeeper,Other,1
+"Human Resources and Staffing",Gatekeeper,Other,1
+"Financial Services","General Administration",Technology,1
+"Health and Medical","General Public",Communication,1
+"Architecture and Design",Glazing,Other,1
+"Human Resources and Staffing","Go-to-Market Strategy","Market Research",2
+Manufacturing,"Go-to-Market Strategy","Market Research",1
+"Advertising and Marketing","Goal Setting",Strategy/Planning/Management,1
+"Advertising and Marketing","Google Ads",Other,1
+"Construction and Real Estate","Google Ads",Other,1
+"Entertainment and Recreation","Google Ads",Other,1
+"Human Resources and Staffing","Google Ads",Other,1
+Others,"Google Ads",Other,1
+"Advertising and Marketing","Google Analytics",Quantitative/Analytics,1
+"Human Resources and Staffing","Google Analytics",Quantitative/Analytics,2
+Others,"Google Analytics",Quantitative/Analytics,1
+"Retail and Wholesale","Google Docs",Other,1
+"Retail and Wholesale","Google Sheets",Other,1
+"Human Resources and Staffing","Google Workspace",Other,1
+"Retail and Wholesale","Google Workspace",Other,1
+"Government and Public Services","Government Ethics",Other,1
+"Architecture and Design",Grammar,Content/Writing,1
+"Non-profit and Social Services",Grammar,Content/Writing,1
+"Retail and Wholesale",Grammar,Content/Writing,1
+"Technology and Telecommunications",Grammar,Content/Writing,1
+"Business and Information Technology","Graphic Design","Graphic Design/Visual",2
+"Construction and Real Estate","Graphic Design","Graphic Design/Visual",2
+"Education and Training","Graphic Design","Graphic Design/Visual",1
+"Entertainment and Recreation","Graphic Design","Graphic Design/Visual",1
+"Food and Beverage","Graphic Design","Graphic Design/Visual",1
+"Health and Medical","Graphic Design","Graphic Design/Visual",1
+"Human Resources and Staffing","Graphic Design","Graphic Design/Visual",3
+"Travel and Tourism","Graphic Design","Graphic Design/Visual",1
+"Business and Information Technology","Graphic Design Principles","Graphic Design/Visual",1
+"Business and Information Technology","Graphic Design Software","Graphic Design/Visual",1
+"Health and Medical","Graphic Design Software","Graphic Design/Visual",1
+"Business and Information Technology",Graphics,"Graphic Design/Visual",1
+"Construction and Real Estate",Graphics,"Graphic Design/Visual",2
+"Entertainment and Recreation",Graphics,"Graphic Design/Visual",1
+"Human Resources and Staffing",Graphics,"Graphic Design/Visual",1
+"Retail and Wholesale","Grassroots Marketing",Strategy/Planning/Management,2
+"Retail and Wholesale","Grassroots Organizing",Strategy/Planning/Management,2
+"Retail and Wholesale","Grief Counseling",Communication,1
+"Environmental and Energy","Growth Strategies",Strategy/Planning/Management,5
+"Retail and Wholesale","Guest Experience",Other,1
+"Human Resources and Staffing","Handle Multiple Projects",Other,1
+"Human Resources and Staffing","Hands-on Training",Other,1
+"Education and Training","Health Assessment",Other,1
+"Non-profit and Social Services","Healthy Lifestyle",Other,1
+"Advertising and Marketing","Heavy Equipment",Other,1
+"Entertainment and Recreation","High Energy Level",Other,1
+"Health and Medical",HMO,Other,1
+"Advertising and Marketing","Hospitality Industry",Other,1
+"Construction and Real Estate","Hotel Management",Strategy/Planning/Management,1
+"Construction and Real Estate",Hotjar,Other,1
+"Travel and Tourism",Household,Other,1
+"Construction and Real Estate","HR Policies",Other,1
+"Health and Medical","HR Policies",Other,1
+"Business and Information Technology",HTML,Technology,1
+"Facilities and Maintenance",HTML,Technology,1
+"Human Resources and Staffing",HTML,Technology,1
+"Facilities and Maintenance","HTML Emails",Quantitative/Analytics,1
+"Human Resources and Staffing",HubSpot,Other,1
+"Retail and Wholesale",HubSpot,Other,1
+"Construction and Real Estate","Human Resources (HR)",Other,2
+"Health and Medical","Human Resources (HR)",Other,1
+"Human Resources and Staffing","Human Resources (HR)",Other,2
+"Health and Medical","Human Rights Law",Other,2
+"Non-profit and Social Services","IBM iSeries",Other,1
+"Health and Medical","IBM SPSS",Other,2
+"Human Resources and Staffing","Influencer Marketing",Strategy/Planning/Management,1
+"Construction and Real Estate","Information Design","Graphic Design/Visual",1
+"Architecture and Design","Information Gathering",Other,1
+"Travel and Tourism","Information Research","Market Research",1
+"Human Resources and Staffing","Information Technology",Other,1
+"Construction and Real Estate",Initiation,Strategy/Planning/Management,1
+"Environmental and Energy",Initiation,Strategy/Planning/Management,1
+Manufacturing,"Inside Sales",Sales,1
+"Health and Medical",Inspiration,Other,1
+"Health and Medical","Institutional Review Board (IRB)",Other,2
+"Health and Medical","Integrated Marketing",Strategy/Planning/Management,1
+"Human Resources and Staffing","Integrated Marketing",Strategy/Planning/Management,1
+"Advertising and Marketing","Interactive Advertising",Other,1
+"Education and Training","Intercollegiate Athletics",Other,1
+"Retail and Wholesale","Intercultural Awareness",Other,1
+"Retail and Wholesale","Intercultural Skills",Communication,1
+"Education and Training","Internal and External Communications",Communication,1
+"Advertising and Marketing","Internal Communications",Communication,3
+"Automotive and Transportation","Internal Communications",Communication,1
+"Government and Public Services","Internal Communications",Communication,1
+"Health and Medical","Internal Communications",Communication,2
+Others,"Internal Communications",Communication,1
+"Construction and Real Estate","Internal Customers",Other,1
+"Travel and Tourism","International Travel",Other,1
+"Non-profit and Social Services","Internet Access",Other,1
+"Advertising and Marketing","Interpersonal Communication",Communication,2
+"Health and Medical","Interpersonal Communication",Communication,6
+"Human Resources and Staffing","Interpersonal Communication",Communication,2
+Manufacturing,"Interpersonal Communication",Communication,1
+"Health and Medical","Interpersonal Relationships",Communication,1
+"Advertising and Marketing","Interpersonal Skills",Communication,16
+"Architecture and Design","Interpersonal Skills",Communication,1
+"Business and Information Technology","Interpersonal Skills",Communication,2
+"Construction and Real Estate","Interpersonal Skills",Communication,2
+"Education and Training","Interpersonal Skills",Communication,1
+"Financial Services","Interpersonal Skills",Communication,1
+"Health and Medical","Interpersonal Skills",Communication,3
+"Human Resources and Staffing","Interpersonal Skills",Communication,2
+Manufacturing,"Interpersonal Skills",Communication,2
+Others,"Interpersonal Skills",Communication,1
+"Retail and Wholesale","Interpersonal Skills",Communication,1
+"Technology and Telecommunications","Interpersonal Skills",Communication,3
+"Travel and Tourism","Interpersonal Skills",Communication,2
+"Human Resources and Staffing",Interviewing,Communication,2
+"Food and Beverage","Inventory Management",Strategy/Planning/Management,1
+"Technology and Telecommunications",Investigation,Other,1
+"Business and Information Technology",Itineraries,Other,1
+"Travel and Tourism",Itineraries,Other,1
+"Government and Public Services","Job Satisfaction",Other,1
+"Construction and Real Estate","Job Skills",Communication,1
+"Business and Information Technology",Journalism,Content/Writing,1
+"Health and Medical",Journalism,Content/Writing,2
+"Non-profit and Social Services",Journalism,Content/Writing,1
+Others,Journalism,Content/Writing,2
+"Advertising and Marketing","Key Accounts",Other,1
+"Health and Medical","Key Metrics",Strategy/Planning/Management,1
+"Non-profit and Social Services","Key Metrics",Strategy/Planning/Management,1
+"Advertising and Marketing","Key Performance Indicators",Strategy/Planning/Management,1
+"Construction and Real Estate","Key Performance Indicators",Strategy/Planning/Management,1
+"Facilities and Maintenance","Key Performance Indicators",Strategy/Planning/Management,1
+"Health and Medical","Key Performance Indicators",Strategy/Planning/Management,1
+"Human Resources and Staffing","Key Performance Indicators",Strategy/Planning/Management,3
+"Non-profit and Social Services","Key Performance Indicators",Strategy/Planning/Management,1
+"Human Resources and Staffing","Keyword Research","Market Research",1
+Manufacturing,Klaviyo,"Social Media/Digital",1
+"Education and Training","Knowledge Acquisition",Other,1
+Others,"Knowledge Acquisition",Other,1
+"Advertising and Marketing","Landing Pages",Other,1
+"Automotive and Transportation","Landing Pages",Other,1
+"Travel and Tourism","Landing Pages",Other,1
+"Health and Medical",Laserfiche,Other,1
+"Advertising and Marketing",Launches,Brand,1
+"Travel and Tourism",Laundry,Other,1
+"Advertising and Marketing","Lead Generation",Sales,1
+"Environmental and Energy","Lead Generation",Sales,5
+"Facilities and Maintenance","Lead Generation",Sales,1
+"Health and Medical","Lead Generation",Sales,1
+"Human Resources and Staffing","Lead Generation",Sales,1
+Others,"Lead Generation",Sales,2
+"Advertising and Marketing","Lead Qualification",Sales,1
+"Environmental and Energy","Lead Qualification",Sales,1
+"Health and Medical","Lead Qualification",Sales,1
+Others,"Lead Qualification",Sales,1
+"Advertising and Marketing",Leadership,Strategy/Planning/Management,10
+"Architecture and Design",Leadership,Strategy/Planning/Management,1
+"Health and Medical",Leadership,Strategy/Planning/Management,6
+"Human Resources and Staffing",Leadership,Strategy/Planning/Management,2
+Others,Leadership,Strategy/Planning/Management,1
+"Technology and Telecommunications",Leadership,Strategy/Planning/Management,1
+Others,Liability,Other,1
+"Travel and Tourism",Liability,Other,1
+Others,"Liability Insurance",Other,1
+"Health and Medical","Liberal Arts",Other,1
+"Advertising and Marketing",Lists,Other,2
+"Business and Information Technology",Lists,Other,1
+"Health and Medical","Literature Reviews",Other,2
+"Advertising and Marketing","Live Events",Strategy/Planning/Management,2
+"Travel and Tourism","Live Events",Strategy/Planning/Management,1
+"Non-profit and Social Services","Loan Workouts",Other,1
+"Food and Beverage","Local Marketing",Other,1
+"Human Resources and Staffing","Logo Design","Graphic Design/Visual",1
+"Health and Medical","Long-term Care",Other,1
+"Business and Information Technology","Magazine Articles",Other,1
+"Advertising and Marketing","Mailing Lists",Other,1
+"Health and Medical","Managed Care",Other,2
+"Advertising and Marketing",Management,Strategy/Planning/Management,22
+"Architecture and Design",Management,Strategy/Planning/Management,1
+"Business and Information Technology",Management,Strategy/Planning/Management,4
+"Construction and Real Estate",Management,Strategy/Planning/Management,6
+"Education and Training",Management,Strategy/Planning/Management,3
+"Entertainment and Recreation",Management,Strategy/Planning/Management,1
+"Financial Services",Management,Strategy/Planning/Management,1
+"Food and Beverage",Management,Strategy/Planning/Management,3
+"Health and Medical",Management,Strategy/Planning/Management,6
+"Human Resources and Staffing",Management,Strategy/Planning/Management,22
+Manufacturing,Management,Strategy/Planning/Management,2
+"Non-profit and Social Services",Management,Strategy/Planning/Management,1
+Others,Management,Strategy/Planning/Management,2
+"Retail and Wholesale",Management,Strategy/Planning/Management,2
+"Technology and Telecommunications",Management,Strategy/Planning/Management,3
+"Travel and Tourism",Management,Strategy/Planning/Management,2
+"Human Resources and Staffing","Managing Accounts (Accounting)",Other,1
+"Business and Information Technology","Managing Meetings",Other,1
+"Advertising and Marketing",Manners,Other,1
+"Retail and Wholesale","Manual Handling",Sales,1
+"Retail and Wholesale","Manufacturing Processes",Other,1
+"Advertising and Marketing","Market Analysis","Market Research",3
+"Food and Beverage","Market Analysis","Market Research",1
+Manufacturing,"Market Analysis","Market Research",1
+"Advertising and Marketing","Market Planning","Market Research",3
+"Health and Medical","Market Planning","Market Research",8
+"Human Resources and Staffing","Market Planning","Market Research",2
+Others,"Market Planning","Market Research",1
+"Technology and Telecommunications","Market Planning","Market Research",2
+"Advertising and Marketing","Market Research","Market Research",10
+"Education and Training","Market Research","Market Research",1
+"Entertainment and Recreation","Market Research","Market Research",1
+"Health and Medical","Market Research","Market Research",1
+"Human Resources and Staffing","Market Research","Market Research",6
+Manufacturing,"Market Research","Market Research",4
+Others,"Market Research","Market Research",1
+"Technology and Telecommunications","Market Research","Market Research",3
+"Human Resources and Staffing","Market Segmentation","Market Research",1
+Manufacturing,"Market Segmentation","Market Research",1
+"Advertising and Marketing","Market Share","Market Research",2
+"Advertising and Marketing",Marketing,Strategy/Planning/Management,65
+"Architecture and Design",Marketing,Strategy/Planning/Management,1
+"Automotive and Transportation",Marketing,Strategy/Planning/Management,1
+"Business and Information Technology",Marketing,Strategy/Planning/Management,7
+"Construction and Real Estate",Marketing,Strategy/Planning/Management,8
+"Education and Training",Marketing,Strategy/Planning/Management,6
+"Entertainment and Recreation",Marketing,Strategy/Planning/Management,3
+"Environmental and Energy",Marketing,Strategy/Planning/Management,5
+"Facilities and Maintenance",Marketing,Strategy/Planning/Management,1
+"Financial Services",Marketing,Strategy/Planning/Management,2
+"Food and Beverage",Marketing,Strategy/Planning/Management,4
+"Government and Public Services",Marketing,Strategy/Planning/Management,1
+"Health and Medical",Marketing,Strategy/Planning/Management,20
+"Human Resources and Staffing",Marketing,Strategy/Planning/Management,40
+Manufacturing,Marketing,Strategy/Planning/Management,8
+"Non-profit and Social Services",Marketing,Strategy/Planning/Management,3
+Others,Marketing,Strategy/Planning/Management,6
+"Retail and Wholesale",Marketing,Strategy/Planning/Management,4
+"Technology and Telecommunications",Marketing,Strategy/Planning/Management,3
+"Travel and Tourism",Marketing,Strategy/Planning/Management,3
+"Advertising and Marketing","Marketing Agencies",Other,1
+"Health and Medical","Marketing Analytics",Quantitative/Analytics,7
+"Human Resources and Staffing","Marketing Analytics",Quantitative/Analytics,6
+Manufacturing,"Marketing Analytics",Quantitative/Analytics,3
+"Technology and Telecommunications","Marketing Analytics",Quantitative/Analytics,3
+"Health and Medical","Marketing Automation","Social Media/Digital",1
+"Human Resources and Staffing","Marketing Automation","Social Media/Digital",2
+Manufacturing,"Marketing Automation","Social Media/Digital",1
+"Health and Medical","Marketing Budget Management",Strategy/Planning/Management,1
+"Non-profit and Social Services","Marketing Budget Management",Strategy/Planning/Management,1
+"Automotive and Transportation","Marketing Campaign Effectiveness",Strategy/Planning/Management,1
+"Advertising and Marketing","Marketing Campaign Management",Strategy/Planning/Management,2
+"Human Resources and Staffing","Marketing Campaign Management",Strategy/Planning/Management,6
+Manufacturing,"Marketing Campaign Plans",Strategy/Planning/Management,1
+"Advertising and Marketing","Marketing Campaigns",Strategy/Planning/Management,14
+"Automotive and Transportation","Marketing Campaigns",Strategy/Planning/Management,1
+"Business and Information Technology","Marketing Campaigns",Strategy/Planning/Management,1
+"Construction and Real Estate","Marketing Campaigns",Strategy/Planning/Management,2
+"Entertainment and Recreation","Marketing Campaigns",Strategy/Planning/Management,2
+"Facilities and Maintenance","Marketing Campaigns",Strategy/Planning/Management,1
+"Food and Beverage","Marketing Campaigns",Strategy/Planning/Management,2
+"Health and Medical","Marketing Campaigns",Strategy/Planning/Management,3
+"Human Resources and Staffing","Marketing Campaigns",Strategy/Planning/Management,9
+Manufacturing,"Marketing Campaigns",Strategy/Planning/Management,2
+"Non-profit and Social Services","Marketing Campaigns",Strategy/Planning/Management,1
+Others,"Marketing Campaigns",Strategy/Planning/Management,1
+"Retail and Wholesale","Marketing Campaigns",Strategy/Planning/Management,2
+"Advertising and Marketing","Marketing Communications",Communication,8
+"Business and Information Technology","Marketing Communications",Communication,1
+"Education and Training","Marketing Communications",Communication,1
+"Entertainment and Recreation","Marketing Communications",Communication,1
+"Environmental and Energy","Marketing Communications",Communication,5
+"Government and Public Services","Marketing Communications",Communication,1
+"Health and Medical","Marketing Communications",Communication,2
+"Human Resources and Staffing","Marketing Communications",Communication,4
+Manufacturing,"Marketing Communications",Communication,1
+"Human Resources and Staffing","Marketing Consulting",Strategy/Planning/Management,1
+"Advertising and Marketing","Marketing Copy",Content/Writing,1
+"Non-profit and Social Services","Marketing Copy",Content/Writing,1
+Others,"Marketing Copy",Content/Writing,1
+"Advertising and Marketing","Marketing Documents",Content/Writing,1
+"Business and Information Technology","Marketing Literature",Strategy/Planning/Management,1
+"Advertising and Marketing","Marketing Management",Strategy/Planning/Management,1
+"Business and Information Technology","Marketing Management",Strategy/Planning/Management,1
+"Health and Medical","Marketing Management",Strategy/Planning/Management,1
+"Human Resources and Staffing","Marketing Management",Strategy/Planning/Management,1
+Manufacturing,"Marketing Management",Strategy/Planning/Management,1
+Others,"Marketing Management",Strategy/Planning/Management,1
+"Advertising and Marketing","Marketing Materials",Content/Writing,1
+"Construction and Real Estate","Marketing Materials",Content/Writing,2
+"Education and Training","Marketing Materials",Content/Writing,2
+"Environmental and Energy","Marketing Materials",Content/Writing,5
+"Health and Medical","Marketing Materials",Content/Writing,1
+"Human Resources and Staffing","Marketing Materials",Content/Writing,2
+"Non-profit and Social Services","Marketing Materials",Content/Writing,2
+Others,"Marketing Materials",Content/Writing,3
+"Technology and Telecommunications","Marketing Materials",Content/Writing,1
+"Travel and Tourism","Marketing Materials",Content/Writing,1
+Others,"Marketing Metrics",Strategy/Planning/Management,1
+Manufacturing,"Marketing Mix Modeling",Quantitative/Analytics,1
+"Advertising and Marketing","Marketing Operations",Strategy/Planning/Management,1
+"Food and Beverage","Marketing Operations",Strategy/Planning/Management,1
+"Health and Medical","Marketing Operations",Strategy/Planning/Management,1
+"Technology and Telecommunications","Marketing Operations",Strategy/Planning/Management,1
+Manufacturing,"Marketing Partnerships",Strategy/Planning/Management,1
+"Human Resources and Staffing","Marketing Presentations",Sales,1
+"Human Resources and Staffing","Marketing Programs",Strategy/Planning/Management,1
+"Architecture and Design","Marketing Reporting",Quantitative/Analytics,1
+Others,"Marketing Research","Market Research",1
+"Food and Beverage","Marketing Support",Strategy/Planning/Management,1
+"Facilities and Maintenance","Mass Email Marketing",Communication,1
+"Retail and Wholesale",Mathematics,Quantitative/Analytics,2
+"Travel and Tourism",Mathematics,Quantitative/Analytics,1
+"Business and Information Technology","Maturity Assessments",Quantitative/Analytics,1
+"Travel and Tourism","Meal Planning",Strategy/Planning/Management,1
+"Health and Medical",Medi-Cal,Other,1
+"Business and Information Technology","Media Engagement","Social Media/Digital",1
+"Travel and Tourism","Media Evaluation","Social Media/Digital",1
+"Automotive and Transportation","Media Events","Social Media/Digital",1
+"Food and Beverage","Media Management","Social Media/Digital",2
+"Health and Medical","Media Management","Social Media/Digital",1
+Manufacturing,"Media Management","Social Media/Digital",1
+"Advertising and Marketing","Media Marketing","Social Media/Digital",12
+"Business and Information Technology","Media Marketing","Social Media/Digital",2
+"Construction and Real Estate","Media Marketing","Social Media/Digital",2
+"Education and Training","Media Marketing","Social Media/Digital",2
+"Entertainment and Recreation","Media Marketing","Social Media/Digital",1
+"Food and Beverage","Media Marketing","Social Media/Digital",1
+"Health and Medical","Media Marketing","Social Media/Digital",5
+"Human Resources and Staffing","Media Marketing","Social Media/Digital",15
+Manufacturing,"Media Marketing","Social Media/Digital",2
+"Non-profit and Social Services","Media Marketing","Social Media/Digital",1
+"Retail and Wholesale","Media Marketing","Social Media/Digital",1
+"Automotive and Transportation","Media Monitoring","Social Media/Digital",1
+"Education and Training","Media Planning","Social Media/Digital",1
+"Human Resources and Staffing","Media Planning","Social Media/Digital",1
+"Advertising and Marketing","Media Relations","Social Media/Digital",1
+"Automotive and Transportation","Media Relations","Social Media/Digital",1
+"Entertainment and Recreation","Media Relations","Social Media/Digital",1
+"Government and Public Services","Media Relations","Social Media/Digital",1
+"Human Resources and Staffing","Media Relations","Social Media/Digital",2
+"Advertising and Marketing","Media Strategy","Social Media/Digital",1
+"Travel and Tourism","Media Strategy","Social Media/Digital",1
+"Health and Medical",Medicare,Other,1
+"Non-profit and Social Services","Membership Development",Technology,1
+"Non-profit and Social Services","Membership Sales",Sales,1
+"Construction and Real Estate",Memos,Other,1
+"Advertising and Marketing","Mental Health",Other,1
+"Retail and Wholesale","Merchandise Planning",Strategy/Planning/Management,1
+"Advertising and Marketing",Merchandising,Sales,5
+"Business and Information Technology",Merchandising,Sales,1
+"Human Resources and Staffing",Merchandising,Sales,1
+"Retail and Wholesale",Merchandising,Sales,1
+"Health and Medical",Messaging,Other,5
+Manufacturing,Messaging,Other,1
+"Construction and Real Estate","Microsoft Office",Other,1
+Manufacturing,"Microsoft Office",Other,1
+"Business and Information Technology","Microsoft Outlook",Other,1
+"Construction and Real Estate","Microsoft Outlook",Other,1
+"Financial Services","Microsoft Outlook",Other,1
+"Architecture and Design","Microsoft PowerPoint",Other,1
+"Construction and Real Estate","Microsoft PowerPoint",Other,1
+"Financial Services","Microsoft PowerPoint",Other,1
+Manufacturing,"Microsoft PowerPoint",Other,1
+"Technology and Telecommunications",MLRO,Other,1
+"Human Resources and Staffing","Mobile Application Development",Technology,1
+"Food and Beverage","Mobile Communications",Communication,1
+"Human Resources and Staffing","Mobile Marketing","Social Media/Digital",1
+"Technology and Telecommunications",Morale,Other,1
+"Construction and Real Estate","Motor Vehicle",Other,1
+"Construction and Real Estate",MSDS,Other,1
+"Health and Medical","Multi-Channel Marketing",Strategy/Planning/Management,1
+"Entertainment and Recreation","Multimedia Marketing Campaigns",Strategy/Planning/Management,1
+"Advertising and Marketing",Multitasking,Other,3
+"Construction and Real Estate",Multitasking,Other,2
+"Human Resources and Staffing",Multitasking,Other,2
+Manufacturing,Multitasking,Other,1
+"Entertainment and Recreation","Music Lover",Other,1
+"Advertising and Marketing",Narrative,Content/Writing,1
+"Advertising and Marketing",Negotiation,Sales,12
+"Construction and Real Estate",Negotiation,Sales,1
+"Health and Medical",Negotiation,Sales,3
+"Human Resources and Staffing",Negotiation,Sales,3
+Manufacturing,Negotiation,Sales,1
+"Technology and Telecommunications",Negotiation,Sales,1
+"Health and Medical","Network Administration",Technology,1
+"Advertising and Marketing",Networking,Communication,1
+"Construction and Real Estate",Networking,Communication,1
+"Environmental and Energy",Networking,Communication,1
+"Human Resources and Staffing",Networking,Communication,1
+Others,Networking,Communication,1
+"Environmental and Energy","Networking Events",Communication,1
+Others,"Networking Events",Communication,1
+"Human Resources and Staffing","New Business Development",Strategy/Planning/Management,1
+"Advertising and Marketing","New Client Acquisitions",Sales,1
+"Advertising and Marketing","New Customer Acquisitions",Sales,2
+"Human Resources and Staffing","New Customer Acquisitions",Sales,1
+"Construction and Real Estate","New Hire Orientations",Other,1
+"Advertising and Marketing","New Leads",Other,2
+"Automotive and Transportation",Newsletters,Content/Writing,1
+"Construction and Real Estate",Newsletters,Content/Writing,1
+"Entertainment and Recreation",Newsletters,Content/Writing,1
+"Non-profit and Social Services",Newsletters,Content/Writing,1
+"Retail and Wholesale",Newsletters,Content/Writing,1
+"Travel and Tourism",Newsletters,Content/Writing,1
+"Health and Medical","Nonprofit Organizations",Other,1
+Manufacturing,Numeracy,Other,1
+"Health and Medical",Nursing,Other,1
+"Health and Medical","Office 365",Other,1
+"Advertising and Marketing","Office Administration",Strategy/Planning/Management,1
+"Construction and Real Estate","Office Administration",Strategy/Planning/Management,1
+"Construction and Real Estate","Office Equipment",Other,1
+"Financial Services","Office Equipment",Other,1
+"Human Resources and Staffing","Office Equipment",Other,1
+"Advertising and Marketing","On Site",Other,1
+"Business and Information Technology","On-Page Optimization",Technology,1
+"Advertising and Marketing",Onboarding,Communication,1
+"Construction and Real Estate",Onboarding,Communication,1
+"Health and Medical",Onboarding,Communication,1
+"Human Resources and Staffing",Onboarding,Communication,1
+"Human Resources and Staffing","Online Advertising",Other,1
+"Business and Information Technology","Online Data Entry",Quantitative/Analytics,1
+"Human Resources and Staffing","Online Data Entry",Quantitative/Analytics,1
+"Advertising and Marketing","Online Marketing",Strategy/Planning/Management,2
+"Human Resources and Staffing","Online Marketing",Strategy/Planning/Management,2
+Manufacturing,"Online Marketing",Strategy/Planning/Management,1
+"Health and Medical","Online Reputation Management",Strategy/Planning/Management,1
+"Construction and Real Estate","Online Research","Market Research",1
+"Travel and Tourism","Open Platform Communication (OPC)",Communication,1
+"Retail and Wholesale","Open to Buy Management",Strategy/Planning/Management,1
+"Advertising and Marketing","Opening New Accounts",Other,1
+"Health and Medical","Operations Processes",Other,1
+"Advertising and Marketing",Optimization,Technology,4
+"Business and Information Technology",Optimization,Technology,2
+"Construction and Real Estate",Optimization,Technology,1
+"Education and Training",Optimization,Technology,1
+"Entertainment and Recreation",Optimization,Technology,1
+"Environmental and Energy",Optimization,Technology,5
+"Financial Services",Optimization,Technology,1
+"Food and Beverage",Optimization,Technology,1
+"Health and Medical",Optimization,Technology,1
+"Human Resources and Staffing",Optimization,Technology,5
+Manufacturing,Optimization,Technology,1
+"Business and Information Technology","Optimization Techniques",Quantitative/Analytics,1
+"Advertising and Marketing","Oral Communication",Communication,4
+"Business and Information Technology","Oral Communication",Communication,2
+"Construction and Real Estate","Oral Communication",Communication,2
+"Education and Training","Oral Communication",Communication,1
+"Health and Medical","Oral Communication",Communication,1
+"Human Resources and Staffing","Oral Communication",Communication,8
+Others,"Oral Communication",Communication,2
+"Retail and Wholesale","Oral Communication",Communication,1
+"Travel and Tourism","Oral Communication",Communication,2
+"Advertising and Marketing","Order Processing",Other,1
+"Financial Services","Organic Search",Other,1
+"Advertising and Marketing","Organization Skills",Strategy/Planning/Management,18
+"Construction and Real Estate","Organization Skills",Strategy/Planning/Management,4
+"Education and Training","Organization Skills",Strategy/Planning/Management,2
+"Financial Services","Organization Skills",Strategy/Planning/Management,1
+"Health and Medical","Organization Skills",Strategy/Planning/Management,6
+"Human Resources and Staffing","Organization Skills",Strategy/Planning/Management,13
+Others,"Organization Skills",Strategy/Planning/Management,2
+"Retail and Wholesale","Organization Skills",Strategy/Planning/Management,2
+"Travel and Tourism","Organization Skills",Strategy/Planning/Management,2
+"Business and Information Technology","Organizing Meetings",Other,1
+"Advertising and Marketing","Outdoor Advertising",Sales,3
+"Advertising and Marketing","Outreach Programs",Other,1
+"Human Resources and Staffing","P&L Management",Strategy/Planning/Management,1
+"Education and Training","Paid Advertising",Other,1
+"Human Resources and Staffing","Paid Media Advertising","Social Media/Digital",1
+Manufacturing,"Paid Media Advertising","Social Media/Digital",1
+"Non-profit and Social Services","Paid Media Advertising","Social Media/Digital",1
+"Construction and Real Estate","Paid Social Media","Social Media/Digital",1
+"Human Resources and Staffing","Paid Social Media","Social Media/Digital",1
+"Technology and Telecommunications","Panel Discussions",Other,1
+"Financial Services","Partner Recruitment",Other,1
+"Advertising and Marketing","Partner Relationship Management",Sales,1
+"Advertising and Marketing","Passionate about Work",Other,2
+Others,"Pay Per Click (PPC)",Other,1
+"Construction and Real Estate","Payroll Administration",Other,1
+"Financial Services",People-Oriented,Other,1
+"Human Resources and Staffing",People-Oriented,Other,3
+"Human Resources and Staffing","Performance Analysis",Quantitative/Analytics,1
+"Retail and Wholesale","Performance Reporting",Quantitative/Analytics,1
+"Advertising and Marketing","Performance Reviews",Other,1
+Manufacturing,"Performance Reviews",Other,1
+"Advertising and Marketing",Perseverant,Other,1
+"Retail and Wholesale",Persistence,Other,1
+"Travel and Tourism","Personal Assistance",Other,1
+"Retail and Wholesale","Personal Responsibility",Other,2
+"Advertising and Marketing","Phone Etiquette",Communication,3
+"Construction and Real Estate","Phone Etiquette",Communication,2
+"Financial Services","Phone Etiquette",Communication,1
+"Health and Medical","Phone Etiquette",Communication,1
+"Human Resources and Staffing","Phone Etiquette",Communication,2
+"Technology and Telecommunications","Phone Etiquette",Communication,1
+"Travel and Tourism","Phone Etiquette",Communication,1
+"Advertising and Marketing","Photo Shoots",Other,1
+Manufacturing,"Photo Shoots",Other,1
+"Construction and Real Estate",Photography,"Graphic Design/Visual",1
+"Education and Training",Photography,"Graphic Design/Visual",1
+"Advertising and Marketing","Pivot Tables",Quantitative/Analytics,1
+"Financial Services","Pivot Tables",Quantitative/Analytics,1
+"Health and Medical","Pivot Tables",Quantitative/Analytics,1
+"Health and Medical","Platform Management",Strategy/Planning/Management,1
+"Advertising and Marketing","Positioning (Marketing)",Strategy/Planning/Management,1
+"Retail and Wholesale",Pre-production,Other,1
+"Advertising and Marketing","Presentation Skills",Communication,6
+"Business and Information Technology","Presentation Skills",Communication,1
+"Education and Training","Presentation Skills",Communication,1
+"Environmental and Energy","Presentation Skills",Communication,1
+"Health and Medical","Presentation Skills",Communication,1
+"Advertising and Marketing",Presentations,Communication,19
+"Automotive and Transportation",Presentations,Communication,2
+"Business and Information Technology",Presentations,Communication,2
+"Construction and Real Estate",Presentations,Communication,3
+"Education and Training",Presentations,Communication,3
+"Environmental and Energy",Presentations,Communication,1
+"Food and Beverage",Presentations,Communication,1
+"Health and Medical",Presentations,Communication,3
+"Human Resources and Staffing",Presentations,Communication,10
+Manufacturing,Presentations,Communication,2
+Others,Presentations,Communication,1
+"Retail and Wholesale",Presentations,Communication,2
+"Travel and Tourism",Presentations,Communication,1
+"Advertising and Marketing","Press Releases",Other,7
+"Construction and Real Estate","Press Releases",Other,1
+"Entertainment and Recreation","Press Releases",Other,2
+"Financial Services","Press Releases",Other,1
+"Government and Public Services","Press Releases",Other,1
+"Health and Medical","Press Releases",Other,1
+"Human Resources and Staffing","Press Releases",Other,2
+"Non-profit and Social Services","Press Releases",Other,1
+"Retail and Wholesale","Press Releases",Other,1
+"Human Resources and Staffing","Print Collateral",Other,1
+"Human Resources and Staffing","Print Marketing",Content/Writing,1
+"Advertising and Marketing","Problem Solving",Strategy/Planning/Management,20
+"Construction and Real Estate","Problem Solving",Strategy/Planning/Management,4
+"Education and Training","Problem Solving",Strategy/Planning/Management,2
+"Financial Services","Problem Solving",Strategy/Planning/Management,2
+"Health and Medical","Problem Solving",Strategy/Planning/Management,1
+"Human Resources and Staffing","Problem Solving",Strategy/Planning/Management,11
+Manufacturing,"Problem Solving",Strategy/Planning/Management,1
+Others,"Problem Solving",Strategy/Planning/Management,1
+"Technology and Telecommunications","Problem Solving",Strategy/Planning/Management,3
+"Travel and Tourism","Problem Solving",Strategy/Planning/Management,2
+"Architecture and Design",Procore,Other,1
+"Construction and Real Estate",Procore,Other,1
+"Food and Beverage",Procurement,Other,1
+Others,"Product Branding",Brand,1
+"Advertising and Marketing","Product Demonstration",Other,4
+"Retail and Wholesale","Product Development",Strategy/Planning/Management,1
+"Advertising and Marketing","Product Knowledge",Brand,8
+"Human Resources and Staffing","Product Knowledge",Brand,1
+"Human Resources and Staffing","Product Launch",Brand,1
+"Human Resources and Staffing","Product Lifecycle Management",Strategy/Planning/Management,1
+"Technology and Telecommunications","Product Management",Strategy/Planning/Management,2
+"Advertising and Marketing","Product Marketing",Strategy/Planning/Management,4
+"Health and Medical","Product Marketing",Strategy/Planning/Management,6
+"Human Resources and Staffing","Product Marketing",Strategy/Planning/Management,3
+Manufacturing,"Product Marketing",Strategy/Planning/Management,1
+Others,"Product Marketing",Strategy/Planning/Management,1
+"Technology and Telecommunications","Product Marketing",Strategy/Planning/Management,2
+"Advertising and Marketing","Product Presentation",Communication,2
+"Technology and Telecommunications","Product Presentation",Communication,1
+"Food and Beverage","Product Promotion",Other,1
+"Advertising and Marketing","Product Service",Other,1
+"Advertising and Marketing","Product Training",Other,1
+"Advertising and Marketing","Production Assistance",Other,1
+"Advertising and Marketing","Production Processes",Other,1
+"Travel and Tourism","Professional Liability",Other,1
+"Architecture and Design","Professional Skills",Communication,1
+"Food and Beverage","Professional Skills",Communication,1
+"Education and Training","Program Management",Strategy/Planning/Management,1
+"Technology and Telecommunications","Project Analysis",Quantitative/Analytics,1
+"Architecture and Design","Project Coordination",Strategy/Planning/Management,1
+"Human Resources and Staffing","Project Coordination",Strategy/Planning/Management,2
+"Architecture and Design","Project Implementation",Strategy/Planning/Management,1
+"Construction and Real Estate","Project Implementation",Strategy/Planning/Management,1
+"Human Resources and Staffing","Project Implementation",Strategy/Planning/Management,1
+"Environmental and Energy","Project Initiation",Strategy/Planning/Management,1
+"Architecture and Design","Project Management Software",Strategy/Planning/Management,1
+"Health and Medical","Project Performance",Strategy/Planning/Management,1
+"Human Resources and Staffing","Project Planning",Strategy/Planning/Management,1
+"Government and Public Services","Project Plans",Strategy/Planning/Management,1
+"Advertising and Marketing","Promotional Marketing",Sales,3
+"Non-profit and Social Services","Promotional Videos","Graphic Design/Visual",1
+"Construction and Real Estate",Proofreading,Content/Writing,1
+"Entertainment and Recreation",Proofreading,Content/Writing,1
+"Human Resources and Staffing",Proofreading,Content/Writing,1
+Others,Proofreading,Content/Writing,1
+"Technology and Telecommunications",Proofreading,Content/Writing,1
+"Construction and Real Estate","Property Inspections",Other,1
+"Construction and Real Estate","Property Management",Strategy/Planning/Management,1
+"Health and Medical","Proposal Writing",Content/Writing,1
+"Advertising and Marketing",Psychology,Other,1
+"Education and Training","Public Access",Communication,1
+"Government and Public Services","Public Communications",Communication,1
+"Government and Public Services","Public Law",Other,1
+"Advertising and Marketing","Public Relations",Communication,25
+"Automotive and Transportation","Public Relations",Communication,2
+"Business and Information Technology","Public Relations",Communication,1
+"Construction and Real Estate","Public Relations",Communication,2
+"Education and Training","Public Relations",Communication,2
+"Food and Beverage","Public Relations",Communication,1
+"Government and Public Services","Public Relations",Communication,1
+"Health and Medical","Public Relations",Communication,5
+"Human Resources and Staffing","Public Relations",Communication,14
+Manufacturing,"Public Relations",Communication,2
+"Non-profit and Social Services","Public Relations",Communication,3
+"Travel and Tourism","Public Relations",Communication,1
+"Advertising and Marketing","Public Speaking",Communication,4
+"Retail and Wholesale",Punctuation,Other,1
+"Advertising and Marketing","Purchase Orders",Other,2
+"Retail and Wholesale","Purchase Orders",Other,1
+"Advertising and Marketing","Quality Control",Other,1
+"Technology and Telecommunications","Quality Processes",Other,1
+"Human Resources and Staffing","Quantitative Analytics",Quantitative/Analytics,1
+"Retail and Wholesale","Quantitative Analytics",Quantitative/Analytics,1
+"Technology and Telecommunications","Quantitative Research",Quantitative/Analytics,1
+"Travel and Tourism","Quick Thinking",Strategy/Planning/Management,1
+"Advertising and Marketing",Quote,Content/Writing,1
+"Advertising and Marketing",React.js,Technology,1
+"Travel and Tourism","Realistic Animation","Graphic Design/Visual",1
+"Advertising and Marketing","Receptionist Duties",Communication,1
+"Construction and Real Estate","Receptionist Duties",Communication,1
+"Financial Services","Receptionist Duties",Communication,1
+"Travel and Tourism","Receptionist Duties",Communication,1
+"Education and Training","Record Keeping",Other,1
+"Education and Training",Recruiting,Other,2
+"Financial Services",Recruiting,Other,1
+"Human Resources and Staffing",Recruiting,Other,1
+"Retail and Wholesale",Redash,Other,1
+"Health and Medical",REDCap,Other,2
+"Retail and Wholesale",Refunds,Other,1
+"Travel and Tourism",Refunds,Other,1
+"Advertising and Marketing","Relationship Building",Sales,7
+"Education and Training","Relationship Building",Sales,1
+"Advertising and Marketing","Relationship Development",Sales,2
+"Education and Training","Relationship Development",Sales,2
+"Human Resources and Staffing","Relationship Development",Sales,1
+"Health and Medical","Report Writing",Content/Writing,1
+Manufacturing,"Report Writing",Content/Writing,1
+"Advertising and Marketing",Reporting,Quantitative/Analytics,3
+"Architecture and Design",Reporting,Quantitative/Analytics,1
+"Business and Information Technology",Reporting,Quantitative/Analytics,1
+"Health and Medical",Reporting,Quantitative/Analytics,1
+"Retail and Wholesale",Reporting,Quantitative/Analytics,1
+"Technology and Telecommunications",Reporting,Quantitative/Analytics,1
+"Advertising and Marketing","Reporting Requirements",Other,1
+"Architecture and Design","Request for Information (RFI)",Other,1
+"Construction and Real Estate","Request for Proposal (RFP)",Brand,1
+"Advertising and Marketing","Research Skills",Communication,2
+"Education and Training","Research Skills",Communication,1
+"Human Resources and Staffing","Research Skills",Communication,1
+"Travel and Tourism","Research Skills",Communication,1
+"Construction and Real Estate","Residential Construction",Other,1
+"Entertainment and Recreation",Resolutions,Other,1
+"Business and Information Technology","Responsive Web Design","Graphic Design/Visual",1
+"Advertising and Marketing","Retail Marketing",Sales,1
+"Retail and Wholesale","Retail Math",Quantitative/Analytics,2
+"Advertising and Marketing","Retail Operations",Other,1
+"Advertising and Marketing","Retail Sales",Sales,2
+"Human Resources and Staffing","Retail Sales",Sales,1
+"Advertising and Marketing","Revenue Generation",Other,1
+"Entertainment and Recreation","Revenue Generation",Other,1
+"Construction and Real Estate",Revit,Other,1
+"Business and Information Technology","Rooming Lists",Other,1
+"Advertising and Marketing","Sales & Marketing Leadership",Sales,1
+"Advertising and Marketing","Sales and Marketing",Sales,20
+"Business and Information Technology","Sales and Marketing",Sales,2
+"Construction and Real Estate","Sales and Marketing",Sales,1
+"Financial Services","Sales and Marketing",Sales,1
+"Food and Beverage","Sales and Marketing",Sales,1
+"Health and Medical","Sales and Marketing",Sales,2
+"Human Resources and Staffing","Sales and Marketing",Sales,10
+Manufacturing,"Sales and Marketing",Sales,1
+"Travel and Tourism","Sales and Marketing",Sales,1
+"Advertising and Marketing","Sales Campaigns",Sales,3
+"Health and Medical","Sales Contracts",Sales,1
+"Technology and Telecommunications","Sales Enablement",Sales,2
+Manufacturing,"Sales Execution",Sales,1
+"Automotive and Transportation","Sales Letters",Sales,1
+"Advertising and Marketing","Sales Management",Sales,1
+"Human Resources and Staffing","Sales Management",Sales,1
+"Advertising and Marketing","Sales Marketing",Sales,1
+"Advertising and Marketing","Sales Meetings",Sales,2
+"Environmental and Energy","Sales Meetings",Sales,1
+"Human Resources and Staffing","Sales Meetings",Sales,1
+"Health and Medical","Sales Negotiation",Sales,1
+"Advertising and Marketing","Sales Operations",Sales,4
+"Human Resources and Staffing","Sales Operations",Sales,2
+"Advertising and Marketing","Sales Planning",Sales,1
+"Advertising and Marketing","Sales Presentations",Sales,4
+"Automotive and Transportation","Sales Presentations",Sales,1
+"Human Resources and Staffing","Sales Presentations",Sales,1
+"Advertising and Marketing","Sales Processes",Sales,3
+"Business and Information Technology","Sales Processes",Sales,1
+"Construction and Real Estate","Sales Processes",Sales,1
+"Entertainment and Recreation","Sales Processes",Sales,1
+"Financial Services","Sales Processes",Sales,1
+"Retail and Wholesale","Sales Processes",Sales,1
+"Advertising and Marketing","Sales Promotion",Sales,4
+"Advertising and Marketing","Sales Strategy",Sales,4
+"Advertising and Marketing","Sales Target Management",Sales,1
+"Human Resources and Staffing","Salesforce Quip",Quantitative/Analytics,1
+"Business and Information Technology",Salesforce.com,Quantitative/Analytics,1
+"Human Resources and Staffing",Salesforce.com,Quantitative/Analytics,1
+"Human Resources and Staffing","Salesforce.com Development",Quantitative/Analytics,1
+"Retail and Wholesale","Sample Development",Strategy/Planning/Management,1
+"Human Resources and Staffing","Scanning Electron Microscopy (SEM)",Other,1
+"Education and Training",Scouting,Other,1
+"Advertising and Marketing","Search Engine Marketing (SEM)","Social Media/Digital",1
+"Entertainment and Recreation","Search Engine Marketing (SEM)","Social Media/Digital",1
+"Human Resources and Staffing","Search Engine Marketing (SEM)","Social Media/Digital",1
+"Advertising and Marketing","Search Engine Optimization (SEO)",Technology,3
+"Business and Information Technology","Search Engine Optimization (SEO)",Technology,1
+"Construction and Real Estate","Search Engine Optimization (SEO)",Technology,1
+"Education and Training","Search Engine Optimization (SEO)",Technology,1
+"Entertainment and Recreation","Search Engine Optimization (SEO)",Technology,1
+"Environmental and Energy","Search Engine Optimization (SEO)",Technology,5
+"Financial Services","Search Engine Optimization (SEO)",Technology,1
+"Human Resources and Staffing","Search Engine Optimization (SEO)",Technology,5
+Manufacturing,"Search Engine Optimization (SEO)",Technology,1
+"Human Resources and Staffing","Security Protocols",Technology,1
+"Retail and Wholesale",Seeding,Strategy/Planning/Management,2
+"Advertising and Marketing",Self-confidence,Other,1
+"Construction and Real Estate",SEMrush,Other,1
+"Human Resources and Staffing","Sensitive Information",Other,1
+"Advertising and Marketing","Service Orders",Other,1
+"Construction and Real Estate","Service Orientation (Social)",Communication,1
+"Non-profit and Social Services","Service Standards",Other,1
+"Financial Services","Services Sales",Sales,1
+"Food and Beverage",Shopify,"Social Media/Digital",1
+"Non-profit and Social Services","Silver Sneakers",Other,1
+"Human Resources and Staffing","Site Maps",Other,1
+"Human Resources and Staffing",Sketching,Other,1
+"Advertising and Marketing","Skill Development",Technology,4
+"Business and Information Technology","Skill Development",Technology,1
+"Construction and Real Estate","Skill Development",Technology,1
+"Entertainment and Recreation","Skill Development",Technology,1
+"Advertising and Marketing","Skilled Multi-tasker",Other,7
+"Architecture and Design","Skilled Multi-tasker",Other,1
+"Construction and Real Estate","Skilled Multi-tasker",Other,1
+"Food and Beverage","Skilled Multi-tasker",Other,1
+"Health and Medical","Skilled Multi-tasker",Other,1
+"Human Resources and Staffing","Skilled Multi-tasker",Other,2
+Others,"Skilled Multi-tasker",Other,1
+"Retail and Wholesale","Skilled Multi-tasker",Other,1
+"Health and Medical","Skin Care",Other,1
+"Advertising and Marketing",SMS,Communication,1
+"Travel and Tourism","Social Advertising (Social Issues)","Social Media/Digital",1
+"Advertising and Marketing","Social Media","Social Media/Digital",15
+"Business and Information Technology","Social Media","Social Media/Digital",5
+"Construction and Real Estate","Social Media","Social Media/Digital",3
+"Education and Training","Social Media","Social Media/Digital",5
+"Entertainment and Recreation","Social Media","Social Media/Digital",1
+"Environmental and Energy","Social Media","Social Media/Digital",5
+"Food and Beverage","Social Media","Social Media/Digital",3
+"Health and Medical","Social Media","Social Media/Digital",10
+"Human Resources and Staffing","Social Media","Social Media/Digital",20
+Manufacturing,"Social Media","Social Media/Digital",3
+"Non-profit and Social Services","Social Media","Social Media/Digital",1
+"Retail and Wholesale","Social Media","Social Media/Digital",1
+"Travel and Tourism","Social Media","Social Media/Digital",4
+"Business and Information Technology","Social Media Advertising","Social Media/Digital",1
+"Travel and Tourism","Social Media Advertising","Social Media/Digital",1
+"Human Resources and Staffing","Social Media Communications","Social Media/Digital",1
+"Education and Training","Social Media Content Creation",Content/Writing,2
+"Food and Beverage","Social Media Management","Social Media/Digital",2
+"Health and Medical","Social Media Management","Social Media/Digital",1
+Manufacturing,"Social Media Management","Social Media/Digital",1
+"Advertising and Marketing","Social Media Marketing","Social Media/Digital",12
+"Business and Information Technology","Social Media Marketing","Social Media/Digital",2
+"Construction and Real Estate","Social Media Marketing","Social Media/Digital",2
+"Education and Training","Social Media Marketing","Social Media/Digital",2
+"Entertainment and Recreation","Social Media Marketing","Social Media/Digital",1
+"Food and Beverage","Social Media Marketing","Social Media/Digital",1
+"Health and Medical","Social Media Marketing","Social Media/Digital",5
+"Human Resources and Staffing","Social Media Marketing","Social Media/Digital",15
+Manufacturing,"Social Media Marketing","Social Media/Digital",2
+"Non-profit and Social Services","Social Media Marketing","Social Media/Digital",1
+"Retail and Wholesale","Social Media Marketing","Social Media/Digital",1
+"Food and Beverage","Social Media Optimization (SMO)","Social Media/Digital",1
+"Health and Medical","Social Media Optimization (SMO)","Social Media/Digital",1
+"Travel and Tourism","Social Media Strategy","Social Media/Digital",1
+"Construction and Real Estate","Social Networking",Communication,1
+"Entertainment and Recreation","Social Trends","Social Media/Digital",1
+"Advertising and Marketing",Sociology,Other,1
+"Human Resources and Staffing","Software as a Service (SaaS)",Technology,1
+"Human Resources and Staffing","Software Project Management",Strategy/Planning/Management,1
+"Construction and Real Estate","Solid Professional Standards",Communication,1
+"Human Resources and Staffing","Solid Professional Standards",Communication,1
+Others,"Solid Professional Standards",Communication,1
+"Technology and Telecommunications","Solid Professional Standards",Communication,1
+"Advertising and Marketing",Solution-oriented,Other,2
+"Human Resources and Staffing",Solution-oriented,Other,1
+"Technology and Telecommunications",Solution-oriented,Other,1
+"Advertising and Marketing","Special Events",Strategy/Planning/Management,3
+"Health and Medical","Special Events",Strategy/Planning/Management,1
+"Travel and Tourism","Special Events",Strategy/Planning/Management,1
+"Advertising and Marketing","Special Events Coordination",Strategy/Planning/Management,1
+"Travel and Tourism","Special Events Coordination",Strategy/Planning/Management,1
+"Non-profit and Social Services",Spelling,Content/Writing,1
+"Retail and Wholesale",Spelling,Content/Writing,1
+"Advertising and Marketing",Sponsorship,Other,1
+"Advertising and Marketing",Sports,Other,2
+"Education and Training",Sports,Other,1
+Manufacturing,Sports,Other,1
+"Education and Training","Sports Coaching",Other,1
+Manufacturing,"Sports Industry",Other,1
+"Advertising and Marketing","Sports Management",Strategy/Planning/Management,1
+Manufacturing,"Sports Marketing",Other,1
+"Health and Medical",Spreadsheets,Other,1
+"Human Resources and Staffing",Spreadsheets,Other,1
+Others,Spreadsheets,Other,1
+Others,Startups,Other,1
+"Health and Medical","Statistical Analysis",Quantitative/Analytics,2
+"Technology and Telecommunications","Statistical Tools",Quantitative/Analytics,1
+"Retail and Wholesale","Stock Management",Strategy/Planning/Management,1
+"Human Resources and Staffing","Store Management",Strategy/Planning/Management,1
+"Construction and Real Estate",Story,"Social Media/Digital",1
+"Education and Training",Story,"Social Media/Digital",1
+"Health and Medical",Story,"Social Media/Digital",1
+"Education and Training",Storytelling,"Graphic Design/Visual",1
+"Advertising and Marketing","Strategic Business",Strategy/Planning/Management,1
+"Advertising and Marketing","Strategic Communications",Communication,10
+"Automotive and Transportation","Strategic Communications",Communication,1
+"Construction and Real Estate","Strategic Communications",Communication,1
+"Government and Public Services","Strategic Communications",Communication,1
+"Health and Medical","Strategic Communications",Communication,1
+"Non-profit and Social Services","Strategic Communications",Communication,1
+"Food and Beverage","Strategic Initiatives",Strategy/Planning/Management,1
+"Advertising and Marketing","Strategic Marketing",Strategy/Planning/Management,1
+"Advertising and Marketing","Strategic Thinking",Strategy/Planning/Management,2
+"Retail and Wholesale","Strategic Thinking",Strategy/Planning/Management,2
+"Advertising and Marketing",Strategy,Strategy/Planning/Management,8
+"Education and Training",Strategy,Strategy/Planning/Management,1
+"Entertainment and Recreation",Strategy,Strategy/Planning/Management,1
+"Financial Services",Strategy,Strategy/Planning/Management,1
+"Human Resources and Staffing",Strategy,Strategy/Planning/Management,4
+Manufacturing,Strategy,Strategy/Planning/Management,3
+"Technology and Telecommunications",Strategy,Strategy/Planning/Management,2
+"Travel and Tourism",Strategy,Strategy/Planning/Management,2
+"Advertising and Marketing",Streamlining,Other,1
+"Education and Training","Student Recruiting",Other,1
+"Human Resources and Staffing",Styling,"Graphic Design/Visual",1
+"Retail and Wholesale",Styling,"Graphic Design/Visual",1
+"Health and Medical","Subject Matter Experts",Other,1
+Others,"Subject Matter Experts",Other,1
+"Health and Medical",Subrogation,Other,5
+"Advertising and Marketing","Success Stories",Other,1
+"Advertising and Marketing","Supervisory Skills",Communication,1
+"Education and Training","Supervisory Skills",Communication,1
+"Government and Public Services","Supervisory Skills",Communication,1
+"Food and Beverage","Supplier Performance",Other,1
+"Human Resources and Staffing","Talent Management",Strategy/Planning/Management,1
+"Advertising and Marketing","Target Audience",Other,2
+"Health and Medical","Target Audience",Other,1
+"Advertising and Marketing","Task Completion",Other,1
+"Advertising and Marketing","Team Building",Communication,1
+"Advertising and Marketing","Team Development",Strategy/Planning/Management,1
+"Advertising and Marketing","Team Leadership",Strategy/Planning/Management,3
+"Health and Medical","Team Leadership",Strategy/Planning/Management,1
+"Human Resources and Staffing","Team Leadership",Strategy/Planning/Management,1
+"Technology and Telecommunications","Team Leadership",Strategy/Planning/Management,1
+"Advertising and Marketing","Team Management",Strategy/Planning/Management,1
+Others,"Team Management",Strategy/Planning/Management,1
+"Technology and Telecommunications","Team Management",Strategy/Planning/Management,1
+"Retail and Wholesale","Team Motivation",Strategy/Planning/Management,1
+"Advertising and Marketing","Team Performance",Strategy/Planning/Management,1
+"Advertising and Marketing",Teamwork,Communication,22
+"Food and Beverage",Teamwork,Communication,1
+"Health and Medical",Teamwork,Communication,1
+"Human Resources and Staffing",Teamwork,Communication,12
+Manufacturing,Teamwork,Communication,2
+"Retail and Wholesale",Teamwork,Communication,1
+"Travel and Tourism",Teamwork,Communication,2
+"Human Resources and Staffing","Technical Execution",Other,1
+"Business and Information Technology","Technical Requirements",Other,1
+"Construction and Real Estate","Technical Services",Other,1
+"Technology and Telecommunications","Technical Support",Other,1
+"Architecture and Design","Technical Writing",Content/Writing,1
+"Advertising and Marketing",Telecommunications,Other,2
+"Business and Information Technology",Telemarketing,Other,1
+Others,Telemarketing,Other,1
+"Human Resources and Staffing",Television,Other,1
+Others,"Termination of Employment",Other,1
+"Advertising and Marketing","Territory Management",Sales,1
+"Human Resources and Staffing","Test Planning",Technology,1
+"Human Resources and Staffing","Test Requirements",Other,1
+"Food and Beverage","Text Marketing",Strategy/Planning/Management,1
+"Advertising and Marketing","Thinking Skills",Strategy/Planning/Management,1
+"Architecture and Design","Thinking Skills",Strategy/Planning/Management,1
+"Human Resources and Staffing","Thinking Skills",Strategy/Planning/Management,1
+"Technology and Telecommunications","Thinking Skills",Strategy/Planning/Management,1
+"Travel and Tourism","Thorough Research","Market Research",1
+"Health and Medical","Thought Leadership",Strategy/Planning/Management,5
+"Human Resources and Staffing",Timelines,Other,1
+"Education and Training","Title IX",Other,2
+"Human Resources and Staffing","Tone of Voice",Other,1
+"Travel and Tourism","Tour Production",Other,1
+Manufacturing,"Trade Marketing",Strategy/Planning/Management,1
+"Business and Information Technology","Trade Shows",Other,1
+"Technology and Telecommunications","Trademark Law",Other,1
+"Advertising and Marketing",Training,Other,9
+"Education and Training",Training,Other,1
+"Government and Public Services",Training,Other,1
+"Health and Medical",Training,Other,1
+"Human Resources and Staffing",Training,Other,8
+"Retail and Wholesale",Training,Other,1
+"Technology and Telecommunications",Training,Other,1
+"Travel and Tourism",Training,Other,2
+"Advertising and Marketing","Training Management",Strategy/Planning/Management,1
+"Government and Public Services","Training Programs",Other,1
+"Travel and Tourism","Training Programs",Other,1
+"Travel and Tourism","Travel Agencies",Other,1
+"Advertising and Marketing","Travel Arrangements",Strategy/Planning/Management,2
+"Financial Services","Travel Arrangements",Strategy/Planning/Management,1
+Manufacturing,"Travel Marketing",Strategy/Planning/Management,1
+"Advertising and Marketing",Troubleshooting,Other,1
+"Construction and Real Estate",Truck,Other,1
+"Advertising and Marketing","Trusting Relationships",Communication,1
+"Human Resources and Staffing","TV Production",Other,1
+"Government and Public Services","U.S. Department of Agriculture (USDA)",Other,1
+"Construction and Real Estate",Unanet,"Social Media/Digital",1
+"Advertising and Marketing",Upselling,Sales,2
+"Business and Information Technology","User Behavior",Other,1
+"Human Resources and Staffing","User Experience (UX)","Graphic Design/Visual",1
+"Human Resources and Staffing","User Interface Design","Graphic Design/Visual",2
+"Business and Information Technology","User Research",Other,1
+"Health and Medical","Value Propositions",Other,5
+"Business and Information Technology","Value Selling",Sales,1
+"Human Resources and Staffing","Variance Analysis",Quantitative/Analytics,1
+"Advertising and Marketing","VBA Excel",Other,1
+"Architecture and Design","VBA Excel",Other,1
+"Advertising and Marketing","Vendor Management",Strategy/Planning/Management,2
+"Advertising and Marketing","Vendor Relations",Other,1
+"Human Resources and Staffing","Vendor Relations",Other,1
+"Business and Information Technology","Video Editing","Graphic Design/Visual",1
+"Human Resources and Staffing","Video Editing","Graphic Design/Visual",1
+"Health and Medical","Video Production","Graphic Design/Visual",1
+"Human Resources and Staffing","Video Production","Graphic Design/Visual",2
+"Construction and Real Estate","Virtual Tours",Other,1
+"Advertising and Marketing","Visual Merchandising","Graphic Design/Visual",5
+"Human Resources and Staffing","Visual Merchandising","Graphic Design/Visual",1
+"Travel and Tourism","Voice Acting",Other,1
+"Advertising and Marketing",Volunteering,Other,1
+"Advertising and Marketing","Web Analytics",Quantitative/Analytics,1
+"Business and Information Technology","Web Analytics",Quantitative/Analytics,1
+"Construction and Real Estate","Web Analytics",Quantitative/Analytics,1
+"Human Resources and Staffing","Web Analytics",Quantitative/Analytics,4
+Others,"Web Analytics",Quantitative/Analytics,1
+"Advertising and Marketing","Web Conferencing",Technology,1
+"Environmental and Energy","Web Conferencing",Technology,5
+"Construction and Real Estate","Web Content Management",Content/Writing,1
+"Business and Information Technology","Web Content Writing",Content/Writing,1
+"Construction and Real Estate","Web Content Writing",Content/Writing,1
+"Education and Training","Web Content Writing",Content/Writing,1
+"Entertainment and Recreation","Web Content Writing",Content/Writing,1
+"Government and Public Services","Web Content Writing",Content/Writing,1
+"Health and Medical","Web Content Writing",Content/Writing,1
+"Human Resources and Staffing","Web Content Writing",Content/Writing,2
+"Retail and Wholesale","Web Content Writing",Content/Writing,1
+"Business and Information Technology","Web Design","Graphic Design/Visual",1
+"Human Resources and Staffing","Web Design","Graphic Design/Visual",2
+"Facilities and Maintenance","Web Technologies",Technology,1
+"Travel and Tourism","Wedding Coordinating",Strategy/Planning/Management,1
+"Travel and Tourism","Wedding Planning",Strategy/Planning/Management,1
+"Travel and Tourism",Weddings,Other,1
+"Human Resources and Staffing","White Papers",Content/Writing,1
+"Human Resources and Staffing","Window Displays",Other,1
+"Business and Information Technology",WordPress,Other,1
+"Construction and Real Estate",WordPress,Other,1
+"Technology and Telecommunications","Work Alone",Other,1
+"Architecture and Design","Working Experience","Graphic Design/Visual",1
+"Construction and Real Estate","Working Experience","Graphic Design/Visual",2
+"Education and Training","Working Experience","Graphic Design/Visual",1
+"Technology and Telecommunications","Working with Offenders",Sales,1
+"Advertising and Marketing","Workload Prioritization",Other,1
+"Human Resources and Staffing","Workload Prioritization",Other,1
+"Advertising and Marketing",Writing,Content/Writing,4
+"Architecture and Design",Writing,Content/Writing,1
+"Automotive and Transportation",Writing,Content/Writing,1
+"Business and Information Technology",Writing,Content/Writing,2
+"Construction and Real Estate",Writing,Content/Writing,3
+"Education and Training",Writing,Content/Writing,4
+"Entertainment and Recreation",Writing,Content/Writing,1
+"Environmental and Energy",Writing,Content/Writing,5
+"Government and Public Services",Writing,Content/Writing,1
+"Health and Medical",Writing,Content/Writing,4
+"Human Resources and Staffing",Writing,Content/Writing,5
+Manufacturing,Writing,Content/Writing,1
+"Non-profit and Social Services",Writing,Content/Writing,1
+"Retail and Wholesale",Writing,Content/Writing,1
+"Technology and Telecommunications",Writing,Content/Writing,1
+"Advertising and Marketing","Written Communication",Communication,9
+"Business and Information Technology","Written Communication",Communication,1
+"Construction and Real Estate","Written Communication",Communication,2
+"Environmental and Energy","Written Communication",Communication,1
+"Human Resources and Staffing","Written Communication",Communication,1
+"Non-profit and Social Services","Written Communication",Communication,1
+"Retail and Wholesale","Written Communication",Communication,1
+"Technology and Telecommunications","Written Communication",Communication,1
+"Construction and Real Estate",Yext,"Social Media/Digital",1
+"Construction and Real Estate",YouTube,"Social Media/Digital",1
