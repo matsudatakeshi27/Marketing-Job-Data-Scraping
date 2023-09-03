@@ -1,0 +1,1368 @@
+title_elem,skill_group,skill_count
+A,Brand,17
+A,Communication,62
+A,Content/Writing,31
+A,"Graphic Design/Visual",36
+A,"Market Research",15
+A,Other,282
+A,Quantitative/Analytics,49
+A,Sales,75
+A,"Social Media/Digital",31
+A,Strategy/Planning/Management,127
+A,Technology,20
+Account,Brand,3
+Account,Communication,7
+Account,Content/Writing,1
+Account,"Graphic Design/Visual",1
+Account,"Market Research",1
+Account,Other,7
+Account,Sales,12
+Account,"Social Media/Digital",3
+Account,Strategy/Planning/Management,8
+Acquisition,Communication,5
+Acquisition,Content/Writing,2
+Acquisition,"Graphic Design/Visual",2
+Acquisition,Other,2
+Acquisition,Sales,1
+Acquisition,"Social Media/Digital",1
+Acquisition,Strategy/Planning/Management,9
+Acquisition,Technology,1
+Admin,Communication,8
+Admin,Content/Writing,1
+Admin,"Graphic Design/Visual",1
+Admin,Other,14
+Admin,Quantitative/Analytics,3
+Admin,Sales,2
+Admin,Strategy/Planning/Management,8
+Admin,Technology,1
+Administrative,Communication,8
+Administrative,Content/Writing,1
+Administrative,"Graphic Design/Visual",1
+Administrative,Other,14
+Administrative,Quantitative/Analytics,3
+Administrative,Sales,2
+Administrative,Strategy/Planning/Management,8
+Administrative,Technology,1
+Admission,Communication,2
+Admission,"Graphic Design/Visual",1
+Admission,Other,2
+Admission,"Social Media/Digital",3
+Admission,Strategy/Planning/Management,2
+Agent,Communication,4
+Agent,Other,5
+Agent,Quantitative/Analytics,1
+Agent,Sales,3
+Agent,Strategy/Planning/Management,2
+Agricultural,Communication,2
+Agricultural,Other,7
+Agricultural,Strategy/Planning/Management,2
+Amazing,Communication,1
+Amazing,Content/Writing,1
+Amazing,"Graphic Design/Visual",1
+Amazing,"Market Research",1
+Amazing,Other,1
+Amazing,Quantitative/Analytics,2
+Amazing,Strategy/Planning/Management,7
+Ambassador,Brand,4
+Ambassador,Communication,6
+Ambassador,Other,2
+Ambassador,Sales,4
+Ambassador,"Social Media/Digital",1
+Ambassador,Strategy/Planning/Management,7
+American,Communication,1
+American,Other,8
+American,Sales,2
+American,Strategy/Planning/Management,1
+Analyst,Communication,1
+Analyst,Other,3
+Analyst,Quantitative/Analytics,11
+Analyst,Strategy/Planning/Management,4
+Analyst,Technology,1
+And,Brand,8
+And,Communication,29
+And,Content/Writing,12
+And,"Graphic Design/Visual",12
+And,"Market Research",4
+And,Other,53
+And,Quantitative/Analytics,14
+And,Sales,28
+And,"Social Media/Digital",12
+And,Strategy/Planning/Management,31
+And,Technology,3
+AP,Communication,2
+AP,Content/Writing,2
+AP,"Graphic Design/Visual",11
+AP,"Market Research",1
+AP,Other,11
+AP,Quantitative/Analytics,2
+AP,Strategy/Planning/Management,7
+Apparel,Communication,1
+Apparel,Other,4
+Apparel,Quantitative/Analytics,2
+Apparel,Strategy/Planning/Management,4
+AR,Brand,14
+AR,Communication,49
+AR,Content/Writing,30
+AR,"Graphic Design/Visual",31
+AR,"Market Research",13
+AR,Other,179
+AR,Quantitative/Analytics,35
+AR,Sales,58
+AR,"Social Media/Digital",26
+AR,Strategy/Planning/Management,95
+AR,Technology,13
+Are,Communication,2
+Are,Other,8
+Are,Quantitative/Analytics,2
+Are,Sales,1
+Are,Strategy/Planning/Management,6
+Assistant,Brand,9
+Assistant,Communication,30
+Assistant,Content/Writing,12
+Assistant,"Graphic Design/Visual",10
+Assistant,"Market Research",6
+Assistant,Other,85
+Assistant,Quantitative/Analytics,15
+Assistant,Sales,32
+Assistant,"Social Media/Digital",9
+Assistant,Strategy/Planning/Management,42
+Assistant,Technology,4
+Associate,Brand,4
+Associate,Communication,15
+Associate,Content/Writing,8
+Associate,"Graphic Design/Visual",3
+Associate,"Market Research",2
+Associate,Other,35
+Associate,Quantitative/Analytics,9
+Associate,Sales,23
+Associate,"Social Media/Digital",7
+Associate,Strategy/Planning/Management,23
+Associate,Technology,5
+Asst,Communication,2
+Asst,Content/Writing,1
+Asst,Other,4
+Asst,Quantitative/Analytics,1
+Asst,Sales,1
+Asst,Strategy/Planning/Management,1
+at,Brand,10
+at,Communication,50
+at,Content/Writing,22
+at,"Graphic Design/Visual",23
+at,"Market Research",6
+at,Other,180
+at,Quantitative/Analytics,32
+at,Sales,57
+at,"Social Media/Digital",22
+at,Strategy/Planning/Management,75
+at,Technology,11
+Athletic,Communication,2
+Athletic,Content/Writing,1
+Athletic,Other,4
+Athletic,Quantitative/Analytics,1
+Athletic,Sales,1
+Athletic,Strategy/Planning/Management,1
+Attendant,Communication,1
+Automation,Strategy/Planning/Management,4
+Automation,Technology,1
+Basketball,Communication,2
+Basketball,Other,7
+Basketball,Sales,1
+Beauty,"Graphic Design/Visual",8
+Beauty,Other,3
+Bonus!,Communication,1
+Bonus!,"Graphic Design/Visual",5
+Bonus!,Other,2
+Bonus!,Strategy/Planning/Management,1
+Booking,Communication,1
+Booking,Other,4
+Brand,Brand,7
+Brand,Communication,15
+Brand,Content/Writing,1
+Brand,"Graphic Design/Visual",2
+Brand,"Market Research",2
+Brand,Other,16
+Brand,Quantitative/Analytics,5
+Brand,Sales,19
+Brand,"Social Media/Digital",3
+Brand,Strategy/Planning/Management,15
+Brokerage,Communication,3
+Brokerage,Content/Writing,1
+Brokerage,Other,1
+Brokerage,Quantitative/Analytics,2
+Brokerage,Sales,1
+Brokerage,Strategy/Planning/Management,2
+Business,Brand,1
+Business,Communication,12
+Business,"Graphic Design/Visual",1
+Business,"Market Research",1
+Business,Other,11
+Business,Quantitative/Analytics,10
+Business,Sales,13
+Business,"Social Media/Digital",3
+Business,Strategy/Planning/Management,20
+Business,Technology,1
+Buyer,Communication,1
+Buyer,Other,4
+Buyer,Quantitative/Analytics,2
+Buyer,Strategy/Planning/Management,4
+Campaign,Brand,1
+Campaign,Communication,1
+Campaign,"Market Research",1
+Campaign,Other,4
+Campaign,Strategy/Planning/Management,5
+Care,Communication,1
+Care,Other,4
+Care,Sales,1
+Care,Strategy/Planning/Management,2
+Class,Communication,4
+Class,Other,4
+Class,Strategy/Planning/Management,1
+Client,Communication,3
+Client,Other,8
+Client,Quantitative/Analytics,1
+Client,Sales,5
+Client,Strategy/Planning/Management,1
+Coach,Communication,2
+Coach,Other,7
+Coach,Sales,1
+Coast,Communication,1
+Coast,"Graphic Design/Visual",1
+Coast,Other,2
+Coast,Quantitative/Analytics,4
+Coast,"Social Media/Digital",3
+Coast,Strategy/Planning/Management,2
+Communication,Brand,3
+Communication,Communication,19
+Communication,Content/Writing,9
+Communication,"Graphic Design/Visual",10
+Communication,"Market Research",2
+Communication,Other,31
+Communication,Quantitative/Analytics,8
+Communication,Sales,17
+Communication,"Social Media/Digital",9
+Communication,Strategy/Planning/Management,17
+Communication,Technology,1
+Communications,Brand,3
+Communications,Communication,17
+Communications,Content/Writing,7
+Communications,"Graphic Design/Visual",8
+Communications,"Market Research",2
+Communications,Other,30
+Communications,Quantitative/Analytics,8
+Communications,Sales,11
+Communications,"Social Media/Digital",9
+Communications,Strategy/Planning/Management,17
+Communications,Technology,1
+Community,Brand,1
+Community,Communication,9
+Community,Content/Writing,1
+Community,Other,7
+Community,Quantitative/Analytics,1
+Community,Sales,2
+Community,Strategy/Planning/Management,6
+Competitive,Communication,1
+Competitive,"Market Research",2
+Competitive,Quantitative/Analytics,2
+Competitive,Sales,1
+Competitive,Strategy/Planning/Management,5
+Construction,Other,7
+Construction,Sales,1
+Construction,Strategy/Planning/Management,1
+Consultant,Communication,2
+Consultant,"Graphic Design/Visual",1
+Consultant,"Market Research",1
+Consultant,Other,5
+Consultant,Sales,4
+Consultant,Strategy/Planning/Management,4
+Content,Brand,2
+Content,Communication,2
+Content,Content/Writing,12
+Content,"Graphic Design/Visual",10
+Content,Other,16
+Content,Quantitative/Analytics,4
+Content,"Social Media/Digital",7
+Content,Strategy/Planning/Management,5
+Content,Technology,3
+Contract,Other,6
+Contract,Quantitative/Analytics,2
+Contract,Strategy/Planning/Management,2
+Contract,Technology,1
+Coordinator,Brand,6
+Coordinator,Communication,34
+Coordinator,Content/Writing,14
+Coordinator,"Graphic Design/Visual",15
+Coordinator,"Market Research",5
+Coordinator,Other,93
+Coordinator,Quantitative/Analytics,22
+Coordinator,Sales,35
+Coordinator,"Social Media/Digital",14
+Coordinator,Strategy/Planning/Management,47
+Coordinator,Technology,5
+Copywriter,Content/Writing,8
+Copywriter,"Graphic Design/Visual",1
+Copywriter,Other,2
+Copywriter,Sales,1
+Copywriter,"Social Media/Digital",1
+Copywriter,Strategy/Planning/Management,3
+Copywriter,Technology,2
+Corporate,Communication,3
+Corporate,Other,4
+Corporate,Sales,1
+Corporate,Strategy/Planning/Management,1
+Creative,Brand,1
+Creative,Content/Writing,1
+Creative,"Graphic Design/Visual",5
+Creative,Other,4
+Creative,Sales,3
+Creative,"Social Media/Digital",1
+Creative,Strategy/Planning/Management,5
+Creator,Content/Writing,5
+Creator,"Graphic Design/Visual",1
+Creator,"Social Media/Digital",3
+Creator,Strategy/Planning/Management,2
+Creator,Technology,2
+Cruise,Communication,1
+Cruise,Other,2
+Cruise,Quantitative/Analytics,1
+Cruise,Strategy/Planning/Management,2
+Customer,Brand,1
+Customer,Communication,2
+Customer,Other,3
+Customer,Sales,8
+Customer,Strategy/Planning/Management,2
+Data,Other,4
+Data,Quantitative/Analytics,6
+Data,Sales,1
+Data,Strategy/Planning/Management,4
+Data,Technology,1
+Design,Brand,2
+Design,Communication,2
+Design,Content/Writing,8
+Design,"Graphic Design/Visual",13
+Design,"Market Research",1
+Design,Other,11
+Design,Strategy/Planning/Management,5
+Designer,Brand,2
+Designer,Communication,2
+Designer,Content/Writing,6
+Designer,"Graphic Design/Visual",10
+Designer,Other,7
+Designer,Strategy/Planning/Management,2
+Development,Communication,15
+Development,"Graphic Design/Visual",1
+Development,"Market Research",1
+Development,Other,15
+Development,Quantitative/Analytics,2
+Development,Sales,11
+Development,"Social Media/Digital",3
+Development,Strategy/Planning/Management,17
+Development,Technology,1
+Digital,Communication,7
+Digital,Content/Writing,10
+Digital,"Graphic Design/Visual",8
+Digital,"Market Research",1
+Digital,Other,14
+Digital,Quantitative/Analytics,5
+Digital,"Social Media/Digital",13
+Digital,Strategy/Planning/Management,9
+Digital,Technology,4
+DIR,Brand,2
+DIR,Communication,8
+DIR,Content/Writing,1
+DIR,"Graphic Design/Visual",1
+DIR,"Market Research",1
+DIR,Other,7
+DIR,Quantitative/Analytics,1
+DIR,Sales,2
+DIR,"Social Media/Digital",4
+DIR,Strategy/Planning/Management,11
+Direct,Brand,2
+Direct,Communication,8
+Direct,Content/Writing,1
+Direct,"Graphic Design/Visual",1
+Direct,"Market Research",1
+Direct,Other,7
+Direct,Quantitative/Analytics,1
+Direct,Sales,2
+Direct,"Social Media/Digital",4
+Direct,Strategy/Planning/Management,11
+Director,Brand,2
+Director,Communication,8
+Director,Content/Writing,1
+Director,"Graphic Design/Visual",1
+Director,"Market Research",1
+Director,Other,7
+Director,Quantitative/Analytics,1
+Director,Sales,2
+Director,"Social Media/Digital",4
+Director,Strategy/Planning/Management,11
+Editor,Brand,1
+Editor,Content/Writing,5
+Editor,"Graphic Design/Visual",1
+Editor,Other,2
+Editor,Quantitative/Analytics,2
+Editor,Strategy/Planning/Management,3
+Education,Other,1
+Education,Strategy/Planning/Management,1
+Email,Communication,5
+Email,Content/Writing,1
+Email,"Graphic Design/Visual",4
+Email,"Market Research",2
+Email,Other,7
+Email,Quantitative/Analytics,8
+Email,Sales,1
+Email,"Social Media/Digital",6
+Email,Strategy/Planning/Management,9
+Email,Technology,3
+Engagement,Communication,1
+Engagement,Content/Writing,1
+Engagement,"Market Research",1
+Engagement,Other,2
+Engagement,Strategy/Planning/Management,4
+Entry,Brand,4
+Entry,Communication,30
+Entry,Content/Writing,3
+Entry,"Graphic Design/Visual",4
+Entry,"Market Research",3
+Entry,Other,55
+Entry,Quantitative/Analytics,19
+Entry,Sales,40
+Entry,"Social Media/Digital",4
+Entry,Strategy/Planning/Management,32
+Entry,Technology,4
+Event,Communication,7
+Event,Content/Writing,4
+Event,"Graphic Design/Visual",3
+Event,Other,12
+Event,Quantitative/Analytics,1
+Event,Sales,9
+Event,"Social Media/Digital",3
+Event,Strategy/Planning/Management,23
+Event,Technology,1
+Events,Communication,3
+Events,Content/Writing,3
+Events,"Graphic Design/Visual",1
+Events,Other,2
+Events,"Social Media/Digital",1
+Events,Strategy/Planning/Management,7
+Executive,"Graphic Design/Visual",1
+Executive,Other,4
+Executive,Quantitative/Analytics,1
+Executive,Sales,3
+Executive,Strategy/Planning/Management,1
+Experience,Communication,1
+Experience,"Graphic Design/Visual",1
+Experience,Other,1
+Experience,Sales,1
+Experience,"Social Media/Digital",4
+Experience,Strategy/Planning/Management,4
+Farm,Communication,1
+Farm,Other,3
+Farm,Sales,3
+Farm,Strategy/Planning/Management,2
+Fashion,Brand,1
+Fashion,Communication,2
+Fashion,Other,2
+Fashion,Sales,1
+Fashion,Strategy/Planning/Management,4
+Field,Communication,1
+Field,Other,2
+Field,Sales,2
+Field,Strategy/Planning/Management,5
+Financial,Communication,1
+Financial,Other,3
+Financial,Quantitative/Analytics,4
+Financial,Strategy/Planning/Management,1
+Financial,Technology,1
+Firm,Content/Writing,2
+Firm,Other,4
+Firm,Quantitative/Analytics,3
+Firm,Strategy/Planning/Management,1
+Firm!,Content/Writing,2
+Firm!,Other,4
+Firm!,Quantitative/Analytics,3
+Firm!,Strategy/Planning/Management,1
+FL,"Graphic Design/Visual",1
+FL,Other,9
+FL,Quantitative/Analytics,4
+FL,Sales,1
+FL,Strategy/Planning/Management,5
+FL,Technology,1
+Flushing,Other,6
+Flushing,Quantitative/Analytics,1
+Flushing,Sales,1
+Flushing,Technology,1
+Focus,Communication,1
+Focus,Other,3
+Focus,Sales,3
+Focus,Strategy/Planning/Management,2
+Football,Communication,1
+Football,Other,8
+Football,Sales,2
+Football,Strategy/Planning/Management,1
+Freelance,Brand,2
+Freelance,Communication,2
+Freelance,"Graphic Design/Visual",5
+Freelance,Other,1
+FT,Communication,4
+FT,Content/Writing,4
+FT,"Graphic Design/Visual",4
+FT,Other,1
+FT,"Social Media/Digital",4
+FT,Strategy/Planning/Management,5
+Full,Brand,3
+Full,Communication,12
+Full,Content/Writing,1
+Full,"Graphic Design/Visual",7
+Full,"Market Research",2
+Full,Other,11
+Full,Quantitative/Analytics,2
+Full,Sales,11
+Full,Strategy/Planning/Management,14
+Full,Technology,1
+FULLTIME,Brand,2
+FULLTIME,Communication,3
+FULLTIME,Content/Writing,1
+FULLTIME,"Graphic Design/Visual",5
+FULLTIME,"Market Research",1
+FULLTIME,Other,2
+FULLTIME,Quantitative/Analytics,2
+FULLTIME,Strategy/Planning/Management,7
+Fun,Communication,2
+Fun,Strategy/Planning/Management,3
+Fund,Communication,2
+Fund,Strategy/Planning/Management,3
+Fundraising,Communication,2
+Fundraising,Strategy/Planning/Management,3
+GA,Communication,1
+GA,Content/Writing,1
+GA,"Market Research",1
+GA,Other,2
+GA,Strategy/Planning/Management,4
+Generalist,Brand,1
+Generalist,Content/Writing,2
+Generalist,"Graphic Design/Visual",1
+Generalist,"Market Research",1
+Generalist,Other,1
+Generalist,Quantitative/Analytics,2
+Generalist,"Social Media/Digital",1
+Generalist,Strategy/Planning/Management,2
+Generalist,Technology,2
+Global,Communication,1
+Global,Other,8
+Global,Sales,2
+Global,Strategy/Planning/Management,1
+Graduate,Communication,2
+Graduate,"Market Research",1
+Graduate,Other,4
+Graduate,Sales,1
+Graduate,"Social Media/Digital",1
+Graduate,Strategy/Planning/Management,2
+Graphic,Communication,1
+Graphic,Content/Writing,2
+Graphic,"Graphic Design/Visual",11
+Graphic,"Market Research",1
+Graphic,Other,7
+Graphic,Strategy/Planning/Management,3
+Growth,Communication,1
+Growth,Content/Writing,1
+Growth,"Market Research",1
+Growth,Other,2
+Growth,Strategy/Planning/Management,4
+Head,Communication,1
+Head,Content/Writing,1
+Head,"Market Research",1
+Head,Other,2
+Head,Strategy/Planning/Management,4
+High,Other,3
+High,Quantitative/Analytics,2
+High,Sales,1
+High,"Social Media/Digital",3
+High,Strategy/Planning/Management,3
+High,Technology,2
+Honeymoon,"Graphic Design/Visual",1
+Honeymoon,"Market Research",1
+Honeymoon,Other,3
+Honeymoon,Strategy/Planning/Management,6
+Hospital,Other,7
+Hospital,Sales,1
+Hospital,Strategy/Planning/Management,1
+Hotel,Communication,3
+Hotel,Other,1
+Hotel,Strategy/Planning/Management,1
+House,Communication,4
+House,Other,9
+House,Quantitative/Analytics,1
+House,Sales,2
+House,Strategy/Planning/Management,3
+Household,Other,7
+Household,Strategy/Planning/Management,2
+Human,Communication,4
+Human,Other,7
+Human,Strategy/Planning/Management,4
+Hybrid,Content/Writing,5
+Hybrid,"Graphic Design/Visual",2
+Hybrid,Other,9
+Hybrid,Quantitative/Analytics,1
+Hybrid,"Social Media/Digital",3
+Hybrid,Strategy/Planning/Management,4
+Hybrid,Technology,2
+I,Brand,16
+I,Communication,62
+I,Content/Writing,32
+I,"Graphic Design/Visual",37
+I,"Market Research",15
+I,Other,277
+I,Quantitative/Analytics,49
+I,Sales,74
+I,"Social Media/Digital",30
+I,Strategy/Planning/Management,127
+I,Technology,19
+II,Communication,6
+II,Content/Writing,4
+II,"Graphic Design/Visual",1
+II,"Market Research",3
+II,Other,5
+II,Quantitative/Analytics,2
+II,Sales,2
+II,"Social Media/Digital",4
+II,Strategy/Planning/Management,11
+II,Technology,3
+Immediate,Brand,1
+Immediate,Communication,3
+Immediate,Other,3
+Immediate,Quantitative/Analytics,2
+Immediate,Sales,3
+Immediate,Strategy/Planning/Management,4
+Immediate,Technology,2
+In,Brand,14
+In,Communication,56
+In,Content/Writing,31
+In,"Graphic Design/Visual",32
+In,"Market Research",13
+In,Other,214
+In,Quantitative/Analytics,47
+In,Sales,64
+In,"Social Media/Digital",27
+In,Strategy/Planning/Management,113
+In,Technology,17
+Influencer,"Graphic Design/Visual",1
+Influencer,Other,3
+Influencer,Quantitative/Analytics,3
+Influencer,Strategy/Planning/Management,5
+Is,Brand,13
+Is,Communication,51
+Is,Content/Writing,25
+Is,"Graphic Design/Visual",26
+Is,"Market Research",10
+Is,Other,144
+Is,Quantitative/Analytics,30
+Is,Sales,44
+Is,"Social Media/Digital",25
+Is,Strategy/Planning/Management,81
+Is,Technology,14
+IT,Brand,3
+IT,Communication,22
+IT,Content/Writing,18
+IT,"Graphic Design/Visual",12
+IT,"Market Research",4
+IT,Other,50
+IT,Quantitative/Analytics,7
+IT,Sales,14
+IT,"Social Media/Digital",13
+IT,Strategy/Planning/Management,32
+IT,Technology,5
+Junior,Brand,2
+Junior,Communication,12
+Junior,"Graphic Design/Visual",3
+Junior,"Market Research",4
+Junior,Other,20
+Junior,Quantitative/Analytics,17
+Junior,Sales,19
+Junior,"Social Media/Digital",4
+Junior,Strategy/Planning/Management,21
+Junior,Technology,5
+Law,Content/Writing,2
+Law,Other,4
+Law,Quantitative/Analytics,3
+Law,Strategy/Planning/Management,1
+Level,Brand,4
+Level,Communication,30
+Level,Content/Writing,3
+Level,"Graphic Design/Visual",4
+Level,"Market Research",3
+Level,Other,52
+Level,Quantitative/Analytics,13
+Level,Sales,40
+Level,"Social Media/Digital",4
+Level,Strategy/Planning/Management,31
+Level,Technology,3
+Liaison,Other,7
+Liaison,Sales,1
+Liaison,Strategy/Planning/Management,1
+Lifecycle,Other,3
+Lifecycle,Quantitative/Analytics,2
+Lifecycle,"Social Media/Digital",1
+Lifecycle,Strategy/Planning/Management,6
+Lobby,Communication,1
+Local,Brand,1
+Local,Communication,1
+Local,"Graphic Design/Visual",1
+Local,Other,3
+Local,Strategy/Planning/Management,4
+Luxury,Communication,1
+Luxury,Other,4
+Luxury,Sales,2
+Manager,Brand,4
+Manager,Communication,15
+Manager,Content/Writing,2
+Manager,"Graphic Design/Visual",4
+Manager,"Market Research",5
+Manager,Other,57
+Manager,Quantitative/Analytics,6
+Manager,Sales,26
+Manager,"Social Media/Digital",5
+Manager,Strategy/Planning/Management,45
+Manager,Technology,3
+Marketing,Brand,14
+Marketing,Communication,46
+Marketing,Content/Writing,30
+Marketing,"Graphic Design/Visual",31
+Marketing,"Market Research",12
+Marketing,Other,166
+Marketing,Quantitative/Analytics,31
+Marketing,Sales,58
+Marketing,"Social Media/Digital",26
+Marketing,Strategy/Planning/Management,92
+Marketing,Technology,12
+Media,Brand,1
+Media,Communication,3
+Media,Content/Writing,2
+Media,"Graphic Design/Visual",7
+Media,Other,4
+Media,Quantitative/Analytics,2
+Media,Sales,3
+Media,"Social Media/Digital",6
+Media,Strategy/Planning/Management,4
+Media,Technology,4
+Meetings,Brand,1
+Meetings,Communication,4
+Meetings,Other,4
+Meetings,Strategy/Planning/Management,2
+Member,Communication,2
+Member,Content/Writing,2
+Member,"Graphic Design/Visual",2
+Member,Other,10
+Member,Quantitative/Analytics,1
+Member,Sales,5
+Member,"Social Media/Digital",1
+Member,Strategy/Planning/Management,7
+Member,Technology,1
+Membership,Communication,1
+Membership,Content/Writing,2
+Membership,"Graphic Design/Visual",2
+Membership,Other,7
+Membership,Quantitative/Analytics,1
+Membership,Sales,2
+Membership,"Social Media/Digital",1
+Membership,Strategy/Planning/Management,6
+Membership,Technology,1
+MERCHANDISER,Communication,1
+MERCHANDISER,"Graphic Design/Visual",3
+MERCHANDISER,Other,1
+MERCHANDISER,Sales,2
+MERCHANDISER,Strategy/Planning/Management,2
+National,Communication,1
+National,"Graphic Design/Visual",1
+National,Other,4
+National,Sales,2
+National,Strategy/Planning/Management,1
+Needed,Communication,1
+Needed,"Graphic Design/Visual",1
+Needed,Other,1
+Needed,Sales,1
+Needed,"Social Media/Digital",4
+Needed,Strategy/Planning/Management,4
+No,Communication,5
+No,Content/Writing,2
+No,"Graphic Design/Visual",1
+No,Other,12
+No,Quantitative/Analytics,4
+No,Sales,1
+No,"Social Media/Digital",4
+No,Strategy/Planning/Management,9
+No,Technology,1
+NONPROFIT,Communication,4
+NONPROFIT,Other,1
+NONPROFIT,Strategy/Planning/Management,5
+of,Brand,2
+of,Communication,16
+of,Content/Writing,1
+of,"Graphic Design/Visual",1
+of,"Market Research",2
+of,Other,14
+of,Quantitative/Analytics,2
+of,Sales,2
+of,"Social Media/Digital",3
+of,Strategy/Planning/Management,18
+Office,Communication,7
+Office,Other,10
+Office,Quantitative/Analytics,2
+Office,Sales,1
+Office,Strategy/Planning/Management,7
+Onboarding,Communication,1
+Onboarding,Content/Writing,2
+Onboarding,"Graphic Design/Visual",2
+Onboarding,Other,1
+Onboarding,Sales,1
+Onboarding,"Social Media/Digital",1
+Onboarding,Strategy/Planning/Management,6
+Online,Communication,1
+Online,Other,9
+Online,Quantitative/Analytics,1
+Online,Sales,5
+Online,Strategy/Planning/Management,1
+Onsite,Brand,1
+Onsite,Communication,1
+Onsite,"Market Research",1
+Onsite,Sales,2
+Onsite,"Social Media/Digital",5
+Onsite,Strategy/Planning/Management,3
+Operations,Communication,1
+Operations,Content/Writing,2
+Operations,"Graphic Design/Visual",1
+Operations,Other,6
+Operations,Quantitative/Analytics,2
+Operations,"Social Media/Digital",2
+Operations,Strategy/Planning/Management,8
+Operations,Technology,1
+Opportunity!,Communication,1
+Opportunity!,Content/Writing,1
+Opportunity!,"Graphic Design/Visual",1
+Opportunity!,"Market Research",1
+Opportunity!,Other,1
+Opportunity!,Quantitative/Analytics,2
+Opportunity!,Strategy/Planning/Management,7
+or,Brand,9
+or,Communication,43
+or,Content/Writing,18
+or,"Graphic Design/Visual",17
+or,"Market Research",7
+or,Other,135
+or,Quantitative/Analytics,37
+or,Sales,50
+or,"Social Media/Digital",17
+or,Strategy/Planning/Management,64
+or,Technology,10
+our,Communication,4
+our,Other,10
+our,Quantitative/Analytics,6
+our,Sales,1
+our,Strategy/Planning/Management,5
+Outreach,Communication,5
+Outreach,Content/Writing,1
+Outreach,Other,4
+Outreach,Quantitative/Analytics,1
+Outreach,Sales,1
+Paid,Communication,3
+Paid,"Graphic Design/Visual",2
+Paid,"Market Research",1
+Paid,Other,1
+Paid,Sales,4
+Paid,"Social Media/Digital",3
+Paid,Strategy/Planning/Management,7
+Paid,Technology,2
+Part,Brand,1
+Part,Communication,4
+Part,"Graphic Design/Visual",1
+Part,"Market Research",1
+Part,Sales,1
+Part,"Social Media/Digital",6
+Part,Strategy/Planning/Management,5
+Part,Technology,2
+Partner,Communication,3
+Partner,"Graphic Design/Visual",1
+Partner,"Market Research",1
+Partner,"Social Media/Digital",3
+Partner,Strategy/Planning/Management,2
+Partner,Technology,2
+Per,Communication,4
+Per,Content/Writing,2
+Per,"Graphic Design/Visual",1
+Per,Other,21
+Per,Quantitative/Analytics,2
+Per,Sales,1
+Per,"Social Media/Digital",5
+Per,Strategy/Planning/Management,14
+Per,Technology,1
+Personal,Other,7
+Personal,Strategy/Planning/Management,2
+Place,Brand,1
+Place,Communication,2
+Place,Other,2
+Place,Sales,1
+Place,Strategy/Planning/Management,4
+Planner,"Graphic Design/Visual",1
+Planner,"Market Research",1
+Planner,Other,3
+Planner,Strategy/Planning/Management,6
+Planners,"Graphic Design/Visual",1
+Planners,"Market Research",1
+Planners,Other,3
+Planners,Strategy/Planning/Management,6
+PNO,Other,6
+PNO,Quantitative/Analytics,2
+PNO,Strategy/Planning/Management,2
+PNO,Technology,1
+Position,Communication,2
+Position,"Graphic Design/Visual",1
+Position,Other,9
+Position,Sales,4
+Position,Strategy/Planning/Management,3
+PR,Brand,5
+PR,Communication,22
+PR,Content/Writing,7
+PR,"Graphic Design/Visual",6
+PR,"Market Research",8
+PR,Other,61
+PR,Quantitative/Analytics,8
+PR,Sales,34
+PR,"Social Media/Digital",9
+PR,Strategy/Planning/Management,37
+PR,Technology,4
+Pro,Communication,16
+Pro,Content/Writing,2
+Pro,"Graphic Design/Visual",2
+Pro,"Market Research",6
+Pro,Other,41
+Pro,Quantitative/Analytics,7
+Pro,Sales,14
+Pro,"Social Media/Digital",6
+Pro,Strategy/Planning/Management,30
+Pro,Technology,2
+Procurement,Communication,3
+Procurement,"Market Research",2
+Procurement,Other,2
+Procurement,Sales,1
+Procurement,Strategy/Planning/Management,2
+Product,Communication,9
+Product,Content/Writing,2
+Product,"Graphic Design/Visual",1
+Product,"Market Research",5
+Product,Other,16
+Product,Quantitative/Analytics,6
+Product,Sales,5
+Product,"Social Media/Digital",3
+Product,Strategy/Planning/Management,19
+Production,Other,7
+Production,Quantitative/Analytics,1
+Production,Strategy/Planning/Management,1
+Program,Communication,3
+Program,Content/Writing,1
+Program,Other,5
+Program,Quantitative/Analytics,1
+Program,Sales,1
+Program,Strategy/Planning/Management,3
+Project,Communication,4
+Project,"Graphic Design/Visual",1
+Project,Other,10
+Project,Quantitative/Analytics,1
+Project,Sales,3
+Project,Strategy/Planning/Management,11
+Project,Technology,2
+Promotional,Communication,1
+Promotional,Other,1
+Promotional,Sales,4
+Promotional,"Social Media/Digital",3
+Promotional,Strategy/Planning/Management,2
+Promotions,Communication,2
+Promotions,Other,1
+Promotions,Quantitative/Analytics,1
+Promotions,Strategy/Planning/Management,2
+PROPEL,Communication,2
+PROPEL,Content/Writing,1
+PROPEL,Other,2
+PROPEL,Sales,2
+PROPEL,Strategy/Planning/Management,3
+Protection,Other,5
+Protection,Quantitative/Analytics,1
+Protection,Sales,3
+Protection,Strategy/Planning/Management,1
+Provided,Communication,3
+Provided,Other,3
+Provided,Sales,1
+Public,Communication,9
+Public,"Graphic Design/Visual",1
+Public,Other,5
+Public,Sales,1
+Public,"Social Media/Digital",4
+Public,Strategy/Planning/Management,7
+Recruiter,Other,4
+Recruiter,Sales,4
+Recruiting,Communication,2
+Recruiting,Other,4
+Recruiting,Strategy/Planning/Management,2
+Recruitment,Communication,1
+Recruitment,Content/Writing,3
+Recruitment,"Graphic Design/Visual",1
+Recruitment,Other,2
+Recruitment,"Social Media/Digital",1
+Recruitment,Strategy/Planning/Management,4
+Region,Communication,2
+Region,"Graphic Design/Visual",1
+Region,"Market Research",1
+Region,Sales,1
+Region,"Social Media/Digital",3
+Region,Strategy/Planning/Management,4
+Regional,Communication,2
+Regional,"Graphic Design/Visual",1
+Regional,"Market Research",1
+Regional,Sales,1
+Regional,"Social Media/Digital",3
+Regional,Strategy/Planning/Management,4
+Regulatory,Communication,2
+Regulatory,Other,7
+Regulatory,Strategy/Planning/Management,2
+Relations,Communication,13
+Relations,"Graphic Design/Visual",1
+Relations,Other,11
+Relations,Sales,8
+Relations,"Social Media/Digital",4
+Relations,Strategy/Planning/Management,8
+Remote,Communication,7
+Remote,"Graphic Design/Visual",1
+Remote,"Market Research",4
+Remote,Other,25
+Remote,Quantitative/Analytics,8
+Remote,Sales,2
+Remote,"Social Media/Digital",4
+Remote,Strategy/Planning/Management,31
+Remote,Technology,2
+Rep,Brand,5
+Rep,Communication,13
+Rep,Content/Writing,1
+Rep,"Graphic Design/Visual",1
+Rep,"Market Research",2
+Rep,Other,23
+Rep,Quantitative/Analytics,1
+Rep,Sales,22
+Rep,"Social Media/Digital",1
+Rep,Strategy/Planning/Management,15
+Rep,Technology,1
+Representative,Brand,5
+Representative,Communication,13
+Representative,Content/Writing,1
+Representative,"Graphic Design/Visual",1
+Representative,"Market Research",2
+Representative,Other,23
+Representative,Quantitative/Analytics,1
+Representative,Sales,22
+Representative,"Social Media/Digital",1
+Representative,Strategy/Planning/Management,15
+Representative,Technology,1
+Research,"Market Research",1
+Research,Other,5
+Research,Quantitative/Analytics,2
+Research,Strategy/Planning/Management,1
+Research,Technology,1
+Resource,Communication,4
+Resource,Other,7
+Resource,Strategy/Planning/Management,4
+Resources,Communication,4
+Resources,Other,7
+Resources,Strategy/Planning/Management,4
+Retail,Brand,1
+Retail,Communication,1
+Retail,"Market Research",1
+Retail,Other,8
+Retail,Sales,6
+Retail,Strategy/Planning/Management,3
+Retailer,Communication,1
+Retailer,Other,4
+Retailer,Sales,2
+RO,Communication,18
+RO,Content/Writing,3
+RO,"Graphic Design/Visual",3
+RO,"Market Research",6
+RO,Other,45
+RO,Quantitative/Analytics,8
+RO,Sales,16
+RO,"Social Media/Digital",6
+RO,Strategy/Planning/Management,34
+RO,Technology,2
+S,Brand,15
+S,Communication,58
+S,Content/Writing,28
+S,"Graphic Design/Visual",34
+S,"Market Research",11
+S,Other,232
+S,Quantitative/Analytics,44
+S,Sales,68
+S,"Social Media/Digital",26
+S,Strategy/Planning/Management,107
+S,Technology,17
+Sales,Brand,3
+Sales,Communication,6
+Sales,"Graphic Design/Visual",2
+Sales,"Market Research",1
+Sales,Other,15
+Sales,Quantitative/Analytics,6
+Sales,Sales,21
+Sales,"Social Media/Digital",6
+Sales,Strategy/Planning/Management,16
+Sales,Technology,1
+Search,"Market Research",1
+Search,Other,5
+Search,Quantitative/Analytics,2
+Search,Strategy/Planning/Management,1
+Search,Technology,1
+Senior,Communication,1
+Senior,"Graphic Design/Visual",1
+Senior,Other,3
+Senior,Quantitative/Analytics,3
+Senior,"Social Media/Digital",4
+Senior,Strategy/Planning/Management,1
+Senior,Technology,2
+Service,Communication,2
+Service,Content/Writing,2
+Service,Other,4
+Service,Sales,7
+Service,Strategy/Planning/Management,3
+Services,Communication,2
+Services,Content/Writing,2
+Services,Other,1
+Services,Sales,4
+Services,Strategy/Planning/Management,2
+Showroom,Communication,1
+Showroom,"Graphic Design/Visual",1
+Showroom,Other,2
+Showroom,Sales,3
+Showroom,Strategy/Planning/Management,3
+SkinCare,Communication,1
+SkinCare,Other,4
+SkinCare,Sales,1
+SkinCare,Strategy/Planning/Management,2
+Social,Communication,3
+Social,Content/Writing,3
+Social,"Graphic Design/Visual",7
+Social,Other,2
+Social,Sales,4
+Social,"Social Media/Digital",6
+Social,Strategy/Planning/Management,3
+Social,Technology,2
+Sourcing,Communication,1
+Sourcing,Other,3
+Sourcing,Quantitative/Analytics,6
+Sourcing,Sales,1
+Sourcing,Strategy/Planning/Management,1
+Special,Brand,4
+Special,Communication,31
+Special,Content/Writing,20
+Special,"Graphic Design/Visual",20
+Special,"Market Research",6
+Special,Other,60
+Special,Quantitative/Analytics,22
+Special,Sales,19
+Special,"Social Media/Digital",22
+Special,Strategy/Planning/Management,47
+Special,Technology,9
+Specialist,Brand,4
+Specialist,Communication,31
+Specialist,Content/Writing,20
+Specialist,"Graphic Design/Visual",20
+Specialist,"Market Research",6
+Specialist,Other,60
+Specialist,Quantitative/Analytics,22
+Specialist,Sales,19
+Specialist,"Social Media/Digital",22
+Specialist,Strategy/Planning/Management,47
+Specialist,Technology,9
+Sporting,Communication,1
+Sporting,Other,1
+Sporting,Quantitative/Analytics,1
+Sporting,Strategy/Planning/Management,8
+Sports,Communication,4
+Sports,"Market Research",1
+Sports,Other,8
+Sports,Sales,6
+Sports,Strategy/Planning/Management,4
+St,Brand,13
+St,Communication,50
+St,Content/Writing,25
+St,"Graphic Design/Visual",25
+St,"Market Research",10
+St,Other,145
+St,Quantitative/Analytics,39
+St,Sales,45
+St,"Social Media/Digital",25
+St,Strategy/Planning/Management,80
+St,Technology,14
+Start,Brand,1
+Start,Communication,3
+Start,Other,3
+Start,Quantitative/Analytics,2
+Start,Sales,3
+Start,Strategy/Planning/Management,4
+Start,Technology,2
+State,Communication,1
+State,Other,3
+State,Sales,3
+State,Strategy/Planning/Management,2
+Store,Brand,1
+Store,Communication,1
+Store,"Graphic Design/Visual",1
+Store,Other,3
+Store,Strategy/Planning/Management,4
+Strategist,Brand,2
+Strategist,Communication,2
+Strategist,"Graphic Design/Visual",6
+Strategist,Other,4
+Strategist,Quantitative/Analytics,3
+Strategist,"Social Media/Digital",4
+Strategist,Strategy/Planning/Management,1
+Strategist,Technology,2
+Supervisory,Communication,2
+Supervisory,Other,7
+Supervisory,Strategy/Planning/Management,2
+Support,Brand,1
+Support,Communication,4
+Support,"Graphic Design/Visual",1
+Support,Other,6
+Support,Quantitative/Analytics,5
+Support,Sales,5
+Support,"Social Media/Digital",3
+Support,Strategy/Planning/Management,6
+Talent,Communication,4
+Talent,Other,1
+Talent,Strategy/Planning/Management,4
+Talent,Technology,1
+Team,Communication,1
+Team,Other,3
+Team,Sales,3
+Team,Strategy/Planning/Management,2
+TEC,Content/Writing,2
+TEC,Other,9
+TEC,Quantitative/Analytics,4
+TEC,Sales,3
+TEC,Strategy/Planning/Management,2
+Technology,Content/Writing,2
+Technology,Other,4
+Technology,Quantitative/Analytics,3
+Technology,Strategy/Planning/Management,1
+Time,Brand,4
+Time,Communication,11
+Time,Content/Writing,1
+Time,"Graphic Design/Visual",7
+Time,"Market Research",2
+Time,Other,10
+Time,Quantitative/Analytics,2
+Time,Sales,12
+Time,"Social Media/Digital",4
+Time,Strategy/Planning/Management,15
+Time,Technology,1
+to,Brand,9
+to,Communication,38
+to,Content/Writing,18
+to,"Graphic Design/Visual",19
+to,"Market Research",5
+to,Other,113
+to,Quantitative/Analytics,22
+to,Sales,38
+to,"Social Media/Digital",14
+to,Strategy/Planning/Management,54
+to,Technology,6
+Top,Content/Writing,2
+Top,Other,4
+Top,Quantitative/Analytics,3
+Top,Strategy/Planning/Management,1
+Training,Communication,5
+Training,"Graphic Design/Visual",2
+Training,"Market Research",1
+Training,Other,6
+Training,Quantitative/Analytics,2
+Training,Sales,6
+Training,"Social Media/Digital",3
+Training,Strategy/Planning/Management,10
+Training,Technology,2
+US,Brand,1
+US,Communication,16
+US,"Graphic Design/Visual",6
+US,"Market Research",1
+US,Other,36
+US,Quantitative/Analytics,13
+US,Sales,21
+US,"Social Media/Digital",4
+US,Strategy/Planning/Management,26
+US,Technology,2
+Virtual,Communication,2
+Virtual,Other,5
+Virtual,Quantitative/Analytics,1
+Virtual,Sales,1
+Virtual,Strategy/Planning/Management,2
+Visual,Communication,1
+Visual,"Graphic Design/Visual",3
+Visual,Other,1
+Visual,Sales,2
+Visual,Strategy/Planning/Management,2
+w,Communication,8
+w,Content/Writing,13
+w,"Graphic Design/Visual",8
+w,"Market Research",4
+w,Other,30
+w,Quantitative/Analytics,11
+w,Sales,9
+w,"Social Media/Digital",5
+w,Strategy/Planning/Management,23
+w,Technology,4
+WATCHMAN,Communication,1
+WATCHMAN,"Market Research",2
+WATCHMAN,Quantitative/Analytics,2
+WATCHMAN,Sales,1
+WATCHMAN,Strategy/Planning/Management,5
+We,Communication,1
+We,Content/Writing,4
+We,"Graphic Design/Visual",7
+We,"Market Research",1
+We,Other,8
+We,Quantitative/Analytics,7
+We,"Social Media/Digital",4
+We,Strategy/Planning/Management,9
+We,Technology,3
+Web,Content/Writing,4
+Web,"Graphic Design/Visual",5
+Web,Other,4
+Web,Quantitative/Analytics,3
+Web,"Social Media/Digital",1
+Web,Strategy/Planning/Management,1
+Web,Technology,3
+Wedding,"Graphic Design/Visual",1
+Wedding,"Market Research",1
+Wedding,Other,3
+Wedding,Strategy/Planning/Management,6
+West,Communication,1
+West,"Graphic Design/Visual",1
+West,Other,2
+West,Quantitative/Analytics,4
+West,"Social Media/Digital",3
+West,Strategy/Planning/Management,2
+Women's,Communication,3
+Women's,Other,11
+Women's,Quantitative/Analytics,2
+Women's,Sales,1
+Women's,Strategy/Planning/Management,4
+Work,Communication,2
+Work,Content/Writing,2
+Work,Other,1
+Work,Sales,4
+Work,Strategy/Planning/Management,2
+Writer,Content/Writing,8
+Writer,"Graphic Design/Visual",1
+Writer,Other,2
+Writer,Sales,1
+Writer,"Social Media/Digital",1
+Writer,Strategy/Planning/Management,3
+Writer,Technology,2
+YMCA,Other,6
+YMCA,Quantitative/Analytics,1
+YMCA,Sales,1
+YMCA,Technology,1
