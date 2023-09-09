@@ -1,4 +1,4 @@
-Drop Table job_scraping.skills;
+Drop Table job_scraping_database.skills;
 
 -- Create a temporary table to store the split values
 CREATE TABLE skills (
@@ -8,7 +8,7 @@ CREATE TABLE skills (
 -- Insert the split values into the temporary table
 INSERT INTO skills (skill_name)
 SELECT TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(Skills, ',', n), ',', -1)) AS skill
-FROM marketing_jobs_linkedin
+FROM marketing_jobs
 JOIN
 (
     SELECT 1 + units.i + tens.i * 10 AS n
@@ -25,32 +25,32 @@ SET SQL_SAFE_UPDATES = 0;
 
 Delete from skills where skill_name = " ";
 
-Alter table job_scraping.skills add column skill_id int auto_increment primary key first;
+Alter table job_scraping_database.skills add column skill_id int auto_increment primary key first;
 
 DELETE t1
 FROM skills t1
 JOIN skills t2 ON t1.skill_name = t2.skill_name
 where t1.skill_id > t2.skill_id;
 
-Alter table job_scraping.skills add column appearance_in_description int;
+Alter table job_scraping_database.skills add column appearance_in_description int;
 
-Alter table job_scraping.skills add column appearance_in_skill int;
+Alter table job_scraping_database.skills add column appearance_in_skill int;
 
-Alter table job_scraping.skills add column skill_group varchar(100);
+Alter table job_scraping_database.skills add column skill_group varchar(100);
 
-UPDATE job_scraping.skills AS s
+UPDATE job_scraping_database.skills AS s
 SET appearance_in_description = (
     SELECT COUNT(*)
-    FROM job_scraping.marketing_jobs_linkedin AS mj
-    WHERE mj.JobDescription LIKE CONCAT('%', s.skill_name, '%')
+    FROM job_scraping_database.marketing_jobs AS mj
+    WHERE mj.JobDescription COLLATE utf8mb4_general_ci LIKE CONCAT('%', s.skill_name COLLATE utf8mb4_general_ci, '%')
 );
 
 
-UPDATE job_scraping.skills AS s
+UPDATE job_scraping_database.skills AS s
 SET appearance_in_skill = (
     SELECT COUNT(*)
-    FROM job_scraping.marketing_jobs_linkedin AS mj
-    WHERE mj.Skills LIKE CONCAT('%', s.skill_name, '%')
+    FROM job_scraping_database.marketing_jobs AS mj
+    WHERE mj.Skills COLLATE utf8mb4_general_ci LIKE CONCAT('%', s.skill_name COLLATE utf8mb4_general_ci, '%')
 );
 
 Select Location, Count(*) as Count from job_scraping.marketing_jobs
