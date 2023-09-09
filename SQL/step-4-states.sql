@@ -1,13 +1,80 @@
 SELECT * FROM job_scraping.states;  
 
+CREATE TABLE `states` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `code` char(6) NOT NULL DEFAULT '',
+  `name` varchar(128) NOT NULL DEFAULT '',
+  PRIMARY KEY (`id`)
+);
+
+insert into states (code,name) values ('AL','Alabama');
+insert into states (code,name) values ('AK','Alaska');
+insert into states (code,name) values ('AZ','Arizona');
+insert into states (code,name) values ('AR','Arkansas');
+insert into states (code,name) values ('CA','California');
+insert into states (code,name) values ('CO','Colorado');
+insert into states (code,name) values ('CT','Connecticut');
+insert into states (code,name) values ('DE','Delaware');
+insert into states (code,name) values ('DC','District of Columbia');
+insert into states (code,name) values ('FL','Florida');
+insert into states (code,name) values ('GA','Georgia');
+insert into states (code,name) values ('HI','Hawaii');
+insert into states (code,name) values ('ID','Idaho');
+insert into states (code,name) values ('IL','Illinois');
+insert into states (code,name) values ('IN','Indiana');
+insert into states (code,name) values ('IA','Iowa');
+insert into states (code,name) values ('KS','Kansas');
+insert into states (code,name) values ('KY','Kentucky');
+insert into states (code,name) values ('LA','Louisiana');
+insert into states (code,name) values ('ME','Maine');
+insert into states (code,name) values ('MD','Maryland');
+insert into states (code,name) values ('MA','Massachusetts');
+insert into states (code,name) values ('MI','Michigan');
+insert into states (code,name) values ('MN','Minnesota');
+insert into states (code,name) values ('MS','Mississippi');
+insert into states (code,name) values ('MO','Missouri');
+insert into states (code,name) values ('MT','Montana');
+insert into states (code,name) values ('NE','Nebraska');
+insert into states (code,name) values ('NV','Nevada');
+insert into states (code,name) values ('NH','New Hampshire');
+insert into states (code,name) values ('NJ','New Jersey');
+insert into states (code,name) values ('NM','New Mexico');
+insert into states (code,name) values ('NY','New York');
+insert into states (code,name) values ('NC','North Carolina');
+insert into states (code,name) values ('ND','North Dakota');
+insert into states (code,name) values ('OH','Ohio');
+insert into states (code,name) values ('OK','Oklahoma');
+insert into states (code,name) values ('OR','Oregon');
+insert into states (code,name) values ('PA','Pennsylvania');
+insert into states (code,name) values ('RI','Rhode Island');
+insert into states (code,name) values ('SC','South Carolina');
+insert into states (code,name) values ('SD','South Dakota');
+insert into states (code,name) values ('TN','Tennessee');
+insert into states (code,name) values ('TX','Texas');
+insert into states (code,name) values ('UT','Utah');
+insert into states (code,name) values ('VT','Vermont');
+insert into states (code,name) values ('VA','Virginia');
+insert into states (code,name) values ('WA','Washington');
+insert into states (code,name) values ('WV','West Virginia');
+insert into states (code,name) values ('WI','Wisconsin');
+insert into states (code,name) values ('WY','Wyoming');
+insert into states (code,name) values ("Remote", "Remote");
+
 SET SQL_SAFE_UPDATES = 0;
 
-Alter table job_scraping.states add column number_of_jobs int;
+Alter table job_scraping_database.states add column number_of_jobs int;
 
-update job_scraping.states as s
+update job_scraping_database.states as s
 set number_of_jobs = (
     SELECT COUNT(*)
-    FROM job_scraping.marketing_jobs_linkedin AS mj
-    WHERE mj.Location LIKE CONCAT('%, ',  s.code)
+    FROM job_scraping_database.marketing_jobs AS mj
+    WHERE mj.Location COLLATE utf8mb4_general_ci LIKE CONCAT('%, ',  s.code COLLATE utf8mb4_general_ci) or concat("%, ", s.code COLLATE utf8mb4_general_ci, "%")
 );
+
+update job_scraping_database.states as s
+set number_of_jobs = (
+	select count(*) 
+    from job_scraping_database.marketing_jobs as mj
+    where mj.Location like "Remote"
+) where name = "Remote";
 
