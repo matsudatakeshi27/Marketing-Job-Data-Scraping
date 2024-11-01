@@ -14,7 +14,6 @@ This project showcases web scraping techniques, data cleaning, and preliminary d
 ## Table of Contents
 
 - [Features](#features)
-- [Technologies Used](#technologies-used)
 - [Data Collection](#data-collection)
 - [Results and Insights](#results-and-insights)
 - [Future Improvements](#future-improvements)
@@ -41,7 +40,7 @@ These fields help in identifying trends and understanding the requirements for m
 
 ## Results and Insights
 
-The data analysis and insights is summarized in this report: 
+The data analysis and insights is summarized in this report: https://docs.google.com/document/d/1j405LaMEFL8Ybdf56UMTQDEUZDZv2N0C2SqJ0Utf-C4/edit?usp_dm=false&tab=t.0
 
 ## Future Improvements
 
